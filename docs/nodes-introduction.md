@@ -9,7 +9,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-license:{ .lg .middle } **Node NFT Licenses**
+-   :material-license:{ .lg .middle } __Node NFT Licenses__
 
     ---
 
@@ -17,7 +17,7 @@
 
     [:octicons-arrow-right-24: Learn More](nodes/node-nft-licenses.md)
 
--   :material-bank-lock:{ .lg .middle } **Node Escrow**
+-   :material-shield-lock:{ .lg .middle } __Node Escrow__
 
     ---
 
@@ -25,7 +25,7 @@
 
     [:octicons-arrow-right-24: Explore Escrow](nodes/node-escrow.md)
 
--   :material-cash-multiple:{ .lg .middle } **Node Pricing Structure**
+-   :material-cash-multiple:{ .lg .middle } __Node Pricing Structure__
 
     ---
 
@@ -33,7 +33,7 @@
 
     [:octicons-arrow-right-24: View Pricing](nodes/node-pricing-structure.md)
 
--   :material-cart-arrow-down:{ .lg .middle } **How to Purchase Node**
+-   :material-cart-arrow-down:{ .lg .middle } __How to Purchase Node__
 
     ---
 

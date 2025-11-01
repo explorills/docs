@@ -9,13 +9,13 @@
 
 This is the first batch of Node NFT Licenses, limited to **12,000**. Once $EXPL distribution begins as an ERC-20 token through these initial Nodes, a new contract will be deployed for the second batch, bringing the total to **100,000 Nodes** across the entire explorills ecosystem.
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin: 30px 0;">
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin: 30px 0; flex-wrap: wrap;">
   <figure style="text-align: center;">
-    <img src="../assets/images/node01.png" alt="explorills Node NFT License ID 1" width="375" />
+    <img src="../../assets/images/node01.png" alt="explorills Node NFT License ID 1" width="375" />
     <figcaption><em>explorills Node NFT License ID 1</em></figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="../assets/images/node12000.png" alt="explorills Node NFT License ID 12000" width="375" />
+    <img src="../../assets/images/node12000.png" alt="explorills Node NFT License ID 12000" width="375" />
     <figcaption><em>explorills Node NFT License ID 12000</em></figcaption>
   </figure>
 </div>

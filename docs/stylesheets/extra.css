@@ -7,6 +7,7 @@
   --md-primary-fg-color--dark: #8a35c7;
   --md-accent-fg-color: #a147e1;
   --md-accent-fg-color--transparent: rgba(161, 71, 225, 0.1);
+  --border-radius: 6px;
 }
 
 /* Dark mode background and surface colors */
@@ -28,6 +29,25 @@
   --md-default-fg-color--light: #9e9e9e;
   --md-default-fg-color--lighter: #6e6e6e;
   --md-default-fg-color--lightest: #4e4e4e;
+}
+
+/* Global border radius for minimalistic design */
+* {
+  border-radius: inherit;
+}
+
+.md-typeset code,
+.md-typeset pre,
+.md-typeset kbd,
+.md-button,
+.md-search__input,
+.md-typeset .admonition,
+.md-typeset details,
+.md-typeset .grid.cards > :is(ul, ol) > li,
+.md-typeset table,
+.md-footer__link,
+img {
+  border-radius: var(--border-radius) !important;
 }
 
 /* Body and main content background */
@@ -53,17 +73,19 @@ body {
   box-shadow: 0 0 0.2rem rgba(161, 71, 225, 0.1), 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
 }
 
-/* Navigation tabs */
+/* Navigation tabs - Same glassmorphism as header */
 .md-tabs {
   background-color: #1d1d1d;
   backdrop-filter: none;
   transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+  position: relative;
 }
 
 .md-header--shadow ~ .md-container .md-tabs {
   background-color: rgba(29, 29, 29, 0.7) !important;
   backdrop-filter: blur(12px) saturate(180%);
   -webkit-backdrop-filter: blur(12px) saturate(180%);
+  box-shadow: 0 0 0.2rem rgba(161, 71, 225, 0.1), 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
 }
 
 /* Links */
@@ -107,7 +129,7 @@ body {
   box-shadow: 0 0 0 1px #a147e1, 0 4px 8px rgba(161, 71, 225, 0.2);
 }
 
-/* Admonitions */
+/* Admonitions - Use default colors, not brand pink */
 .md-typeset .admonition,
 .md-typeset details {
   border-left: 0.2rem solid #3a393c;
@@ -116,12 +138,27 @@ body {
 
 .md-typeset .admonition.info,
 .md-typeset details.info {
-  border-left-color: #a147e1;
+  border-left-color: #448aff;
 }
 
 .md-typeset .admonition.success,
 .md-typeset details.success {
-  border-left-color: #4caf50;
+  border-left-color: #00c853;
+}
+
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-left-color: #ff9100;
+}
+
+.md-typeset .admonition.danger,
+.md-typeset details.danger {
+  border-left-color: #ff5252;
+}
+
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-left-color: #00bfa5;
 }
 
 /* Buttons */
