@@ -67,3 +67,13 @@ extra:
       name: Explorills on LinkedIn
 
 copyright: Copyright &copy; 2025 Explorills
+
+nav:
+  - Home: index.md
+  - Core Objectives: core-objectives.md
+  - Nodes:
+      - Introduction: nodes-introduction.md
+      - Node NFT Licenses: nodes/node-nft-licenses.md
+      - Node Escrow: nodes/node-escrow.md
+      - Node Pricing Structure: nodes/node-pricing-structure.md
+      - How to Purchase Node: nodes/how-to-purchase-node.md
