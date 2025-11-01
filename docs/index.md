@@ -106,4 +106,4 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 ---
 
 !!! success "Next Steps"
-    The next page provides **explorills.network** initial core objectives
+    The next page provides **explorills.network** initial core objectives → [Core Objectives](core-objectives.md)
