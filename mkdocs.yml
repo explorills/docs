@@ -1,0 +1,79 @@
+site_name: Explorills Documentation
+site_url: https://docs.explorills.com
+site_description: Official documentation for Explorills - a decentralized, node-based ecosystem powered by $EXPL token
+site_author: Explorills
+repo_url: https://github.com/explorills/docs
+repo_name: explorills/docs
+
+theme:
+  name: material
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/explorills
+      name: Explorills on GitHub
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/explorills_main
+      name: Explorills on Twitter
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jaZ23J3NCc
+      name: Explorills Discord
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/explorills
+      name: Explorills on LinkedIn
+
+copyright: Copyright &copy; 2025 Explorills

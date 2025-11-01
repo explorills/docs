@@ -1,0 +1,109 @@
+# Introduction
+
+Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, built to establish a unified on-chain economy governed by its community. Through Node NFT Licenses, participants secure the network, earn rewards in $EXPL, and form the foundation of a transparent, incentive-driven infrastructure.
+
+<div style="text-align: center; margin: 30px 0;">
+  <img src="assets/images/logo.png" alt="Explorills Logo" width="125" />
+  <p><em>next-generation internet</em></p>
+</div>
+
+---
+
+## Navigation
+
+<div class="grid cards" markdown>
+
+-   :material-map-marker-path:{ .lg .middle } **Roadmap**
+
+    ---
+
+    Discover the strategic vision and development milestones
+
+    [:octicons-arrow-right-24: View Roadmap](roadmap)
+
+-   :material-server-network:{ .lg .middle } **Explorills Nodes**
+
+    ---
+
+    Learn about Node NFT Licenses and network participation
+
+    [:octicons-arrow-right-24: Explore Nodes](explorills-nodes)
+
+-   :material-card-account-details:{ .lg .middle } **TNO Cards**
+
+    ---
+
+    Understanding TNO Card functionality and benefits
+
+    [:octicons-arrow-right-24: Learn About TNO Cards](tno-cards)
+
+-   :material-cash-multiple:{ .lg .middle } **Tokenomics**
+
+    ---
+
+    $EXPL token economics, distribution, and utility
+
+    [:octicons-arrow-right-24: View Tokenomics](tokenomics)
+
+-   :material-chart-timeline-variant:{ .lg .middle } **Distribution Framework**
+
+    ---
+
+    Token distribution mechanisms and reward structure
+
+    [:octicons-arrow-right-24: Explore Framework](distribution-framework)
+
+-   :material-handshake:{ .lg .middle } **Collaborations**
+
+    ---
+
+    Partnership opportunities and collaboration programs
+
+    [:octicons-arrow-right-24: Get Involved](get-involved/collabs)
+
+-   :material-rocket-launch:{ .lg .middle } **Venture Opportunities**
+
+    ---
+
+    Investment and venture participation options
+
+    [:octicons-arrow-right-24: Explore Ventures](get-involved/venture-opportunities)
+
+</div>
+
+---
+
+## Official Links
+
+### Core Platforms
+
+| Platform | Link |
+|----------|------|
+| **Nodes** | [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes) |
+| **TNO Cards** | [mint.explorills.com](https://mint.explorills.com/) |
+| **Landing** | [explorills.com](https://explorills.com/) |
+| **GitHub** | [github.com/explorills](https://github.com/explorills) |
+| **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills) |
+| **Twitter** | [x.com/explorills_main](https://x.com/explorills_main) |
+| **Discord** | [discord.gg/jaZ23J3NCc](https://discord.gg/jaZ23J3NCc) |
+
+### Ecosystem Projects
+
+| Project | Link |
+|---------|------|
+| **Explorills Network** | [explorills.network](https://explorills.network/) |
+| **Explorills World** | [explorills.world](https://explorills.world/) |
+| **Blog** | [blog.explorills.com](https://blog.explorills.com/) |
+
+---
+
+## Support Resources
+
+- **Email**: [support@explorills.com](mailto:support@explorills.com)
+- **Discord**: [Join our community server](https://discord.gg/DMSSuPPrTV)
+  - For any inquiries, mention Admin User `orb.8888` in the General Chat or use directly **Support Tickets**
+
+---
+
+!!! success "Next Steps"
+    The next page provides **explorills.network** initial core objectives
