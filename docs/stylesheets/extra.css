@@ -78,14 +78,25 @@ body {
   background-color: #1d1d1d;
   backdrop-filter: none;
   transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
-  position: relative;
+  position: sticky;
+  top: 0;
+  z-index: 2;
 }
 
-.md-header--shadow ~ .md-container .md-tabs {
+/* Apply glassmorphism when page is scrolled */
+.md-header--shadow ~ .md-container .md-tabs,
+.md-tabs[data-md-state="shadow"] {
   background-color: rgba(29, 29, 29, 0.7) !important;
   backdrop-filter: blur(12px) saturate(180%);
   -webkit-backdrop-filter: blur(12px) saturate(180%);
   box-shadow: 0 0 0.2rem rgba(161, 71, 225, 0.1), 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+}
+
+/* Ensure tabs always have glassmorphism when header has shadow */
+body:not(.md-header--lifted) .md-header--shadow ~ .md-container .md-tabs {
+  background-color: rgba(29, 29, 29, 0.7) !important;
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
 }
 
 /* Links */
@@ -129,37 +140,8 @@ body {
   box-shadow: 0 0 0 1px #a147e1, 0 4px 8px rgba(161, 71, 225, 0.2);
 }
 
-/* Admonitions - Use default colors, not brand pink */
-.md-typeset .admonition,
-.md-typeset details {
-  border-left: 0.2rem solid #3a393c;
-  background-color: rgba(42, 42, 42, 0.3);
-}
-
-.md-typeset .admonition.info,
-.md-typeset details.info {
-  border-left-color: #448aff;
-}
-
-.md-typeset .admonition.success,
-.md-typeset details.success {
-  border-left-color: #00c853;
-}
-
-.md-typeset .admonition.warning,
-.md-typeset details.warning {
-  border-left-color: #ff9100;
-}
-
-.md-typeset .admonition.danger,
-.md-typeset details.danger {
-  border-left-color: #ff5252;
-}
-
-.md-typeset .admonition.tip,
-.md-typeset details.tip {
-  border-left-color: #00bfa5;
-}
+/* Admonitions - Use Material Design defaults only */
+/* No custom colors - let Material Design handle all admonition styling */
 
 /* Buttons */
 .md-button {

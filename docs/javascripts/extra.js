@@ -1,18 +1,23 @@
 // Open external links in new tab
 document.addEventListener('DOMContentLoaded', function() {
-  // Get all links
-  const links = document.querySelectorAll('a[href]');
+  const links = document.querySelectorAll('.md-content a[href^="http"]');
   
   links.forEach(link => {
-    const href = link.getAttribute('href');
+    const href = link.href;
+    const currentDomain = window.location.hostname;
     
-    // Check if link is external (not starting with # or /)
-    if (href && !href.startsWith('#') && !href.startsWith('/') && (href.startsWith('http://') || href.startsWith('https://'))) {
-      // Check if it's not an internal docs link
-      if (!href.includes('docs.explorills.com') && !href.includes('localhost') && !href.includes('127.0.0.1')) {
+    try {
+      const linkUrl = new URL(href);
+      // Only open in new tab if it's a different domain
+      if (linkUrl.hostname !== currentDomain && 
+          !linkUrl.hostname.includes('docs.explorills.com') && 
+          !linkUrl.hostname.includes('localhost') && 
+          !linkUrl.hostname.includes('127.0.0.1')) {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
       }
+    } catch (e) {
+      // Invalid URL, skip
     }
   });
 });
