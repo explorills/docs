@@ -7,52 +7,110 @@
 
 ## Upcoming Documentation
 
-<div class="grid cards" markdown>
+### 1. $EXPL Tokenomics Escrows Architecture
 
--   :material-lock-outline:{ .lg .middle } **1. $EXPL Tokenomics Escrows Architecture**
+:material-lock-outline:{ .lg } **Non-Custodial Escrow System**
 
-    ---
+Detailed architecture and mechanics of the non-custodial escrow system for $EXPL token distribution.
 
-    Detailed architecture and mechanics of the non-custodial escrow system for $EXPL token distribution.
+**Topics covered:**
 
--   :material-chart-line:{ .lg .middle } **2. Liquidity Mining Mechanics**
-
-    ---
-
-    Complete guide to liquidity mining operations, rewards calculation, and participation requirements.
-
--   :material-monitor-dashboard:{ .lg .middle } **3. explorills.network Dashboard**
-
-    ---
-
-    Comprehensive Web3 dashboard with integrated features
-    
-    **Upcoming sections:**
-    
-    :material-server: **Nodes Management** - Real-time monitoring, performance metrics, multi-node portfolio
-    
-    :material-forum: **Communication Channels** - Community messaging, announcements, Discord integration
-    
-    :material-water: **Liquidity Pool** - Add/remove liquidity, real-time statistics, ILP mechanics
-    
-    :material-vote: **Governance Voting** - On-chain proposals, vote delegation, historical records
-    
-    :material-chart-box: **Stats Section** - Ecosystem analytics, network health, token circulation
-
--   :material-gamepad-variant:{ .lg .middle } **4. explorills.world**
-
-    ---
-
-    Comprehensive game systems documentation:
-    
-    - **Character ability design & balance**
-    - **Combat system architecture**
-    - **Game economy design** (resource management, scarcity mechanics)
-    - **Lore-integrated mechanics**
-
-</div>
+- Escrow smart contract architecture
+- Automated distribution mechanisms
+- Security and audit procedures
+- Multi-chain escrow synchronization
 
 ---
 
-!!! info "Stay Updated"
-    Return to the [Home](../index.md) page or explore our [Official Links](official-links.md) to stay connected with the explorills ecosystem.
+### 2. Liquidity Mining Mechanics
+
+:material-chart-line:{ .lg } **Rewards & Participation Framework**
+
+Complete guide to liquidity mining operations, rewards calculation, and participation requirements.
+
+**Topics covered:**
+
+- Liquidity provider incentives
+- Rewards calculation formulas
+- Pool participation requirements
+- APY tracking and analytics
+
+---
+
+### 3. explorills.network Dashboard
+
+:material-monitor-dashboard:{ .lg } **Comprehensive Web3 Dashboard**
+
+A unified operational hub integrating all ecosystem features into one seamless platform.
+
+#### Core Dashboard Modules
+
+=== "Nodes Management"
+
+    :material-server: **Real-Time Node Operations**
+    
+    - Live node status monitoring
+    - Performance metrics and analytics
+    - Multi-node portfolio management
+    - Health checks and uptime tracking
+    - Activation and configuration tools
+
+=== "Communication Channels"
+
+    :material-forum: **Community Integration**
+    
+    - In-platform messaging system
+    - Official announcements feed
+    - Discord integration
+    - Direct support channels
+    - Community updates hub
+
+=== "Liquidity Pool"
+
+    :material-water: **Liquidity Management Interface**
+    
+    - Add/remove liquidity seamlessly
+    - Real-time pool statistics
+    - Impermanent Loss Protection (ILP) mechanics
+    - APY tracking and projections
+    - Position management dashboard
+
+=== "Governance Voting"
+
+    :material-vote: **On-Chain Governance System**
+    
+    - Active proposal submissions
+    - Vote delegation mechanisms
+    - Historical voting records
+    - Voting power calculations
+    - Governance analytics
+
+=== "Stats Section"
+
+    :material-chart-box: **Ecosystem Analytics**
+    
+    - Network health monitoring
+    - Token circulation metrics
+    - Node operator statistics
+    - Liquidity pool performance
+    - Real-time ecosystem overview
+
+---
+
+### 4. explorills.world
+
+:material-gamepad-variant:{ .lg } **Game Systems Documentation**
+
+Comprehensive documentation for the explorills.world gaming ecosystem.
+
+**Game Mechanics:**
+
+- **Character Ability Design & Balance** - Skill trees, progression systems, balancing framework
+- **Combat System Architecture** - Battle mechanics, damage calculations, PvP/PvE systems
+- **Game Economy Design** - Resource management, crafting, scarcity mechanics, item valuation
+- **Lore-Integrated Mechanics** - Story-driven gameplay, world-building elements, narrative systems
+
+---
+
+!!! tip "Stay Connected"
+    For the latest updates on documentation releases, visit the [Home](../index.md) page or check our [Official Links](official-links.md) to follow development progress.

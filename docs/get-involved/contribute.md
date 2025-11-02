@@ -114,11 +114,11 @@ The strength of explorills comes from our vibrant and diverse community of contr
 
 ---
 
-## Contact
+## Join Our Team
 
-If you'd like to contribute your skills to explorills, please contact:
+Interested in becoming part of Explorills? Reach out to us:
 
-**[team@explorills.com](mailto:team@explorills.com)**
+**[team@explorills.com](mailto:team@explorills.com){:target="_blank"}**
 
 ---
 

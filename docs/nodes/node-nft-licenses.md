@@ -139,14 +139,12 @@ explorills_Nodes
 
 ---
 
-## Contact
+## Additional Resources
 
-| | |
-|---|---|
-| **Main** | [explorills.com](https://explorills.com/){:target="_blank"} |
-| **Mint** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
-| **Contact** | [info@explorills.com](mailto:info@explorills.com) |
-| **Security** | [info@explorills.ai](mailto:info@explorills.ai) |
+| **Resource** | **Link** |
+|--------------|----------|
+| **Contact** | [info@explorills.com](mailto:info@explorills.com){:target="_blank"} |
+| **Security** | [info@explorills.ai](mailto:info@explorills.ai){:target="_blank"} |
 
 ---
 

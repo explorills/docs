@@ -87,7 +87,7 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 
 | Support Channel | Details |
 |----------------|---------|
-| **Email** | [support@explorills.com](mailto:support@explorills.com) |
+| **Email** | [support@explorills.com](mailto:support@explorills.com){:target="_blank"} |
 | **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"} |
 
 !!! tip "Quick Support"

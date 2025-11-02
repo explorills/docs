@@ -62,7 +62,13 @@ explorills is creating groundbreaking infrastructure for the decentralized futur
 
 For venture discussions, please contact:
 
-**[capital@explorills.com](mailto:capital@explorills.com)**
+## Get In Touch
+
+Ready to explore opportunities? Contact us at:
+
+**[capital@explorills.com](mailto:capital@explorills.com){:target="_blank"}**
+
+---
 
 ---
 
