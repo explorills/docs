@@ -119,10 +119,10 @@ body:not(.md-header--lifted) .md-header--shadow ~ .md-container .md-tabs {
 
 /* Code blocks and inline code */
 .md-typeset code {
-  background-color: rgba(161, 71, 225, 0.1);
+  background-color: #a147e133;
   color: #ffffff !important;
   padding: 0.1em 0.4em;
-  font-weight: 400;
+  font-weight: 450;
 }
 
 /* Code blocks (multi-line) */
