@@ -15,7 +15,7 @@
 
     Understanding Node licensing structure and ownership mechanics
 
-    [:octicons-arrow-right-24: Learn More](nodes/node-nft-licenses.md)
+    [:octicons-arrow-right-24: Learn More](node-nft-licenses.md)
 
 -   :material-shield-lock:{ .lg .middle } __Node Escrow__
 
@@ -23,7 +23,7 @@
 
     Secure escrow mechanisms for Node transactions and operations
 
-    [:octicons-arrow-right-24: Explore Escrow](nodes/node-escrow.md)
+    [:octicons-arrow-right-24: Explore Escrow](node-escrow.md)
 
 -   :material-cash-multiple:{ .lg .middle } __Node Pricing Structure__
 
@@ -31,7 +31,7 @@
 
     Comprehensive pricing tiers and economic framework
 
-    [:octicons-arrow-right-24: View Pricing](nodes/node-pricing-structure.md)
+    [:octicons-arrow-right-24: View Pricing](node-pricing-structure.md)
 
 -   :material-cart-arrow-down:{ .lg .middle } __How to Purchase Node__
 
@@ -39,7 +39,7 @@
 
     Step-by-step guide to acquiring your Node license
 
-    [:octicons-arrow-right-24: Purchase Guide](nodes/how-to-purchase-node.md)
+    [:octicons-arrow-right-24: Purchase Guide](how-to-purchase-node.md)
 
 </div>
 

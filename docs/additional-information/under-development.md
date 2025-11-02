@@ -33,7 +33,7 @@
     - **3.4 Voting**: On-chain governance voting, proposal submission, vote delegation, historical records
     - **3.5 Stats Section**: Ecosystem-wide statistics, user analytics, network health, token circulation metrics
 
--   :material-gamepad-variant:{ .lg .middle } **4. explorills.world Game Documentation**
+-   :material-gamepad-variant:{ .lg .middle } **4. explorills.world**
 
     ---
 

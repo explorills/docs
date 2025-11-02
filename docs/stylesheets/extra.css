@@ -1,5 +1,8 @@
 /* Custom Explorills Theme - Dark Mode Only */
 
+/* Import Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
 /* Root color variables */
 :root {
   --md-primary-fg-color: #a147e1;
@@ -8,6 +11,12 @@
   --md-accent-fg-color: #a147e1;
   --md-accent-fg-color--transparent: rgba(161, 71, 225, 0.1);
   --border-radius: 6px;
+}
+
+/* Apply Roboto font globally */
+body, .md-typeset {
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 400;
 }
 
 /* Dark mode background and surface colors */
@@ -111,9 +120,9 @@ body:not(.md-header--lifted) .md-header--shadow ~ .md-container .md-tabs {
 /* Code blocks and inline code */
 .md-typeset code {
   background-color: #a147e1;
-  color: #ffffff;
+  color: #ffffff !important;
   padding: 0.1em 0.4em;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 /* Code blocks (multi-line) */
@@ -157,8 +166,17 @@ body:not(.md-header--lifted) .md-header--shadow ~ .md-container .md-tabs {
   box-shadow: 0 0 0 1px #a147e1, 0 4px 8px rgba(161, 71, 225, 0.2);
 }
 
-/* Admonitions - Use Material Design defaults only */
-/* No custom colors - let Material Design handle all admonition styling */
+/* Admonitions - Minimalistic style */
+.md-typeset .admonition {
+  font-weight: 300;
+  padding: 0.6rem 0.8rem;
+}
+
+.md-typeset .admonition-title {
+  font-weight: 500;
+}
+
+/* Use Material Design defaults for colors */
 
 /* Buttons */
 .md-button {

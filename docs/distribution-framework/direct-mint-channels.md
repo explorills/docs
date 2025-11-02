@@ -53,7 +53,7 @@ A gamified feature on the explorills platform, offering mintable $EXPL and a ran
 
 ### 5. TNO (Tokenized NFT Offering)
 
-Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directly. More details are available in the [TNO Cards](../tno-cards/tno-introduction.md) section.
+Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directly. More details are available in the [TNO Cards](../tno-cards/introduction.md) section.
 
 **Key Features:**
 - :material-card-account-details: Four card tiers (Bronze, Silver, Gold, Diamond)

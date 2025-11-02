@@ -33,7 +33,7 @@
     
     Direct rewards for Node operators contributing to network security and operations
     
-    [:octicons-arrow-right-24: Learn about Nodes](../nodes-introduction.md)
+    [:octicons-arrow-right-24: Learn about Nodes](../nodes/introduction.md)
 
 === "explorills.ventures"
     **12,500,100,000 $EXPL**
@@ -88,7 +88,7 @@
     
     Early adoption through Tokenized NFT Offering
     
-    [:octicons-arrow-right-24: Learn about TNO Cards](../tno-cards/tno-introduction.md)
+    [:octicons-arrow-right-24: Learn about TNO Cards](../tno-cards/introduction.md)
 
 === "Mystery-Box"
     **12,500,100 $EXPL**

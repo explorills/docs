@@ -27,7 +27,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     Learn about Node NFT Licenses and network participation
 
-    [:octicons-arrow-right-24: Explore Nodes](nodes-introduction.md)
+    [:octicons-arrow-right-24: Explore Nodes](nodes/introduction.md)
 
 -   :material-card-account-details:{ .lg .middle } **TNO Cards**
 
@@ -35,7 +35,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     Understanding TNO Card functionality and benefits
 
-    [:octicons-arrow-right-24: Learn About TNO Cards](tno-cards/tno-introduction.md)
+    [:octicons-arrow-right-24: Learn About TNO Cards](tno-cards/introduction.md)
 
 -   :material-cash-multiple:{ .lg .middle } **Tokenomics**
 
@@ -43,7 +43,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     $EXPL token economics, distribution, and utility
 
-    [:octicons-arrow-right-24: View Tokenomics](tokenomics/tokenomics-introduction.md)
+    [:octicons-arrow-right-24: View Tokenomics](tokenomics/introduction.md)
 
 -   :material-chart-timeline-variant:{ .lg .middle } **Distribution Framework**
 
@@ -51,23 +51,23 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     Token distribution mechanisms and reward structure
 
-    [:octicons-arrow-right-24: Explore Framework](distribution-framework/distribution-master-map.md)
+    [:octicons-arrow-right-24: Explore Framework](distribution-framework/introduction.md)
 
--   :material-handshake:{ .lg .middle } **Collaborations**
+-   :material-handshake:{ .lg .middle } **Get Involved**
 
     ---
 
     Partnership opportunities and collaboration programs
 
-    [:octicons-arrow-right-24: Get Involved](get-involved/collabs.md)
+    [:octicons-arrow-right-24: Get Involved](get-involved/introduction.md)
 
--   :material-rocket-launch:{ .lg .middle } **Venture Opportunities**
+-   :material-link-variant:{ .lg .middle } **Additional Information**
 
     ---
 
-    Investment and venture participation options
+    Official links and upcoming documentation
 
-    [:octicons-arrow-right-24: Explore Ventures](get-involved/venture-opportunities.md)
+    [:octicons-arrow-right-24: View Resources](additional-information/introduction.md)
 
 </div>
 
