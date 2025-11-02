@@ -1,13 +1,13 @@
 # Core Objectives
 
-!!! info "Foundation Establishment"
-    explorills.network initial core objectives establish the foundation for a decentralized infrastructure, a strong community, active Node operators, and a sustainable economy supported by $EXPL liquidity and its balanced, diversified distribution. Contributing to the further growth of our ecosystem.
+!!! info "Foundation"
+    The initial core objectives of explorills.network lay the groundwork for a decentralized infrastructure, a vibrant community, active Node operators, and a sustainable economy backed by $EXPL liquidity and its balanced, diversified distribution - all contributing to the continued growth of our ecosystem.
 
 ---
 
 ## Development Roadmap
 
-### 1. Explorills.Network Platform
+### 1. Explorills.Network Dashboard
 
 A comprehensive Web3 dashboard serving as the unified operational hub for the entire Explorills ecosystem. This all-in-one platform integrates critical infrastructure components and user-facing features into a seamless horizontal interface.
 
@@ -17,15 +17,15 @@ A comprehensive Web3 dashboard serving as the unified operational hub for the en
     **Node Management & Monitoring**
     
     - Real-time Node status tracking and performance metrics
-    - Node license activation and configuration
+    - Node NFT License activation and configuration
     - Automated health checks and uptime monitoring
     - Multi-node portfolio management
     - Network participation analytics
 
-=== "Token Economics"
+=== "Tokenomics"
     **$EXPL Minting & Distribution**
     
-    - Direct $EXPL token minting through Node operations
+    - $EXPL minting through Node operations
     - Automated reward distribution mechanisms
     - Real-time minting rate calculations
     - Transaction history and analytics
@@ -93,11 +93,10 @@ Launching the primary $EXPL token distribution mechanism operated through Node i
 
 **Distribution Mechanics:**
 
-- :material-server-network: Node operators as distribution validators
-- :material-account-lock: Non-custodial escrow for trustless fund management
-- :material-timer-sand: Time-locked vesting schedules
-- :material-scale-balance: Fair allocation algorithms
-- :material-chart-gantt: Scheduled distribution batches with community oversight
+- :material-server-network: Each Node NFT license has its own distribution timeline
+- :material-account-lock: Trustless fund management is ensured through non-custodial escrow architecture
+- :material-timer-sand: Initially, no computational power is needed, only Node staking is required
+- :material-scale-balance: $EXPL minting permissions are issued every 24 hours of staking
 
 ---
 

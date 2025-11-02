@@ -17,7 +17,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     ---
 
-    Discover the strategic vision and development milestones
+    Explore the strategic vision and key development milestones.
 
     [:octicons-arrow-right-24: View Core Objectives](core-objectives.md)
 
@@ -41,7 +41,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     ---
 
-    $EXPL token economics, distribution, and utility
+    $EXPL tokenomics, distribution model, and utility
 
     [:octicons-arrow-right-24: View Tokenomics](tokenomics/introduction.md)
 
@@ -61,11 +61,19 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     [:octicons-arrow-right-24: Get Involved](get-involved/collabs.md)
 
+-   :material-gamepad-variant:{ .lg .middle } **explorills.world**
+
+    ---
+
+    Upcoming project resources, currently under development
+
+    [:octicons-arrow-right-24: View explorills.world](explorills-world/introduction.md)
+
 -   :material-link-variant:{ .lg .middle } **Additional Information**
 
     ---
 
-    Official links and upcoming documentation
+    Upcoming project resources, currently under development
 
     [:octicons-arrow-right-24: View Resources](additional-information/official-links.md)
 
@@ -79,8 +87,8 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
 | Platform | Link |
 |----------|------|
-| **Nodes** | [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"} |
-| **TNO Cards** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
+| **Nodes** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
+| **TNO Cards** | [https://mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze){:target="_blank"} |
 | **Landing** | [explorills.com](https://explorills.com/){:target="_blank"} |
 | **GitHub** | [github.com/explorills](https://github.com/explorills){:target="_blank"} |
 | **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills){:target="_blank"} |
