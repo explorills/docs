@@ -13,7 +13,7 @@ The Node Operators are the only ones who can mint the $EXPL, based on the main d
 
 ## TNO Purpose
 
-Before $EXPL is deployed as an ERC-20 token, Nodes go live, and the main distribution begins, the initial allocation of $EXPL is available through the Tokenized NFT Offering (TNO). Early adopters can acquire $EXPL via TNO cards at [mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze) to get involved in the project.
+Before $EXPL is deployed as an ERC-20 token, Nodes go live, and the main distribution begins, the initial allocation of $EXPL is available through the Tokenized NFT Offering (TNO). Early adopters can acquire $EXPL via TNO cards at [mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze){:target="_blank"} to get involved in the project.
 
 The TNO is capped at 771,000,000 $EXPL out of the total supply of 55,783,940,100. These TNO allocations will initially be used to deploy the liquidity pool on the explorills platform, establishing a fair entry point and market consistency, before the Nodes main distribution begins.
 

@@ -1,7 +1,7 @@
 # Node NFT Licenses
 
 !!! info "ERC721 Node Licenses"
-    Node NFT Licenses are ERC721 tokens accessible for public purchase via the fully decentralized and immutable smart contract "explorills_Nodes," deployed on [Ethereum](https://ethereum.org/) and [Flare](https://flare.network/) Networks. These licenses empower users to own personal Nodes, granting them mint permissions for $EXPL and access to all project events. The full contract architecture is outlined below.
+    Node NFT Licenses are ERC721 tokens accessible for public purchase via the fully decentralized and immutable smart contract "explorills_Nodes," deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} Networks. These licenses empower users to own personal Nodes, granting them mint permissions for $EXPL and access to all project events. The full contract architecture is outlined below.
 
 ---
 
@@ -78,7 +78,7 @@ ERC721 cross-chain contract with whitelist functionality, dual-escrow system and
 | **Compiler Version** | v0.8.24 |
 | **EVM Version** | London |
 | **Optimization** | Enabled (200 runs) |
-| **Networks** | [Ethereum](https://ethereum.org/en/), [Flare](https://flare.network/) |
+| **Networks** | [Ethereum](https://ethereum.org/en/){:target="_blank"}, [Flare](https://flare.network/){:target="_blank"} |
 
 ---
 
@@ -143,8 +143,8 @@ explorills_Nodes
 
 | | |
 |---|---|
-| **Main** | [explorills.com](https://explorills.com/) |
-| **Mint** | [mint.explorills.com](https://mint.explorills.com/) |
+| **Main** | [explorills.com](https://explorills.com/){:target="_blank"} |
+| **Mint** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
 | **Contact** | [info@explorills.com](mailto:info@explorills.com) |
 | **Security** | [info@explorills.ai](mailto:info@explorills.ai) |
 
@@ -158,21 +158,21 @@ explorills_Nodes
 
 **Verify at:**
 
-- [Etherscan.io](https://etherscan.io/address/0x468F1F91fc674e0161533363B13c2ccBE3769981#code)
-- [Flare Explorer](https://flare-explorer.flare.network/address/0x468F1F91fc674e0161533363B13c2ccBE3769981?tab=contract)
-- [Sourcify.dev](https://sourcify.dev/#/lookup/0x468F1F91fc674e0161533363B13c2ccBE3769981)
+- [Etherscan.io](https://etherscan.io/address/0x468F1F91fc674e0161533363B13c2ccBE3769981#code){:target="_blank"}
+- [Flare Explorer](https://flare-explorer.flare.network/address/0x468F1F91fc674e0161533363B13c2ccBE3769981?tab=contract){:target="_blank"}
+- [Sourcify.dev](https://sourcify.dev/#/lookup/0x468F1F91fc674e0161533363B13c2ccBE3769981){:target="_blank"}
 
 ### explorills_NodeEscrow
 
 **Address:** `0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4`
 
-**GitHub:** [explorills/node-escrow](https://github.com/explorills/node-escrow/tree/main)
+**GitHub:** [explorills/node-escrow](https://github.com/explorills/node-escrow/tree/main){:target="_blank"}
 
 ### explorills_BridgeEscrow
 
 **Address:** `0x129D9dce2326492d073D147762230e60c01e0f97`
 
-**GitHub:** [explorills/node-bridge-escrow](https://github.com/explorills/node-bridge-escrow/tree/main)
+**GitHub:** [explorills/node-bridge-escrow](https://github.com/explorills/node-bridge-escrow/tree/main){:target="_blank"}
 
 ---
 

@@ -13,13 +13,14 @@
 
 | Platform | Link |
 |----------|------|
-| **Nodes** | [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes) |
-| **TNO Cards** | [mint.explorills.com](https://mint.explorills.com/) |
-| **Landing** | [explorills.com](https://explorills.com/) |
-| **GitHub** | [github.com/explorills](https://github.com/explorills) |
-| **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills) |
-| **Twitter** | [x.com/explorills_main](https://x.com/explorills_main) |
-| **Discord** | [discord.gg/jaZ23J3NCc](https://discord.gg/jaZ23J3NCc) |
+| **Nodes** | [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"} |
+| **TNO Cards** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
+| **Landing** | [explorills.com](https://explorills.com/){:target="_blank"} |
+| **GitHub** | [github.com/explorills](https://github.com/explorills){:target="_blank"} |
+| **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills){:target="_blank"} |
+| **Twitter** | [x.com/explorills_main](https://x.com/explorills_main){:target="_blank"} |
+| **Discord** | [discord.gg/jaZ23J3NCc](https://discord.gg/jaZ23J3NCc){:target="_blank"} |
+| **Blog** | [blog.explorills.com](https://blog.explorills.com/){:target="_blank"} |
 
 ---
 
@@ -27,73 +28,8 @@
 
 | Project | Link |
 |---------|------|
-| **Explorills Network** | [explorills.network](https://explorills.network/) |
-| **Explorills World** | [explorills.world](https://explorills.world/) |
-
----
-
-## Social
-
-| Platform | Link |
-|----------|------|
-| **Blog** | [blog.explorills.com](https://blog.explorills.com/) |
-| **Community on X** | [Community](https://twitter.com/i/communities/1765084604057498018) |
-
----
-
-## Documentation Navigation
-
-<div class="grid cards" markdown>
-
--   :material-map-marker-path:{ .lg .middle } **Core Objectives**
-
-    ---
-
-    Strategic vision and roadmap
-    
-    [:octicons-arrow-right-24: View](../core-objectives.md)
-
--   :material-server-network:{ .lg .middle } **Nodes**
-
-    ---
-
-    Node NFT Licenses and operations
-    
-    [:octicons-arrow-right-24: Explore](../nodes-introduction.md)
-
--   :material-card-account-details:{ .lg .middle } **TNO Cards**
-
-    ---
-
-    Tokenized NFT Offering details
-    
-    [:octicons-arrow-right-24: Learn](../tno-cards/tno-introduction.md)
-
--   :material-cash-multiple:{ .lg .middle } **Tokenomics**
-
-    ---
-
-    $EXPL token economics
-    
-    [:octicons-arrow-right-24: View](../tokenomics/tokenomics-introduction.md)
-
--   :material-chart-timeline-variant:{ .lg .middle } **Distribution Framework**
-
-    ---
-
-    Token distribution mechanisms
-    
-    [:octicons-arrow-right-24: Explore](../distribution-framework/distribution-master-map.md)
-
--   :material-handshake:{ .lg .middle } **Get Involved**
-
-    ---
-
-    Collaborations and contributions
-    
-    [:octicons-arrow-right-24: Join](../get-involved/collabs.md)
-
-</div>
+| **Explorills Network** | [explorills.network](https://explorills.network/){:target="_blank"} |
+| **Explorills World** | [explorills.world](https://explorills.world/){:target="_blank"} |
 
 ---
 
@@ -102,7 +38,7 @@
 | Support Channel | Details |
 |----------------|---------|
 | **Email** | [support@explorills.com](mailto:support@explorills.com) |
-| **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV) |
+| **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"} |
 
 !!! tip "Quick Support"
     For any inquiries on Discord, mention Admin User **`orb.8888`** in the General Chat or use directly **Support Tickets**

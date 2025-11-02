@@ -75,32 +75,33 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
 ## Official Links
 
-### Core Platforms
+### Resources
 
 | Platform | Link |
 |----------|------|
-| **Nodes** | [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes) |
-| **TNO Cards** | [mint.explorills.com](https://mint.explorills.com/) |
-| **Landing** | [explorills.com](https://explorills.com/) |
-| **GitHub** | [github.com/explorills](https://github.com/explorills) |
-| **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills) |
-| **Twitter** | [x.com/explorills_main](https://x.com/explorills_main) |
-| **Discord** | [discord.gg/jaZ23J3NCc](https://discord.gg/jaZ23J3NCc) |
+| **Nodes** | [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"} |
+| **TNO Cards** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
+| **Landing** | [explorills.com](https://explorills.com/){:target="_blank"} |
+| **GitHub** | [github.com/explorills](https://github.com/explorills){:target="_blank"} |
+| **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills){:target="_blank"} |
+| **Twitter** | [x.com/explorills_main](https://x.com/explorills_main){:target="_blank"} |
+| **Discord** | [discord.gg/jaZ23J3NCc](https://discord.gg/jaZ23J3NCc){:target="_blank"} |
+
+| **Blog** | [blog.explorills.com](https://blog.explorills.com/){:target="_blank"} |
 
 ### Ecosystem Projects
 
 | Project | Link |
 |---------|------|
-| **Explorills Network** | [explorills.network](https://explorills.network/) |
-| **Explorills World** | [explorills.world](https://explorills.world/) |
-| **Blog** | [blog.explorills.com](https://blog.explorills.com/) |
+| **Explorills Network** | [explorills.network](https://explorills.network/){:target="_blank"} |
+| **Explorills World** | [explorills.world](https://explorills.world/){:target="_blank"} |
 
 ---
 
 ## Support Resources
 
 - **Email**: [support@explorills.com](mailto:support@explorills.com)
-- **Discord**: [Join our community server](https://discord.gg/DMSSuPPrTV)
+- **Discord**: [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"}
   - For any inquiries, mention Admin User `orb.8888` in the General Chat or use directly **Support Tickets**
 
 ---

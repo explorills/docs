@@ -3,13 +3,13 @@
 !!! info "Non-Custodial Escrow System"
     The Nodes escrow is a fully decentralized, non-custodial ERC721 escrow contract, "explorills_NodeEscrow" designed for token storage with automated release functionality. The following page details how it works along with the complete contract architecture.
 
-When users mint a Node on [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes), it is stored in the Nodes escrow under the minter address ownership. Once Nodes with IDs from **1 to 10,800** are minted, the escrow is automatically released, allowing users to pull their Nodes.
+When users mint a Node on [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}, it is stored in the Nodes escrow under the minter address ownership. Once Nodes with IDs from **1 to 10,800** are minted, the escrow is automatically released, allowing users to pull their Nodes.
 
 ---
 
 ## Verify Nodes Ownership
 
-1. Visit: [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes)
+1. Visit: [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}
 2. Connect wallet
 3. Click **"My Address Info"**
 4. Click on any Node ID
@@ -79,7 +79,7 @@ Non-custodial ERC721 escrow contract for explorills_Nodes tokens storage, with a
 | **Compiler Version** | v0.8.24 |
 | **EVM Version** | London |
 | **Optimization** | Enabled (200 runs) |
-| **Networks** | [Ethereum](https://ethereum.org/en/), [Flare](https://flare.network/) |
+| **Networks** | [Ethereum](https://ethereum.org/en/){:target="_blank"}, [Flare](https://flare.network/){:target="_blank"} |
 
 ---
 
@@ -116,8 +116,8 @@ explorills_NodeEscrow
 
 | | |
 |---|---|
-| **Main** | [explorills.com](https://explorills.com/) |
-| **Mint** | [mint.explorills.com](https://mint.explorills.com/) |
+| **Main** | [explorills.com](https://explorills.com/){:target="_blank"} |
+| **Mint** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
 | **Contact** | [info@explorills.com](mailto:info@explorills.com) |
 | **Security** | [info@explorills.ai](mailto:info@explorills.ai) |
 
@@ -129,15 +129,15 @@ explorills_NodeEscrow
 
 ### Verify at:
 
-- [Etherscan.io](https://etherscan.io/address/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4#code)
-- [Flare Explorer](https://flare-explorer.flare.network/address/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4?tab=contract)
-- [Sourcify.dev](https://sourcify.dev/#/lookup/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4)
+- [Etherscan.io](https://etherscan.io/address/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4#code){:target="_blank"}
+- [Flare Explorer](https://flare-explorer.flare.network/address/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4?tab=contract){:target="_blank"}
+- [Sourcify.dev](https://sourcify.dev/#/lookup/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4){:target="_blank"}
 
 ### Main Contract Integration
 
 **Address:** `0x468F1F91fc674e0161533363B13c2ccBE3769981`
 
-**GitHub:** [explorills/nodes](https://github.com/explorills/nodes)
+**GitHub:** [explorills/nodes](https://github.com/explorills/nodes){:target="_blank"}
 
 ---
 

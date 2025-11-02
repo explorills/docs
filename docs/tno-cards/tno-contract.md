@@ -1,7 +1,7 @@
 # TNO Contract
 
 !!! info "ERC-1155 TNO Cards"
-    TNO Cards, ERC-1155 tokens, are publicly available through the cross-chain and immutable "explorills_TNO" smart contract on [Ethereum](https://ethereum.org/) and [Flare](https://flare.network/) networks. Early adopters can obtain $EXPL via TNO Cards, enabling them to mint $EXPL as an ERC-20 token upon deployment. The contract architecture is detailed below.
+    TNO Cards, ERC-1155 tokens, are publicly available through the cross-chain and immutable "explorills_TNO" smart contract on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} networks. Early adopters can obtain $EXPL via TNO Cards, enabling them to mint $EXPL as an ERC-20 token upon deployment. The contract architecture is detailed below.
 
 ---
 
@@ -32,7 +32,7 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 | **Compiler Version** | v0.8.24 |
 | **EVM Version** | London |
 | **Optimization** | Enabled (200 runs) |
-| **Networks** | [Ethereum](https://ethereum.org/en/), [Flare](https://flare.network/) |
+| **Networks** | [Ethereum](https://ethereum.org/en/){:target="_blank"}, [Flare](https://flare.network/){:target="_blank"} |
 
 ---
 
@@ -54,8 +54,8 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 
 | | |
 |---|---|
-| **Main** | [explorills.com](https://explorills.com/) |
-| **Mint** | [mint.explorills.com](https://mint.explorills.com/) |
+| **Main** | [explorills.com](https://explorills.com/){:target="_blank"} |
+| **Mint** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
 | **Contact** | [info@explorills.com](mailto:info@explorills.com) |
 | **Security** | [info@explorills.ai](mailto:info@explorills.ai) |
 
@@ -67,10 +67,10 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 
 ### Verify at:
 
-- [Sourcify.dev](https://sourcify.dev/#/lookup/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059)
-- [Etherscan.io](https://etherscan.io/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059#code)
-- [Flarescan.com](https://flarescan.com/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059/contract/14/code?chainid=14)
-- [Flare Explorer](https://flare-explorer.flare.network/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059?tab=contract#address-tabs)
+- [Sourcify.dev](https://sourcify.dev/#/lookup/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059){:target="_blank"}
+- [Etherscan.io](https://etherscan.io/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059#code){:target="_blank"}
+- [Flarescan.com](https://flarescan.com/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059/contract/14/code?chainid=14){:target="_blank"}
+- [Flare Explorer](https://flare-explorer.flare.network/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059?tab=contract#address-tabs){:target="_blank"}
 
 ---
 

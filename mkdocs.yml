@@ -94,6 +94,8 @@ nav:
       - Distribution Master Map: distribution-framework/distribution-master-map.md
       - Node-Based Distribution: distribution-framework/node-based-distribution.md
       - Direct Mint Channels: distribution-framework/direct-mint-channels.md
+  - explorills.world:
+      - Introduction: explorills-world/world-introduction.md
   - Get Involved:
       - Collaborations: get-involved/collabs.md
       - Contribute: get-involved/contribute.md

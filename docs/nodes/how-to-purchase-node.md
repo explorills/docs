@@ -8,14 +8,14 @@ Mint directly from the preferred web browser using a Web3 wallet extension.
 
 - :material-laptop: Desktop computer with Chrome, Firefox, or Brave browser
 - :material-wallet: Web3 wallet extension installed (MetaMask recommended)
-  - [MetaMask Extension Link](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+  - [MetaMask Extension Link](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"}
 - :material-currency-usd: Sufficient cryptocurrency balance for minting + gas fees
 
 ---
 
 ### Step-by-Step Instructions
 
-1. Visit **[mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes)**
+1. Visit **[mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}**
 2. Click **"Connect Wallet"**
 3. Choose network (Ethereum or Flare)
 4. Select the quantity of Node NFT Licenses
@@ -45,24 +45,24 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 === "iOS Users"
     **MetaMask Mobile**
     
-    [:material-apple: App Store Download](https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202)
+    [:material-apple: App Store Download](https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202){:target="_blank"}
     
     ---
     
     **Bifrost Wallet**
     
-    [:material-apple: App Store Download](https://apps.apple.com/us/app/bifrost-wallet/id1577198351)
+    [:material-apple: App Store Download](https://apps.apple.com/us/app/bifrost-wallet/id1577198351){:target="_blank"}
 
 === "Android Users"
     **MetaMask Mobile**
     
-    [:material-google-play: Google Play Download](https://play.google.com/store/apps/details?id=io.metamask)
+    [:material-google-play: Google Play Download](https://play.google.com/store/apps/details?id=io.metamask){:target="_blank"}
     
     ---
     
     **Bifrost Wallet**
     
-    [:material-google-play: Google Play Download](https://play.google.com/store/apps/details?id=com.bifrostwallet.app)
+    [:material-google-play: Google Play Download](https://play.google.com/store/apps/details?id=com.bifrostwallet.app){:target="_blank"}
 
 ---
 
@@ -70,7 +70,7 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 
 1. Open your Web3 mobile wallet application
 2. Navigate to the browser function within your wallet app
-3. Enter the URL: **[mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes)**
+3. Enter the URL: **[mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}**
 4. Click **"Connect Wallet"**
 5. Choose network (Ethereum or Flare)
 6. Choose the quantity of Node NFT Licenses
@@ -88,7 +88,7 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 | Support Channel | Details |
 |----------------|---------|
 | **Email** | [support@explorills.com](mailto:support@explorills.com) |
-| **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV) |
+| **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"} |
 
 !!! tip "Quick Support"
     For any inquiries on Discord, mention Admin User **`orb.8888`** in the General Chat or use directly **Support Tickets**
@@ -99,7 +99,7 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 
 !!! warning "Security Guidelines"
     
-    ✅ **Always verify** you're on the official minting website **[mint.explorills.com](https://mint.explorills.com/)**
+    ✅ **Always verify** you're on the official minting website **[mint.explorills.com](https://mint.explorills.com/){:target="_blank"}**
     
     🔒 **Never share** your wallet seed phrase with anyone
     

@@ -42,7 +42,7 @@ The first million users who obtain HUB-verified status on the explorills platfor
 
 ### 4. Mystery Box
 
-A gamified feature on the explorills platform, offering mintable $EXPL and a range of prizes. Anyone can open it every 7 days. Currently, it's available exclusively on the [explorills Discord](https://discord.gg/DMSSuPPrTV).
+A gamified feature on the explorills platform, offering mintable $EXPL and a range of prizes. Anyone can open it every 7 days. Currently, it's available exclusively on the [explorills Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"}.
 
 **Key Features:**
 - :material-gift: Open once every 7 days
@@ -58,7 +58,7 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
 **Key Features:**
 - :material-card-account-details: Four card tiers (Bronze, Silver, Gold, Diamond)
 - :material-cash-multiple: 771,000,000 $EXPL total allocation
-- :material-shopping: Available at [mint.explorills.com](https://mint.explorills.com/#TNO-Bronze)
+- :material-shopping: Available at [mint.explorills.com](https://mint.explorills.com/#TNO-Bronze){:target="_blank"}
 
 ---
 

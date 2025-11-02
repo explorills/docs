@@ -40,7 +40,7 @@
 ## Timeline
 
 !!! note "Development Progress"
-    These sections are being actively developed and will be released progressively. Stay tuned to our [Discord](https://discord.gg/jaZ23J3NCc) and [X (Twitter)](https://x.com/explorills_main) for updates on documentation releases.
+    These sections are being actively developed and will be released progressively. Stay tuned to our [Discord](https://discord.gg/jaZ23J3NCc){:target="_blank"} and [X (Twitter)](https://x.com/explorills_main){:target="_blank"} for updates on documentation releases.
 
 ---
 
@@ -49,7 +49,7 @@
 Have suggestions for documentation topics? Contact us:
 
 - **Email**: [docs@explorills.com](mailto:docs@explorills.com)
-- **Discord**: [Join our community](https://discord.gg/DMSSuPPrTV)
+- **Discord**: [Join our community](https://discord.gg/DMSSuPPrTV){:target="_blank"}
 
 ---
 

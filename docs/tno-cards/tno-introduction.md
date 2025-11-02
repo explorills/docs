@@ -1,7 +1,7 @@
 # TNO Cards Introduction
 
 !!! info "Tokenized NFT Offering"
-    The Tokenized NFT Offering (TNO) Cards give early adopters the chance to acquire $EXPL at [mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze) and participate in the project. The TNO supply is limited to 771,000,000 $EXPL out of a total of 55,783,940,100. These TNO allocations will initially be used to deploy the liquidity pool on the explorills platform, establishing a fair entry point and market consistency, before the Nodes main distribution begins. This section includes a detailed walkthrough of TNO Cards, its contract, and a step-by-step guide on how to purchase them.
+    The Tokenized NFT Offering (TNO) Cards give early adopters the chance to acquire $EXPL at [mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze){:target="_blank"} and participate in the project. The TNO supply is limited to 771,000,000 $EXPL out of a total of 55,783,940,100. These TNO allocations will initially be used to deploy the liquidity pool on the explorills platform, establishing a fair entry point and market consistency, before the Nodes main distribution begins. This section includes a detailed walkthrough of TNO Cards, its contract, and a step-by-step guide on how to purchase them.
 
 ---
 
