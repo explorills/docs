@@ -70,6 +70,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
     Upcoming project resources, currently under development
 
     [:octicons-arrow-right-24: View Resources](additional-information/official-links.md)
+
 -   :material-gamepad-variant:{ .lg .middle } **explorills.world**
 
     ---
