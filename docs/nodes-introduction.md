@@ -39,7 +39,15 @@
 
     Step-by-step guide to acquiring your Node license
 
-    [:octicons-arrow-right-24: Purchase Guide](nodes/how-to-purchase-node.md)
+        [:octicons-arrow-right-24: Purchase Guide](nodes/how-to-purchase-node.md)
+
+</div>
+
+---
+
+!!! success "Next Section"
+    The upcoming section provides a detailed breakdown of explorills Tokenized NFT Offering - **TNO Cards** → [TNO Cards Introduction](tno-cards/tno-introduction.md)
+
 
 </div>
 

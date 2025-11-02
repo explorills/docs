@@ -35,7 +35,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     Understanding TNO Card functionality and benefits
 
-    [:octicons-arrow-right-24: Learn About TNO Cards](tno-cards)
+    [:octicons-arrow-right-24: Learn About TNO Cards](tno-cards/tno-introduction.md)
 
 -   :material-cash-multiple:{ .lg .middle } **Tokenomics**
 
@@ -43,7 +43,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     $EXPL token economics, distribution, and utility
 
-    [:octicons-arrow-right-24: View Tokenomics](tokenomics)
+    [:octicons-arrow-right-24: View Tokenomics](tokenomics/tokenomics-introduction.md)
 
 -   :material-chart-timeline-variant:{ .lg .middle } **Distribution Framework**
 
@@ -51,7 +51,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     Token distribution mechanisms and reward structure
 
-    [:octicons-arrow-right-24: Explore Framework](distribution-framework)
+    [:octicons-arrow-right-24: Explore Framework](distribution-framework/distribution-master-map.md)
 
 -   :material-handshake:{ .lg .middle } **Collaborations**
 
