@@ -9,17 +9,17 @@
 
 ---
 
-## Main Platforms
+## Resources
 
 | Platform | Link |
 |----------|------|
-| **Main Page** | [explorills.com](https://explorills.com/) |
-| **Mint** | [mint.explorills.com](https://mint.explorills.com/) |
-| **X (Twitter)** | [x.com/explorills_main](https://x.com/explorills_main) |
+| **Nodes** | [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes) |
+| **TNO Cards** | [mint.explorills.com](https://mint.explorills.com/) |
+| **Landing** | [explorills.com](https://explorills.com/) |
 | **GitHub** | [github.com/explorills](https://github.com/explorills) |
+| **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills) |
+| **Twitter** | [x.com/explorills_main](https://x.com/explorills_main) |
 | **Discord** | [discord.gg/jaZ23J3NCc](https://discord.gg/jaZ23J3NCc) |
-| **Community on X** | [Community](https://twitter.com/i/communities/1765084604057498018) |
-| **explorills Nodes** | [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes) |
 
 ---
 
@@ -27,13 +27,17 @@
 
 | Project | Link |
 |---------|------|
-| **explorills.network** | [explorills.network](https://explorills.network/) |
-| **explorills.world** | [explorills.world](https://explorills.world/) |
-| **explorills.shop** | [explorills.shop](https://explorills.shop/) |
-| **explorills.today** | [explorills.today](https://explorills.today/) |
-| **explorills.AI** | [explorills.ai](https://explorills.ai/) |
-| **explorills.ventures** | [explorills.ventures](https://explorills.ventures/) |
-| **explorills.care** | [explorills.care](https://explorills.care/) |
+| **Explorills Network** | [explorills.network](https://explorills.network/) |
+| **Explorills World** | [explorills.world](https://explorills.world/) |
+
+---
+
+## Social
+
+| Platform | Link |
+|----------|------|
+| **Blog** | [blog.explorills.com](https://blog.explorills.com/) |
+| **Community on X** | [Community](https://twitter.com/i/communities/1765084604057498018) |
 
 ---
 

@@ -7,8 +7,13 @@ document.addEventListener('DOMContentLoaded', function() {
   links.forEach(link => {
     const href = link.getAttribute('href');
     
-    // Skip if not an http/https link (anchors, mailto, etc.)
+    // Skip if not an http/https link (anchors, mailto, tel, etc.)
     if (!href || (!href.startsWith('http://') && !href.startsWith('https://'))) {
+      return;
+    }
+    
+    // Skip mailto and tel links
+    if (href.startsWith('mailto:') || href.startsWith('tel:')) {
       return;
     }
     

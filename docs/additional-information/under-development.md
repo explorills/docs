@@ -7,104 +7,31 @@
 
 ## Upcoming Documentation
 
-### 1. $EXPL Tokenomics Escrows Architecture
-
-Detailed architecture and mechanics of the non-custodial escrow system for $EXPL token distribution.
-
----
-
-### 2. Liquidity Mining Mechanics
-
-Complete guide to liquidity mining operations, rewards calculation, and participation requirements.
-
----
-
-### 3. explorills.network Dashboard
-
-Comprehensive overview of the Web3 dashboard and its integrated features.
-
-#### 3.1 Nodes Management
-
-- Real-time Node status monitoring
-- Performance metrics and analytics
-- Node activation and configuration
-- Multi-node portfolio management
-
-#### 3.2 Communication Channels
-
-- Community messaging systems
-- Announcement channels
-- Direct communication features
-- Integration with Discord and other platforms
-
-#### 3.3 Liquidity Pool Functionality
-
-- Add/remove liquidity interface
-- Real-time pool statistics
-- Impermanent Loss Protection (ILP) mechanics
-- Position management tools
-
-#### 3.4 Voting
-
-- On-chain governance voting
-- Proposal submission process
-- Vote delegation mechanisms
-- Historical voting records
-
-#### 3.5 Stats Section
-
-- Ecosystem-wide statistics
-- User-specific analytics
-- Network health indicators
-- Token circulation metrics
-
----
-
-## Additional Topics in Development
-
 <div class="grid cards" markdown>
 
--   :material-gift:{ .lg .middle } **Community Incentives**
+-   :material-lock-outline:{ .lg .middle } **1. $EXPL Tokenomics Escrows Architecture**
 
     ---
 
-    Reward programs for active community members
+    Detailed architecture and mechanics of the non-custodial escrow system for $EXPL token distribution.
 
--   :material-account-check:{ .lg .middle } **HUB-Verification**
-
-    ---
-
-    User verification process and benefits
-
--   :material-server-network:{ .lg .middle } **explorills Node-Hub**
+-   :material-chart-line:{ .lg .middle } **2. Liquidity Mining Mechanics**
 
     ---
 
-    Centralized Node operations interface
+    Complete guide to liquidity mining operations, rewards calculation, and participation requirements.
 
--   :material-lock:{ .lg .middle } **Escrow Mechanics**
-
-    ---
-
-    Detailed escrow system documentation
-
--   :material-vote:{ .lg .middle } **Decision-Hub**
+-   :material-monitor-dashboard:{ .lg .middle } **3. explorills.network Dashboard**
 
     ---
 
-    Governance decision-making platform
-
--   :material-account-group:{ .lg .middle } **Community Governance**
-
-    ---
-
-    Full governance framework details
-
--   :material-rocket-launch:{ .lg .middle } **explorills.ventures**
-
-    ---
-
-    Venture program documentation
+    Comprehensive overview of the Web3 dashboard and its integrated features:
+    
+    - **3.1 Nodes Management**: Real-time status monitoring, performance metrics, activation, and multi-node portfolio management
+    - **3.2 Communication Channels**: Community messaging, announcements, and Discord integration
+    - **3.3 Liquidity Pool Functionality**: Add/remove liquidity interface, real-time pool statistics, ILP mechanics, position management
+    - **3.4 Voting**: On-chain governance voting, proposal submission, vote delegation, historical records
+    - **3.5 Stats Section**: Ecosystem-wide statistics, user analytics, network health, token circulation metrics
 
 </div>
 

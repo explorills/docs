@@ -4,8 +4,8 @@
 
 | Allocation Category | Max. Supply $EXPL |
 |---------------------|-------------------|
-| **TNO Cards**[^1] | 771,000,000 |
-| **Node Operators**[^2] | 12,500,100,000 |
+| **TNO Cards** | 771,000,000 |
+| **Node Operators** | 12,500,100,000 |
 | **Node Referrals** | 1,250,010,000 |
 | **HUB-Verified User** | 1,250,010,000 |
 | **[explorills.ventures](https://explorills.ventures/)** | 12,500,100,000 |
@@ -14,14 +14,13 @@
 | **Developer Incentives** | 1,250,010,000 |
 | **Liquidity Mining** | 7,500,060,000 |
 | **Impermanent Loss Protection** | 3,750,030,000 |
-| **explorills Mystery-Box**[^3] | 12,500,100 |
+| **explorills Mystery-Box** | 12,500,100 |
 | **TOTAL** | **55,783,940,100** |
 
-[^1]: Tokenized NFT Offering - TNO cards are available to mint at: [mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze)
-
-[^2]: Node NFT Licenses are available to mint at: [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes)
-
-[^3]: Currently, explorills Mystery-Box is deployed in the community Discord, where users can open it once every 7 days and win various prizes, including $EXPL
+!!! info "Allocation Details"
+    - **TNO Cards**: Tokenized NFT Offering available at [mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze)
+    - **Node Operators**: Node NFT Licenses available at [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes)
+    - **Mystery-Box**: Deployed in community Discord, open once every 7 days for various prizes including $EXPL
 
 ---
 

@@ -13,13 +13,13 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
 <div class="grid cards" markdown>
 
--   :material-map-marker-path:{ .lg .middle } **Roadmap**
+-   :material-map-marker-path:{ .lg .middle } **Core Objectives**
 
     ---
 
     Discover the strategic vision and development milestones
 
-    [:octicons-arrow-right-24: View Roadmap](roadmap)
+    [:octicons-arrow-right-24: View Core Objectives](core-objectives.md)
 
 -   :material-server-network:{ .lg .middle } **Explorills Nodes**
 
@@ -27,7 +27,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     Learn about Node NFT Licenses and network participation
 
-    [:octicons-arrow-right-24: Explore Nodes](explorills-nodes)
+    [:octicons-arrow-right-24: Explore Nodes](nodes-introduction.md)
 
 -   :material-card-account-details:{ .lg .middle } **TNO Cards**
 
