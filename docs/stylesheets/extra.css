@@ -108,10 +108,27 @@ body:not(.md-header--lifted) .md-header--shadow ~ .md-container .md-tabs {
   color: #b865e8;
 }
 
-/* Code blocks */
+/* Code blocks and inline code */
 .md-typeset code {
+  background-color: #a147e1;
+  color: #ffffff;
+  padding: 0.1em 0.4em;
+  font-weight: 500;
+}
+
+/* Code blocks (multi-line) */
+.md-typeset pre > code {
   background-color: #2a2a2a;
-  color: #a147e1;
+  color: #e8e8e8;
+}
+
+/* Slightly off-white for contract architecture and large code blocks */
+.md-typeset pre {
+  background-color: #2a2a2a;
+}
+
+.md-typeset pre code {
+  color: #e8e8e8;
 }
 
 /* Borders and decorative lines */

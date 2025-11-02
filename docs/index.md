@@ -86,10 +86,11 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 | **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills){:target="_blank"} |
 | **Twitter** | [x.com/explorills_main](https://x.com/explorills_main){:target="_blank"} |
 | **Discord** | [discord.gg/jaZ23J3NCc](https://discord.gg/jaZ23J3NCc){:target="_blank"} |
-
 | **Blog** | [blog.explorills.com](https://blog.explorills.com/){:target="_blank"} |
 
-### Ecosystem Projects
+---
+
+## Ecosystem Projects
 
 | Project | Link |
 |---------|------|
@@ -100,9 +101,13 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
 ## Support Resources
 
-- **Email**: [support@explorills.com](mailto:support@explorills.com){:target="_blank"}
-- **Discord**: [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"}
-  - For any inquiries, mention Admin User `orb.8888` in the General Chat or use directly **Support Tickets**
+| Support Channel | Details |
+|----------------|---------|
+| **Email** | [support@explorills.com](mailto:support@explorills.com) |
+| **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"} |
+
+!!! tip "Quick Support"
+    For any inquiries on Discord, mention Admin User **`orb.8888`** in the General Chat or use directly **Support Tickets**
 
 ---
 

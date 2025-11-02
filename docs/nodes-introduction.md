@@ -39,7 +39,7 @@
 
     Step-by-step guide to acquiring your Node license
 
-        [:octicons-arrow-right-24: Purchase Guide](nodes/how-to-purchase-node.md)
+    [:octicons-arrow-right-24: Purchase Guide](nodes/how-to-purchase-node.md)
 
 </div>
 

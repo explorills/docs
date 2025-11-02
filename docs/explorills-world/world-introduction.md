@@ -1,64 +1,10 @@
-# explorills.world Introduction
+# explorills.world
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
-    <img src="../assets/images/logo.png" alt="explorills.world" width="150" />
-    <figcaption><em>next-generation gaming</em></figcaption>
+    <img src="../assets/images/logo.png" alt="Explorills Logo" width="150" />
+    <figcaption style="margin-top: 10px; font-size: 1.1em;"><strong>explorills.world</strong></figcaption>
   </figure>
-</div>
-
----
-
-!!! info "Game Systems Designer | World Builder | Mechanics Architect"
-    I design deep, interconnected game systems where every mechanic has purpose and every rule tells a story. My approach combines technical precision with narrative depth, creating economies, combat systems, and progression mechanics that feel intuitive yet offer mastery.
-
----
-
-## Currently Developing: explorills.world
-
-A cross-platform Web3 multiplayer game featuring:
-- **8 unique races** with distinct ability systems
-- **Unified Vitality economy**
-- **Molecular-level regeneration mechanics**
-
----
-
-## Core Design Philosophy
-
-<div class="grid cards" markdown>
-
--   :material-sword-cross:{ .lg .middle } **Character Ability Design & Balance**
-
-    ---
-
-    Deep, interconnected ability systems where each race offers unique gameplay
-    
-    Balanced for competitive and cooperative play
-
--   :material-shield-sword:{ .lg .middle } **Combat System Architecture**
-
-    ---
-
-    Technical precision meets narrative depth
-    
-    Intuitive mechanics with mastery potential
-
--   :material-cash-multiple:{ .lg .middle } **Game Economy Design**
-
-    ---
-
-    Resource management and scarcity mechanics
-    
-    Unified Vitality economy across the game world
-
--   :material-book-open-variant:{ .lg .middle } **Lore-Integrated Mechanics**
-
-    ---
-
-    Every mechanic tells a story
-    
-    Game systems that serve the narrative
-
 </div>
 
 ---
@@ -66,7 +12,12 @@ A cross-platform Web3 multiplayer game featuring:
 ## Upcoming Documentation
 
 !!! note "Coming Soon"
-    Detailed documentation for explorills.world game systems, mechanics, and economy will be added in future updates.
+    The following documentation pages for explorills.world are currently under development:
+    
+    - **Character ability design & balance**
+    - **Combat system architecture**
+    - **Game economy design** (resource management, scarcity mechanics)
+    - **Lore-integrated mechanics**
 
 ---
 

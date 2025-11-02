@@ -47,7 +47,7 @@ A gamified feature on the explorills platform, offering mintable $EXPL and a ran
 **Key Features:**
 - :material-gift: Open once every 7 days
 - :material-dice-multiple: Random $EXPL rewards
-- :material-discord: Available on Discord
+- :fontawesome-brands-discord: Available on Discord
 
 ---
 

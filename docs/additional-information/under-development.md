@@ -33,23 +33,18 @@
     - **3.4 Voting**: On-chain governance voting, proposal submission, vote delegation, historical records
     - **3.5 Stats Section**: Ecosystem-wide statistics, user analytics, network health, token circulation metrics
 
+-   :material-gamepad-variant:{ .lg .middle } **4. explorills.world Game Documentation**
+
+    ---
+
+    Comprehensive game systems documentation:
+    
+    - **Character ability design & balance**
+    - **Combat system architecture**
+    - **Game economy design** (resource management, scarcity mechanics)
+    - **Lore-integrated mechanics**
+
 </div>
-
----
-
-## Timeline
-
-!!! note "Development Progress"
-    These sections are being actively developed and will be released progressively. Stay tuned to our [Discord](https://discord.gg/jaZ23J3NCc){:target="_blank"} and [X (Twitter)](https://x.com/explorills_main){:target="_blank"} for updates on documentation releases.
-
----
-
-## Feedback
-
-Have suggestions for documentation topics? Contact us:
-
-- **Email**: [docs@explorills.com](mailto:docs@explorills.com)
-- **Discord**: [Join our community](https://discord.gg/DMSSuPPrTV){:target="_blank"}
 
 ---
 
