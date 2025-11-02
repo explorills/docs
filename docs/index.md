@@ -61,13 +61,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     [:octicons-arrow-right-24: Get Involved](get-involved/collabs.md)
 
--   :material-gamepad-variant:{ .lg .middle } **explorills.world**
 
-    ---
-
-    Upcoming project resources, currently under development
-
-    [:octicons-arrow-right-24: View explorills.world](explorills-world/introduction.md)
 
 -   :material-link-variant:{ .lg .middle } **Additional Information**
 
@@ -76,6 +70,13 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
     Upcoming project resources, currently under development
 
     [:octicons-arrow-right-24: View Resources](additional-information/official-links.md)
+-   :material-gamepad-variant:{ .lg .middle } **explorills.world**
+
+    ---
+
+    .world coming soon!
+
+    [:octicons-arrow-right-24: View explorills.world](explorills-world/introduction.md)
 
 </div>
 
