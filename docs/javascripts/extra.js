@@ -7,8 +7,13 @@ document.addEventListener('DOMContentLoaded', function() {
   links.forEach(link => {
     const href = link.getAttribute('href');
     
-    // Skip if not an http/https link (anchors, mailto, tel, etc.)
-    if (!href || (!href.startsWith('http://') && !href.startsWith('https://'))) {
+    // Skip if href is empty or starts with # (anchor links)
+    if (!href || href.startsWith('#')) {
+      return;
+    }
+    
+    // Skip relative links (documentation navigation) - these should always stay in same tab
+    if (!href.startsWith('http://') && !href.startsWith('https://')) {
       return;
     }
     
@@ -20,12 +25,12 @@ document.addEventListener('DOMContentLoaded', function() {
     try {
       const linkUrl = new URL(href);
       const hostname = linkUrl.hostname;
+      const currentHostname = window.location.hostname;
       
-      // Check if link is to docs.explorills.com or staging domain
-      const isInternalDomain = hostname === 'docs.explorills.com' || 
-                               hostname === 'staging-all-access-docs.explorills.com' ||
-                               hostname === 'localhost' ||
-                               hostname === '127.0.0.1';
+      // Check if link is to the same domain as current page
+      const isInternalDomain = hostname === currentHostname || 
+                               hostname === 'docs.explorills.com' || 
+                               hostname === 'staging-all-access-docs.explorills.com';
       
       // If NOT internal domain, open in new tab
       if (!isInternalDomain) {
