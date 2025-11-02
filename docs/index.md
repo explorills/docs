@@ -59,7 +59,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     Partnership opportunities and collaboration programs
 
-    [:octicons-arrow-right-24: Get Involved](get-involved/collabs)
+    [:octicons-arrow-right-24: Get Involved](get-involved/collabs.md)
 
 -   :material-rocket-launch:{ .lg .middle } **Venture Opportunities**
 
@@ -67,7 +67,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
     Investment and venture participation options
 
-    [:octicons-arrow-right-24: Explore Ventures](get-involved/venture-opportunities)
+    [:octicons-arrow-right-24: Explore Ventures](get-involved/venture-opportunities.md)
 
 </div>
 
