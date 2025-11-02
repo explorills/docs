@@ -1,0 +1,131 @@
+# Contribute to explorills
+
+## Get Involved with explorills
+
+<div style="text-align: center; margin: 40px 0;">
+  <figure style="display: inline-block;">
+    <img src="../../assets/images/logo.png" alt="explorills - Get Involved" width="200" />
+    <figcaption><em>Get Involved</em></figcaption>
+  </figure>
+</div>
+
+!!! quote "Community-Driven Ecosystem"
+    explorills is a community-driven ecosystem that thrives on participation from various stakeholders. We welcome individuals and organizations who share our vision of building a next-gen decentralized internet that fundamentally redistributes power and opportunity to everyone.
+
+---
+
+The strength of explorills comes from our vibrant and diverse community of contributors, welcoming talent from all fields.
+
+---
+
+## Development
+
+<div class="grid cards" markdown>
+
+-   :material-code-braces:{ .lg .middle } **Smart Contract Engineering**
+
+    ---
+
+    Solidity development
+    
+    Protocol architecture
+
+-   :material-web:{ .lg .middle } **Frontend/UI Development**
+
+    ---
+
+    React, Vue, or Angular
+    
+    Web3 integrations
+
+-   :material-server:{ .lg .middle } **Backend Infrastructure**
+
+    ---
+
+    API development
+    
+    Database architecture
+
+-   :material-shield-check:{ .lg .middle } **Testing & Security**
+
+    ---
+
+    Smart contract auditing
+    
+    Security best practices
+
+</div>
+
+---
+
+## Community & Content
+
+<div class="grid cards" markdown>
+
+-   :material-account-group:{ .lg .middle } **Community Management**
+
+    ---
+
+    Discord moderation
+    
+    Community engagement
+
+-   :material-file-document-edit:{ .lg .middle } **Content Creation**
+
+    ---
+
+    Technical writing
+    
+    Video tutorials
+
+-   :material-school:{ .lg .middle } **Education & Tutorials**
+
+    ---
+
+    Educational content
+    
+    User guides
+
+</div>
+
+---
+
+## Design & UX
+
+<div class="grid cards" markdown>
+
+-   :material-palette:{ .lg .middle } **Visual Assets**
+
+    ---
+
+    Graphic design
+    
+    Brand illustrations
+
+-   :material-monitor-dashboard:{ .lg .middle } **Interface Improvements**
+
+    ---
+
+    UX research
+    
+    UI/UX design
+
+</div>
+
+---
+
+## Contact
+
+If you'd like to contribute your skills to explorills, please contact:
+
+**[team@explorills.com](mailto:team@explorills.com)**
+
+---
+
+!!! success "Contributor Philosophy"
+    We carefully review every inquiry and respond promptly, with a focus on developing partnerships that complement explorills core values and strategic direction. **Looking forward to shape the future of decentralized technology together with you!**
+
+---
+
+!!! info "Stay Connected"
+    Stay connected with the **explorills** community through our [Official Links](../additional-information/official-links.md)
