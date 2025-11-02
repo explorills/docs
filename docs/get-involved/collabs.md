@@ -72,17 +72,11 @@ We're actively seeking collabs with projects that complement the explorills ecos
 
 ---
 
-## Contact
-
-If your project is interested in collaborating with explorills, reach out to us at:
-
 ## Get In Touch
 
 Interested in collaborating? Reach out to us:
 
 **[collabs@explorills.com](mailto:collabs@explorills.com){:target="_blank"}**
-
----
 
 ---
 

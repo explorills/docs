@@ -1,7 +1,7 @@
 # Under Development
 
 !!! info "Coming Soon"
-    The following sections are currently under development and will be added to the documentation in future updates.
+    The following sections are currently under development and will be added to the documentation as they roll out.
 
 ---
 

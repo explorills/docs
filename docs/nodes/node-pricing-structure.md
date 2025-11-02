@@ -141,4 +141,4 @@
 ---
 
 !!! success "Next Section"
-    The next page will provide instructions on how to obtain one
+    The next page will provide instructions on how to secure your Node NFT License

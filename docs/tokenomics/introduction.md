@@ -1,6 +1,6 @@
 # Tokenomics Introduction
 
-!!! info "Token Economics Framework"
+!!! info "Tokenomics Framework"
     The $EXPL tokenomics framework is structured across several allocation categories, such as Tokenized NFT Offering, Node operation incentives, user rewards, non-custodial escrows, community funds, and liquidity support. The total supply is capped at 55,783,940,100 $EXPL, which is gradually introduced into the ecosystem through Node-Based Distribution and direct mint channels.
 
 ---

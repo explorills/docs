@@ -94,7 +94,7 @@ Launching the primary $EXPL token distribution mechanism operated through Node i
 **Distribution Mechanics:**
 
 - :material-server-network: Each Node NFT license has its own distribution timeline
-- :material-account-lock: Trustless fund management is ensured through non-custodial escrow architecture
+- :material-account-lock: Trustless fund management is ensured through non-custodial escrows architecture
 - :material-timer-sand: Initially, no computational power is needed, only Node staking is required
 - :material-scale-balance: $EXPL minting permissions are issued every 24 hours of staking
 

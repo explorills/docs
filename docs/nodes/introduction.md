@@ -1,7 +1,7 @@
 # Nodes Introduction
 
-!!! info "Foundation of the Ecosystem"
-    explorills Nodes serve as the foundation of the entire ecosystem, powering everything deployed within the space. The Nodes are operated by community members, and each Node generates daily mint permissions for $EXPL through an immutable smart contract. This decentralized approach eliminates reliance on traditional corporate entities, enabling a secure and transparent environment for building products tailored to end users. Furthermore, it fosters the development of a stable and sustainable economic model that benefits the entire space through $EXPL.
+!!! info "Obtain One"
+    explorills Nodes serve as the foundation of the entire ecosystem, powering everything deployed within the space. The Nodes are operated by community members, and each Node generates daily mint permissions for $EXPL through an immutable smart contracts. This decentralized approach eliminates reliance on traditional corporate entities, enabling a secure and transparent environment for building products tailored to the end-users. Furthermore, it fosters the development of a stable and sustainable economic model that benefits the entire space through $EXPL.
 
 ---
 
@@ -37,13 +37,10 @@
 
     ---
 
-    Step-by-step guide to acquiring your Node license
+    Step-by-step guide to acquiring your Node NFT License
 
     [:octicons-arrow-right-24: Purchase Guide](how-to-purchase-node.md)
 
 </div>
 
----
 
-!!! success "Next Section"
-    The upcoming section provides a detailed breakdown of explorills Tokenized NFT Offering - **TNO Cards**
