@@ -76,30 +76,32 @@ nav:
   - Home: index.md
   - Core Objectives: core-objectives.md
   - Nodes:
-      - Introduction: nodes/introduction.md
+      - Nodes Introduction: nodes/introduction.md
       - Node NFT Licenses: nodes/node-nft-licenses.md
       - Node Escrow: nodes/node-escrow.md
       - Node Pricing Structure: nodes/node-pricing-structure.md
       - How to Purchase Node: nodes/how-to-purchase-node.md
   - TNO Cards:
-      - Introduction: tno-cards/introduction.md
+      - TNO Introduction: tno-cards/introduction.md
       - TNO Contract: tno-cards/tno-contract.md
       - TNO Cards Pricing: tno-cards/tno-cards-pricing.md
       - How to Mint TNO Cards: tno-cards/how-to-mint-tno-cards.md
   - Tokenomics:
-      - Introduction: tokenomics/introduction.md
+      - Tokenomics Introduction: tokenomics/introduction.md
       - General Overview: tokenomics/general-overview.md
       - Supply & Allocation: tokenomics/supply.md
   - Distribution Framework:
-      - Introduction: distribution-framework/introduction.md
+      - Distribution Master Map: distribution-framework/introduction.md
       - Node-Based Distribution: distribution-framework/node-based-distribution.md
       - Direct Mint Channels: distribution-framework/direct-mint-channels.md
   - Get Involved:
-      - Collaborations: get-involved/collabs.md
       - Contribute: get-involved/contribute.md
+      - Collaborations: get-involved/collabs.md
       - Venture Opportunities: get-involved/venture-opportunities.md
   - Additional Information:
-      - Official Links: additional-information/official-links.md
       - Under Development: additional-information/under-development.md
+      - Official Links: additional-information/official-links.md      
   - explorills.world:
-      - Introduction: explorills-world/introduction.md
+      - .world coming soon: explorills-world/introduction.md
+
+

@@ -99,18 +99,14 @@ A unified operational hub integrating all ecosystem features into one seamless p
 
 ### 4. explorills.world
 
-:material-gamepad-variant:{ .lg } **Game Systems Documentation**
-
-Comprehensive documentation for the explorills.world gaming ecosystem.
-
-**Game Mechanics:**
+:material-gamepad-variant:{ .lg } **Game Mechanics**
 
 - **Character Ability Design & Balance** - Skill trees, progression systems, balancing framework
 - **Combat System Architecture** - Battle mechanics, damage calculations, PvP/PvE systems
 - **Game Economy Design** - Resource management, crafting, scarcity mechanics, item valuation
-- **Lore-Integrated Mechanics** - Story-driven gameplay, world-building elements, narrative systems
+- **Lore-Integrated Mechanics** - Story-driven gameplay, open-world exploration 
 
 ---
 
 !!! tip "Stay Connected"
-    For the latest updates on documentation releases, visit the [Home](../index.md) page or check our [Official Links](official-links.md) to follow development progress.
+    Stay up to date with the ecosystem through our [Official Links](official-links.md)

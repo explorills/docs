@@ -44,6 +44,3 @@
     For any inquiries on Discord, mention Admin User **`orb.8888`** in the General Chat or use directly **Support Tickets**
 
 ---
-
-!!! success "Next Section"
-    The next page outlines all upcoming materials for explorills documentation, currently under development

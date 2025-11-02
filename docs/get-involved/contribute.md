@@ -1,7 +1,5 @@
 # Contribute to explorills
 
-## Get Involved with explorills
-
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
     <img src="../../assets/images/logo.png" alt="explorills - Get Involved" width="125" />

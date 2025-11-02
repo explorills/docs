@@ -9,34 +9,10 @@
 
 ---
 
-## Upcoming Documentation
-
-<div class="grid cards" markdown>
-
--   :material-sword-cross:{ .lg .middle } **Character Ability Design & Balance**
-
-    ---
-
-    Deep, interconnected ability systems documentation
-
--   :material-shield-sword:{ .lg .middle } **Combat System Architecture**
-
-    ---
-
-    Technical combat mechanics and systems
-
--   :material-cash-multiple:{ .lg .middle } **Game Economy Design**
-
-    ---
-
-    Resource management and scarcity mechanics
-
--   :material-book-open-variant:{ .lg .middle } **Lore-Integrated Mechanics**
-
-    ---
-
-    Game systems that serve the narrative
-
+<div style="text-align: center; margin: 60px 0;">
+  <h1 style="font-size: 2.5em; font-weight: 600;">
+    <a href="https://explorills.world" target="_blank" style="text-decoration: none;">.world coming soon</a>
+  </h1>
 </div>
 
 ---
