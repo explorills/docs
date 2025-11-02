@@ -141,4 +141,4 @@
 ---
 
 !!! success "Next Section"
-    The next page will provide instructions on how to obtain one → [How to Purchase Node](how-to-purchase-node.md)
+    The next page will provide instructions on how to obtain one

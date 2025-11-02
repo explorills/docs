@@ -147,4 +147,4 @@ If the Node was purchased via a referral code, the daily minting permission incr
 ---
 
 !!! success "Next Section"
-    The next page provides an overview of all the Direct Mint Channels and their key details → [Direct Mint Channels](direct-mint-channels.md)
+    The next page provides an overview of all the **Direct Mint Channels** and their key details

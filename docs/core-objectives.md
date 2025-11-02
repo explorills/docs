@@ -102,4 +102,4 @@ Launching the primary $EXPL token distribution mechanism operated through Node i
 ---
 
 !!! success "Next Section"
-    The upcoming section will provide a detailed overview of all related aspects to the **Explorills Nodes** → [Nodes Introduction](nodes-introduction.md)
+    The upcoming section will provide a detailed overview of all related aspects to the **Explorills Nodes**

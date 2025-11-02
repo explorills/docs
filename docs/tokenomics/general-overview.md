@@ -65,4 +65,4 @@ The TNO is capped at 771,000,000 $EXPL out of the total supply of 55,783,940,100
 ---
 
 !!! success "Next Section"
-    The next page outlines all the components of explorills tokenomics along with their max supplies → [Supply & Allocation](supply.md)
+    The next page outlines all the components of explorills tokenomics along with their max supplies

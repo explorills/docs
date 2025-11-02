@@ -75,4 +75,4 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 ---
 
 !!! success "Next Section"
-    The next page will provide a detailed breakdown of the TNO Cards pricing model → [TNO Cards Pricing](tno-cards-pricing.md)
+    The next page will provide a detailed breakdown of the TNO Cards pricing model

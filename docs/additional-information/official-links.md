@@ -46,4 +46,4 @@
 ---
 
 !!! success "Next Section"
-    The next page outlines all upcoming materials for explorills documentation, currently under development → [Under Development](under-development.md)
+    The next page outlines all upcoming materials for explorills documentation, currently under development

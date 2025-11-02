@@ -54,4 +54,4 @@ $EXPL Distribution Master Map outlines the total maximum supply of $EXPL and its
 ---
 
 !!! success "Next Section"
-    The following page provides a walkthrough of the Node-Based Distribution process → [Node-Based Distribution](node-based-distribution.md)
+    The following page provides a walkthrough of the **Node-Based Distribution** process

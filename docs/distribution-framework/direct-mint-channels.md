@@ -132,4 +132,4 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
 ---
 
 !!! success "Next Section"
-    The next section explains how to get involved with the explorills ecosystem - through collaborations, contributions, and venture partnerships → [Collaborations](../get-involved/collabs.md)
+    The next section explains how to get involved with the explorills ecosystem - through **collaborations, contributions, and venture partnerships**

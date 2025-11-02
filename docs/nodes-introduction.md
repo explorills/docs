@@ -46,9 +46,4 @@
 ---
 
 !!! success "Next Section"
-    The upcoming section provides a detailed breakdown of explorills Tokenized NFT Offering - **TNO Cards** → [TNO Cards Introduction](tno-cards/tno-introduction.md)
-
-
-</div>
-
----
+    The upcoming section provides a detailed breakdown of explorills Tokenized NFT Offering - **TNO Cards**

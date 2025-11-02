@@ -132,4 +132,4 @@
 ---
 
 !!! success "Next Section"
-    The next section provides a comprehensive overview of the $EXPL distribution framework → [Distribution Master Map](../distribution-framework/distribution-master-map.md)
+    The next section provides a comprehensive overview of the **$EXPL distribution framework**

@@ -177,4 +177,4 @@ explorills_Nodes
 ---
 
 !!! success "Next Section"
-    The upcoming page will explain the escrow functionality of explorills Node NFT Licenses → [Node Escrow](node-escrow.md)
+    The upcoming page will explain the escrow functionality of explorills Node NFT Licenses

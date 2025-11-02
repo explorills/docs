@@ -77,4 +77,4 @@
 ---
 
 !!! success "Next Section"
-    The next page provides a step-by-step guide for minting TNO Cards → [How to Mint TNO Cards](how-to-mint-tno-cards.md)
+    The next page provides a step-by-step guide for minting TNO Cards

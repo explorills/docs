@@ -142,4 +142,4 @@ explorills_NodeEscrow
 ---
 
 !!! success "Next Section"
-    The next page will detail the tiered pricing model for explorills Node NFT Licenses → [Node Pricing Structure](node-pricing-structure.md)
+    The next page will detail the tiered pricing model for explorills Node NFT Licenses
