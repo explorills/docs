@@ -100,7 +100,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 
 ## Support Resources
 
-- **Email**: [support@explorills.com](mailto:support@explorills.com)
+- **Email**: [support@explorills.com](mailto:support@explorills.com){:target="_blank"}
 - **Discord**: [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"}
   - For any inquiries, mention Admin User `orb.8888` in the General Chat or use directly **Support Tickets**
 
