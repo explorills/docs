@@ -25,13 +25,19 @@
 
     ---
 
-    Comprehensive overview of the Web3 dashboard and its integrated features:
+    Comprehensive Web3 dashboard with integrated features
     
-    - **3.1 Nodes Management**: Real-time status monitoring, performance metrics, activation, and multi-node portfolio management
-    - **3.2 Communication Channels**: Community messaging, announcements, and Discord integration
-    - **3.3 Liquidity Pool Functionality**: Add/remove liquidity interface, real-time pool statistics, ILP mechanics, position management
-    - **3.4 Voting**: On-chain governance voting, proposal submission, vote delegation, historical records
-    - **3.5 Stats Section**: Ecosystem-wide statistics, user analytics, network health, token circulation metrics
+    **Upcoming sections:**
+    
+    :material-server: **Nodes Management** - Real-time monitoring, performance metrics, multi-node portfolio
+    
+    :material-forum: **Communication Channels** - Community messaging, announcements, Discord integration
+    
+    :material-water: **Liquidity Pool** - Add/remove liquidity, real-time statistics, ILP mechanics
+    
+    :material-vote: **Governance Voting** - On-chain proposals, vote delegation, historical records
+    
+    :material-chart-box: **Stats Section** - Ecosystem analytics, network health, token circulation
 
 -   :material-gamepad-variant:{ .lg .middle } **4. explorills.world**
 
