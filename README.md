@@ -1,96 +1,110 @@
 # Explorills Documentation
 
-Official documentation for **Explorills** - a decentralized, node-based ecosystem powered by the $EXPL token.
+Official documentation repository for Explorills, a decentralized, node-based ecosystem powered by the $EXPL token. This repository contains comprehensive technical documentation covering the network infrastructure, tokenomics model, distribution framework, and participation mechanisms.
 
-## 🌐 Live Documentation
+## Overview
 
-Visit the live documentation at: **[docs.explorills.com](https://docs.explorills.com)**
+Explorills is built on a foundation of Node NFT Licenses that enable community-driven network operations and automated token distribution. The ecosystem establishes a transparent, incentive-driven infrastructure where participants secure the network, earn rewards in $EXPL, and contribute to a unified on-chain economy.
 
-## 🛠️ Development
+**Live Documentation:** [docs.explorills.com](https://docs.explorills.com)
 
-This documentation is built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
+## Documentation Structure
 
-### Prerequisites
+The documentation is organized into the following sections:
 
-- Python 3.x
-- pip
+- **Core Objectives:** Strategic development roadmap and milestone planning
+- **Nodes:** Node NFT Licenses, escrow mechanisms, pricing, and purchase procedures
+- **TNO Cards:** Tokenized NFT Offering, functionality, and minting process
+- **Tokenomics:** $EXPL supply, allocation categories, and distribution model
+- **Distribution Framework:** Token distribution channels and reward structures
+- **Get Involved:** Contribution guidelines, collaboration opportunities, and venture programs
 
-### Local Setup
+## Development
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/explorills/docs.git
-   cd docs
-   ```
+This documentation is built with [MkDocs](https://www.mkdocs.org/) using the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
-2. **Install dependencies**
-   ```bash
-   pip install mkdocs-material
-   ```
+### Requirements
 
-3. **Run local development server**
-   ```bash
-   mkdocs serve
-   ```
-   
-   The documentation will be available at `http://localhost:8000`
+- Python 3.8 or higher
+- pip package manager
+
+### Local Development
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/explorills/docs.git
+cd docs
+pip install mkdocs-material
+```
+
+Start the development server:
+
+```bash
+mkdocs serve
+```
 
 ### Building
 
-To build the static site:
+Generate the static site:
 
 ```bash
 mkdocs build
 ```
 
-The built site will be in the `./site/` directory.
+Output files are created in the `./site/` directory.
 
-## 🤝 Contributing
+## Contributing
 
-We welcome contributions to improve the documentation!
+Contributions to improve documentation accuracy, clarity, and completeness are welcome. Please follow these guidelines:
 
-### How to Contribute
+1. Fork this repository
+2. Create a feature branch (`git checkout -b improve-documentation`)
+3. Edit documentation files in the `docs/` directory
+4. Test changes locally using `mkdocs serve`
+5. Commit with clear, descriptive messages
+6. Submit a pull request with a summary of changes
 
-1. Fork the repository
-2. Create a new branch for your changes
-3. Make your edits in the `docs/` directory
-4. Test locally with `mkdocs serve`
-5. Submit a pull request
+### Writing Guidelines
 
-### Content Guidelines
+- Maintain technical accuracy and verify all information
+- Use clear, precise language appropriate for technical documentation
+- Follow existing markdown formatting and structural patterns
+- Include relevant examples and use cases where applicable
+- Ensure all links and references are functional
+- Preserve the existing navigation hierarchy
 
-- Write in clear, concise language
-- Use proper markdown formatting
-- Include code examples where appropriate
-- Keep technical accuracy as top priority
-- Follow the existing documentation structure
-
-## 📁 Repository Structure
+## Repository Structure
 
 ```
-docs/                  # Documentation source files
-├── assets/           # Images, logos, and other assets
-│   └── images/       # Image files
-├── index.md          # Homepage
-└── ...               # Other documentation pages
-mkdocs.yml            # MkDocs configuration
-.github/              # GitHub Actions workflows
+docs/                          # Source documentation files
+├── index.md                   # Documentation homepage
+├── core-objectives.md         # Development roadmap
+├── nodes/                     # Node documentation
+├── tno-cards/                 # TNO Cards documentation
+├── tokenomics/                # Tokenomics documentation
+├── distribution-framework/    # Distribution mechanisms
+├── get-involved/              # Contribution and collaboration
+├── additional-information/    # Supplementary resources
+└── assets/                    # Images and static resources
+mkdocs.yml                     # MkDocs configuration
+overrides/                     # Theme customization
+site/                          # Generated static site (build output)
 ```
 
-## 🚀 Deployment
+## Deployment
 
-Documentation is automatically deployed to S3 + CloudFront on every push to `main` branch via GitHub Actions.
+Documentation is automatically built and deployed via GitHub Actions on each push to the `main` branch. The deployment pipeline publishes to S3 with CloudFront distribution.
 
-## 📝 License
+## License
 
-This documentation is licensed under the [MIT License](LICENSE).
+This documentation is open source and available under the [MIT License](LICENSE).
 
-## 💬 Support
+## Contact
 
-- **Email**: support@explorills.com
-- **Discord**: [Join our community](https://discord.gg/DMSSuPPrTV)
-  - For inquiries, mention Admin User `orb.8888` in General Chat or use Support Tickets
+- **Website:** [explorills.com](https://explorills.com)
+- **Email:** support@explorills.com
+- **Discord:** [discord.gg/DMSSuPPrTV](https://discord.gg/DMSSuPPrTV)
+- **GitHub:** [github.com/explorills](https://github.com/explorills)
 
----
-
-**Explorills** | Building the next-generation decentralized internet
+For technical support or documentation inquiries, please use the Discord server or email support.
