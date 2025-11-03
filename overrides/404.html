@@ -3,7 +3,44 @@
 {% block content %}
   <div class="md-content" data-md-component="content">
     <article class="md-content__inner md-typeset">
-      {{ page.content }}
+      <h1>404 - Page Not Found</h1>
+      
+      <div style="text-align: center; margin: 40px 0;">
+        <img src="/assets/images/logo.png" alt="Explorills Logo" width="150" />
+      </div>
+
+      <hr>
+
+      <p>The page you're trying to reach might have been moved, deleted, or never existed.</p>
+
+      <hr>
+
+      <h2>Quick Navigation</h2>
+
+      <div class="grid cards">
+        <ul>
+          <li>
+            <p><span class="twemoji lg middle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg></span> <strong>Home</strong></p>
+            <hr>
+            <p>Return to the documentation homepage</p>
+            <p><a href="/"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M8.22 2.97a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.042-.018.75.75 0 0 1-.018-1.042l2.97-2.97H3.75a.75.75 0 0 1 0-1.5h7.44L8.22 4.03a.75.75 0 0 1 0-1.06"/></svg></span> Go Home</a></p>
+          </li>
+          <li>
+            <p><span class="twemoji lg middle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.98 2.98 0 0 0 0-4.24 2.98 2.98 0 0 0-4.24 0l-3.53 3.53a2.98 2.98 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.98 2.98 0 0 0 0 4.24 2.98 2.98 0 0 0 4.24 0l3.53-3.53a2.98 2.98 0 0 0 0-4.24.973.973 0 0 1 0-1.42"/></svg></span> <strong>Official Links</strong></p>
+            <hr>
+            <p>Find our official resources</p>
+            <p><a href="/additional-information/official-links/"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M8.22 2.97a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.042-.018.75.75 0 0 1-.018-1.042l2.97-2.97H3.75a.75.75 0 0 1 0-1.5h7.44L8.22 4.03a.75.75 0 0 1 0-1.06"/></svg></span> View Official Links</a></p>
+          </li>
+        </ul>
+      </div>
+
+      <div class="admonition tip">
+        <p class="admonition-title">Contact Us</p>
+      <p>Need help? Reach out to our support team:</p>
+      <ul>
+        <li><strong>Email</strong>: <a href="mailto:support@explorills.com" target="_blank">support@explorills.com</a></li>
+      </ul>
+      </div>
     </article>
   </div>
 {% endblock %}
