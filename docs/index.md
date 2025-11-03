@@ -90,7 +90,7 @@ Explorills is a decentralized, node-based ecosystem powered by the $EXPL token, 
 | Platform | Link |
 |----------|------|
 | **Nodes** | [mint.explorills.com](https://mint.explorills.com/){:target="_blank"} |
-| **TNO Cards** | [https://mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze){:target="_blank"} |
+| **TNO Cards** | [mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze){:target="_blank"} |
 | **Landing** | [explorills.com](https://explorills.com/){:target="_blank"} |
 | **GitHub** | [github.com/explorills](https://github.com/explorills){:target="_blank"} |
 | **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills){:target="_blank"} |
