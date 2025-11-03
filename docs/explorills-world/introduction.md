@@ -10,12 +10,10 @@
 ---
 
 <div style="text-align: center; margin: 60px 0;">
-  <h1 style="font-size: 2.5em; font-weight: 600;">
+  <h1 style="font-size: 2.2em; font-weight: 600;">
     <a href="https://explorills.world" target="_blank" style="text-decoration: none;">.world coming soon</a>
   </h1>
 </div>
-
----
 
 !!! info "Stay Updated"
     Follow our development progress on [Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"} and [X (Twitter)](https://x.com/explorills_main){:target="_blank"}
