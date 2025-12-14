@@ -2,17 +2,17 @@
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
-    <img src="../../assets/images/logo.png" alt="explorills - Get Involved" width="125" />
+    <img src="../../assets/images/logo.png" alt="EXPL.ONE - Get Involved" width="125" />
     <figcaption><em>Get Involved</em></figcaption>
   </figure>
 </div>
 
 !!! quote "Community-Driven Ecosystem"
-    explorills is a community-driven ecosystem that thrives on participation from various stakeholders. We welcome individuals and organizations who share our vision of building a next-gen decentralized internet that fundamentally redistributes power and opportunity to everyone.
+    EXPL.ONE is a community-driven ecosystem that thrives on participation from various stakeholders. We welcome individuals and organizations who share our vision of building a next-gen decentralized internet that fundamentally redistributes power and opportunity to everyone.
 
 ---
 
-explorills is creating groundbreaking infrastructure for the decentralized future, working alongside forward-thinking, visionary partners who share our enduring commitment to shaping a next-gen decentralized internet for everyone.
+EXPL.ONE is creating groundbreaking infrastructure for the decentralized future, working alongside forward-thinking, visionary partners who share our enduring commitment to shaping a next-gen decentralized internet for everyone.
 
 ---
 
@@ -60,14 +60,14 @@ explorills is creating groundbreaking infrastructure for the decentralized futur
 
 Ready to explore opportunities? Contact us at:
 
-**[capital@explorills.com](mailto:capital@explorills.com){:target="_blank"}**
+**[capital@EXPL.ONE.com](mailto:capital@EXPL.ONE.com){:target="_blank"}**
 
 ---
 
 !!! success "Partnership Philosophy"
-    We carefully review every inquiry and respond promptly, with a focus on developing partnerships that complement explorills core values and strategic direction. **Looking forward to shape the future of decentralized technology together with you!**
+    We carefully review every inquiry and respond promptly, with a focus on developing partnerships that complement EXPL.ONE core values and strategic direction. **Looking forward to shape the future of decentralized technology together with you!**
 
 ---
 
 !!! info "Stay Connected"
-    Stay connected with the **explorills** community through our [Official Links](../additional-information/official-links.md)
+    Stay connected with the **EXPL.ONE** community through our [Official Links](../additional-information/official-links.md)

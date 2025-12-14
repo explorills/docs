@@ -1,7 +1,7 @@
 # Direct Mint Channels
 
 !!! info "Independent Minting"
-    Through Direct Mint Channels, $EXPL is minted independently of the explorills Nodes, with a total of five distinct channels provided below.
+    Through Direct Mint Channels, $EXPL is minted independently of the EXPL.ONE Nodes, with a total of five distinct channels provided below.
 
 ---
 
@@ -31,7 +31,7 @@ Since long-term liquidity provision can lead to impermanent loss, a special prot
 
 ### 3. HUB-Verified Users
 
-The first million users who obtain HUB-verified status on the explorills platform generate a mint permission of **1.71 $EXPL** on a daily basis, per user, for **731 days** at the provided address.
+The first million users who obtain HUB-verified status on the EXPL.ONE platform generate a mint permission of **1.71 $EXPL** on a daily basis, per user, for **731 days** at the provided address.
 
 **Key Features:**
 - :material-account-check: First 1,000,000 verified users
@@ -42,7 +42,7 @@ The first million users who obtain HUB-verified status on the explorills platfor
 
 ### 4. Mystery Box
 
-A gamified feature on the explorills platform, offering mintable $EXPL and a range of prizes. Anyone can open it every 7 days. Currently, it's available exclusively on the [explorills Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"}.
+A gamified feature on the EXPL.ONE platform, offering mintable $EXPL and a range of prizes. Anyone can open it every 7 days. Currently, it's available exclusively on the [EXPL.ONE Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"}.
 
 **Key Features:**
 - :material-gift: Open once every 7 days
@@ -58,7 +58,7 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
 **Key Features:**
 - :material-card-account-details: Four card tiers (Bronze, Silver, Gold, Diamond)
 - :material-cash-multiple: 771,000,000 $EXPL total allocation
-- :material-shopping: Available at [mint.explorills.com](https://mint.explorills.com/#TNO-Bronze){:target="_blank"}
+- :material-shopping: Available at [mint.EXPL.ONE.com](https://mint.EXPL.ONE.com/#TNO-Bronze){:target="_blank"}
 
 ---
 
@@ -132,4 +132,4 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
 ---
 
 !!! success "Next Section"
-    The next section explains how to get involved with the explorills ecosystem - through **collaborations, contributions, and venture partnerships**
+    The next section explains how to get involved with the EXPL.ONE ecosystem - through **collaborations, contributions, and venture partnerships**

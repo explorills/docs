@@ -1,7 +1,7 @@
-site_name: Explorills Documentation
-site_url: https://docs.explorills.com
-site_description: Official documentation for Explorills - a decentralized, node-based ecosystem powered by $EXPL token
-site_author: Explorills
+site_name: EXPL.ONE Documentation
+site_url: https://docs.expl.one
+site_description: Official documentation for the ONE ecosystem - powered by EXPL Nodes and the $EXPL token
+site_author: EXPL.ONE
 repo_url: https://github.com/explorills/docs
 repo_name: explorills/docs
 
@@ -60,28 +60,33 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/explorills
-      name: Explorills on GitHub
+      name: EXPL.ONE on GitHub
     - icon: fontawesome/brands/twitter
       link: https://x.com/explorills_main
-      name: Explorills on Twitter
+      name: EXPL.ONE on Twitter
     - icon: fontawesome/brands/discord
       link: https://discord.gg/jaZ23J3NCc
-      name: Explorills Discord
+      name: EXPL.ONE Discord
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/explorills
-      name: Explorills on LinkedIn
+      name: EXPL.ONE on LinkedIn
 
-copyright: Copyright &copy; 2025 Explorills
+copyright: Copyright &copy; 2025 EXPL.ONE
 
 nav:
   - Home: index.md
-  - Core Objectives: core-objectives.md
-  - Nodes:
-      - Nodes Introduction: nodes/introduction.md
-      - Node NFT Licenses: nodes/node-nft-licenses.md
+  - 2026 Roadmap: roadmap-2026.md
+  - EXPL Nodes:
+      - Introduction: nodes/introduction.md
+      - EXPL Nodes Overview: nodes/node-nft-licenses.md
       - Node Escrow: nodes/node-escrow.md
       - Node Pricing Structure: nodes/node-pricing-structure.md
-      - How to Purchase Node: nodes/how-to-purchase-node.md
+      - How to Purchase: nodes/how-to-purchase-node.md
+  - ONE Projects:
+      - ONE pump: one-pump/introduction.md
+      - ONE network: one-network/introduction.md
+      - ONE world: one-world/introduction.md
+      - Projects Overview: projects/overview.md
   - TNO Cards:
       - TNO Introduction: tno-cards/introduction.md
       - TNO Contract: tno-cards/tno-contract.md
@@ -101,8 +106,6 @@ nav:
       - Venture Opportunities: get-involved/venture-opportunities.md
   - Additional Information:
       - Under Development: additional-information/under-development.md
-      - Official Links: additional-information/official-links.md      
-  - explorills.world:
-      - .world coming soon: explorills-world/introduction.md
+      - Official Links: additional-information/official-links.md
 
 

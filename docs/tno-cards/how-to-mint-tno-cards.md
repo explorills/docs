@@ -16,10 +16,10 @@ Mint directly from the preferred web browser using a Web3 wallet extension.
 ### Step-by-Step Instructions
 
 1. **Navigate to your preferred TNO Card category:**
-   - [**mint.explorills.com/#TNO-Bronze**](https://mint.explorills.com/#TNO-Bronze){:target="_blank"}
-   - [**mint.explorills.com/#TNO-Silver**](https://mint.explorills.com/#TNO-Silver){:target="_blank"}
-   - [**mint.explorills.com/#TNO-Gold**](https://mint.explorills.com/#TNO-Gold){:target="_blank"}
-   - [**mint.explorills.com/#TNO-Diamond**](https://mint.explorills.com/#TNO-Diamond){:target="_blank"}
+   - [**mint.EXPL.ONE.com/#TNO-Bronze**](https://mint.EXPL.ONE.com/#TNO-Bronze){:target="_blank"}
+   - [**mint.EXPL.ONE.com/#TNO-Silver**](https://mint.EXPL.ONE.com/#TNO-Silver){:target="_blank"}
+   - [**mint.EXPL.ONE.com/#TNO-Gold**](https://mint.EXPL.ONE.com/#TNO-Gold){:target="_blank"}
+   - [**mint.EXPL.ONE.com/#TNO-Diamond**](https://mint.EXPL.ONE.com/#TNO-Diamond){:target="_blank"}
 
 2. Click **"Connect Wallet"**
 3. Choose network (Ethereum or Flare)
@@ -74,10 +74,10 @@ Mint directly from the smartphone or tablet using a Web3-enabled mobile wallet.
 1. Open your Web3 mobile wallet application
 2. Navigate to the browser function within your wallet app
 3. **Enter your preferred TNO Card category URL:**
-   - [**mint.explorills.com/#TNO-Bronze**](https://mint.explorills.com/#TNO-Bronze){:target="_blank"}
-   - [**mint.explorills.com/#TNO-Silver**](https://mint.explorills.com/#TNO-Silver){:target="_blank"}
-   - [**mint.explorills.com/#TNO-Gold**](https://mint.explorills.com/#TNO-Gold){:target="_blank"}
-   - [**mint.explorills.com/#TNO-Diamond**](https://mint.explorills.com/#TNO-Diamond){:target="_blank"}
+   - [**mint.EXPL.ONE.com/#TNO-Bronze**](https://mint.EXPL.ONE.com/#TNO-Bronze){:target="_blank"}
+   - [**mint.EXPL.ONE.com/#TNO-Silver**](https://mint.EXPL.ONE.com/#TNO-Silver){:target="_blank"}
+   - [**mint.EXPL.ONE.com/#TNO-Gold**](https://mint.EXPL.ONE.com/#TNO-Gold){:target="_blank"}
+   - [**mint.EXPL.ONE.com/#TNO-Diamond**](https://mint.EXPL.ONE.com/#TNO-Diamond){:target="_blank"}
 
 4. Click **"Connect Wallet"**
 5. Choose network (Ethereum or Flare)
@@ -93,7 +93,7 @@ Mint directly from the smartphone or tablet using a Web3-enabled mobile wallet.
 
 | Support Channel | Details |
 |----------------|---------|
-| **Email** | [support@explorills.com](mailto:support@explorills.com){:target="_blank"} |
+| **Email** | [support@EXPL.ONE.com](mailto:support@EXPL.ONE.com){:target="_blank"} |
 | **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"} |
 
 !!! tip "Quick Support"
@@ -105,7 +105,7 @@ Mint directly from the smartphone or tablet using a Web3-enabled mobile wallet.
 
 !!! warning "Security Guidelines"
     
-    ✅ **Always verify** you're on the official minting website **[mint.explorills.com](https://mint.explorills.com/){:target="_blank"}**
+    ✅ **Always verify** you're on the official minting website **[mint.EXPL.ONE.com](https://mint.EXPL.ONE.com/){:target="_blank"}**
     
     🔒 **Never share** your wallet seed phrase with anyone
     
@@ -123,7 +123,7 @@ Mint directly from the smartphone or tablet using a Web3-enabled mobile wallet.
 
     Only use official domain
     
-    mint.explorills.com
+    mint.EXPL.ONE.com
 
 -   :material-key-variant:{ .lg .middle } **Protect Keys**
 

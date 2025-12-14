@@ -15,10 +15,10 @@ Mint directly from the preferred web browser using a Web3 wallet extension.
 
 ### Step-by-Step Instructions
 
-1. Visit **[mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}**
+1. Visit **[node.expl.one/#EXPL-Nodes](https://node.expl.one/#EXPL-Nodes){:target="_blank"}**
 2. Click **"Connect Wallet"**
 3. Choose network (Ethereum or Flare)
-4. Select the quantity of Node NFT Licenses
+4. Select the quantity of EXPL Nodes
 5. Click the **"MINT"** button
 6. Wait for the MINT queue
 7. Confirm transaction in Web3 wallet extension
@@ -70,10 +70,10 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 
 1. Open your Web3 mobile wallet application
 2. Navigate to the browser function within your wallet app
-3. Enter the URL: **[mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}**
+3. Enter the URL: **[node.expl.one/#EXPL-Nodes](https://node.expl.one/#EXPL-Nodes){:target="_blank"}**
 4. Click **"Connect Wallet"**
 5. Choose network (Ethereum or Flare)
-6. Choose the quantity of Node NFT Licenses
+6. Choose the quantity of EXPL Nodes
 7. Click the **"MINT"** button
 8. Wait for the MINT queue
 9. Confirm transaction in Web3 wallet
@@ -87,7 +87,7 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 
 | Support Channel | Details |
 |----------------|---------|
-| **Email** | [support@explorills.com](mailto:support@explorills.com){:target="_blank"} |
+| **Email** | [support@expl.one](mailto:support@expl.one){:target="_blank"} |
 | **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"} |
 
 !!! tip "Quick Support"
@@ -99,7 +99,7 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 
 !!! warning "Security Guidelines"
     
-    ✅ **Always verify** you're on the official minting website **[mint.explorills.com](https://mint.explorills.com/){:target="_blank"}**
+    ✅ **Always verify** you're on the official minting website **[node.expl.one](https://node.expl.one/){:target="_blank"}**
     
     🔒 **Never share** your wallet seed phrase with anyone
     
@@ -117,7 +117,7 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 
     Only use official domain
     
-    mint.explorills.com
+    node.expl.one
 
 -   :material-key-variant:{ .lg .middle } **Protect Keys**
 

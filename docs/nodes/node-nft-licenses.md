@@ -1,28 +1,30 @@
-# Node NFT Licenses
+# EXPL Nodes Overview
 
-!!! info "ERC721 Node Licenses"
-    Node NFT Licenses are ERC721 tokens accessible for public purchase via the fully decentralized and immutable smart contract "explorills_Nodes," deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} Networks. These licenses empower users to own personal Nodes, granting them mint permissions for $EXPL and access to all project events. The full contract architecture is outlined below.
+!!! success "ERC721 EXPL Nodes"
+    EXPL Nodes are ERC721 tokens available for public purchase via the fully decentralized and immutable smart contract "EXPL_Nodes," deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} Networks. EXPL Nodes empower users to operate network infrastructure, granting them mint permissions for $EXPL and participation in all ONE ecosystem projects. The full contract architecture is outlined below.
+
+**Purchase**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
 ---
 
-## First Batch
+## First Batch: 12,000 EXPL Nodes
 
-This is the first batch of Node NFT Licenses, limited to **12,000**. Once $EXPL distribution begins as an ERC-20 token through these initial Nodes, a new contract will be deployed for the second batch, bringing the total to **100,000 Nodes** across the entire explorills ecosystem.
+This is the first batch of EXPL Nodes, limited to **12,000**. Once $EXPL distribution begins as an ERC20 token through these initial Nodes, a new contract will be deployed for the second batch, bringing the total to **100,000 EXPL Nodes** across the entire ONE ecosystem.
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin: 30px 0; flex-wrap: wrap;">
   <figure style="text-align: center;">
-    <img src="../../assets/images/node01.png" alt="explorills Node NFT License ID 1" width="375" />
-    <figcaption><em>explorills Node NFT License ID 1</em></figcaption>
+    <img src="../../assets/images/node01.png" alt="EXPL Node ID 1" width="375" />
+    <figcaption><em>EXPL Node ID 1</em></figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="../../assets/images/node12000.png" alt="explorills Node NFT License ID 12000" width="375" />
-    <figcaption><em>explorills Node NFT License ID 12000</em></figcaption>
+    <img src="../../assets/images/node12000.png" alt="EXPL Node ID 12000" width="375" />
+    <figcaption><em>EXPL Node ID 12000</em></figcaption>
   </figure>
 </div>
 
 ---
 
-## explorills_Nodes Contract
+## EXPL_Nodes Contract
 
 ERC721 cross-chain contract with whitelist functionality, dual-escrow system and backup address support
 
@@ -74,7 +76,7 @@ ERC721 cross-chain contract with whitelist functionality, dual-escrow system and
 
 | Setting | Value |
 |---------|-------|
-| **Contract Name** | explorills_Nodes |
+| **Contract Name** | EXPL_Nodes |
 | **Compiler Version** | v0.8.24 |
 | **EVM Version** | London |
 | **Optimization** | Enabled (200 runs) |
@@ -85,7 +87,7 @@ ERC721 cross-chain contract with whitelist functionality, dual-escrow system and
 ## Contract Architecture
 
 ```
-explorills_Nodes
+EXPL_Nodes
 ├── Main Functions
 │   ├── Minting Operations
 │   │   ├── mint
@@ -143,14 +145,14 @@ explorills_Nodes
 
 | **Resource** | **Link** |
 |--------------|----------|
-| **Contact** | [info@explorills.com](mailto:info@explorills.com){:target="_blank"} |
-| **Security** | [info@explorills.ai](mailto:info@explorills.ai){:target="_blank"} |
+| **Contact** | [support@expl.one](mailto:support@expl.one){:target="_blank"} |
+| **Security** | [security@expl.one](mailto:security@expl.one){:target="_blank"} |
 
 ---
 
 ## Contract Addresses
 
-### explorills_Nodes
+### EXPL_Nodes
 
 **Address:** `0x468F1F91fc674e0161533363B13c2ccBE3769981`
 
@@ -160,13 +162,13 @@ explorills_Nodes
 - [Flare Explorer](https://flare-explorer.flare.network/address/0x468F1F91fc674e0161533363B13c2ccBE3769981?tab=contract){:target="_blank"}
 - [Sourcify.dev](https://sourcify.dev/#/lookup/0x468F1F91fc674e0161533363B13c2ccBE3769981){:target="_blank"}
 
-### explorills_NodeEscrow
+### EXPL_NodeEscrow
 
 **Address:** `0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4`
 
 **GitHub:** [explorills/node-escrow](https://github.com/explorills/node-escrow/tree/main){:target="_blank"}
 
-### explorills_BridgeEscrow
+### EXPL_BridgeEscrow
 
 **Address:** `0x129D9dce2326492d073D147762230e60c01e0f97`
 
@@ -175,4 +177,4 @@ explorills_Nodes
 ---
 
 !!! success "Next Section"
-    The upcoming page will explain the escrow functionality of explorills Node NFT Licenses
+    The upcoming page will explain the escrow functionality of EXPL Nodes

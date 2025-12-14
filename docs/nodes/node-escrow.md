@@ -1,35 +1,35 @@
 # Node Escrow
 
 !!! info "Non-Custodial Escrow System"
-    The Nodes escrow is a fully decentralized, non-custodial ERC721 escrow contract, "explorills_NodeEscrow" designed for token storage with automated release functionality. The following page details how it works along with the complete contract architecture.
+    The Nodes escrow is a fully decentralized, non-custodial ERC721 escrow contract, "EXPL_NodeEscrow" designed for token storage with automated release functionality. The following page details how it works along with the complete contract architecture.
 
-When users mint a Node on [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}, it is stored in the Nodes escrow under the minter address ownership. Once Nodes with IDs from **1 to 10,800** are minted, the escrow is automatically released, allowing users to pull their Nodes.
+When users mint a Node on [node.expl.one/#EXPL-Nodes](https://node.expl.one/#EXPL-Nodes){:target="_blank"}, it is stored in the Nodes escrow under the minter address ownership. Once Nodes with IDs from **1 to 10,800** are minted, the escrow is automatically released, allowing users to pull their Nodes.
 
 ---
 
 ## Verify Nodes Ownership
 
-1. Visit: [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}
+1. Visit: [node.expl.one/#EXPL-Nodes](https://node.expl.one/#EXPL-Nodes){:target="_blank"}
 2. Connect wallet
 3. Click **"My Address Info"**
 4. Click on any Node ID
-   - It redirects to the corresponding Node NFT License page on the blockchain
+   - It redirects to the corresponding EXPL Node page on the blockchain
 
 !!! success "Early Access Benefits"
     Even before the Node escrow is released, owners can regularly use their Nodes directly from the escrow to generate mint permissions for $EXPL and gain access to all project events.
 
 ---
 
-## explorills_NodeEscrow Contract
+## EXPL_NodeEscrow Contract
 
-Non-custodial ERC721 escrow contract for explorills_Nodes tokens storage, with auto-release functionality
+Non-custodial ERC721 escrow contract for EXPL_Nodes tokens storage, with auto-release functionality
 
 ### General Functionality
 
 1. Stores ERC721 tokens securely until pulling conditions are met
 2. Provides read-only access to escrow data
 3. Enables automatic pulling window after 10,800 regular mints
-4. Exclusive interaction with main explorills_Nodes contract
+4. Exclusive interaction with main EXPL_Nodes contract
 5. Non-custodial design for enhanced security
 
 ---
@@ -75,7 +75,7 @@ Non-custodial ERC721 escrow contract for explorills_Nodes tokens storage, with a
 
 | Setting | Value |
 |---------|-------|
-| **Contract Name** | explorills_NodeEscrow |
+| **Contract Name** | EXPL_NodeEscrow |
 | **Compiler Version** | v0.8.24 |
 | **EVM Version** | London |
 | **Optimization** | Enabled (200 runs) |
@@ -86,7 +86,7 @@ Non-custodial ERC721 escrow contract for explorills_Nodes tokens storage, with a
 ## Contract Architecture
 
 ```
-explorills_NodeEscrow
+EXPL_NodeEscrow
 ├── View Functions
 │   ├── Address Holdings
 │   │   └── a1AddressEscrowHoldings
@@ -116,8 +116,8 @@ explorills_NodeEscrow
 
 | **Resource** | **Link** |
 |--------------|----------|
-| **Contact** | [info@explorills.com](mailto:info@explorills.com){:target="_blank"} |
-| **Security** | [info@explorills.ai](mailto:info@explorills.ai){:target="_blank"} |
+| **Contact** | [support@expl.one](mailto:support@expl.one){:target="_blank"} |
+| **Security** | [security@expl.one](mailto:security@expl.one){:target="_blank"} |
 
 ---
 
@@ -140,4 +140,4 @@ explorills_NodeEscrow
 ---
 
 !!! success "Next Section"
-    The next page will detail the tiered pricing model for explorills Node NFT Licenses
+    The next page will detail the tiered pricing model for EXPL Nodes

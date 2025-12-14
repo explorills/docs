@@ -1,7 +1,9 @@
 # Under Development
 
-!!! info "Coming Soon"
-    The following sections are currently under development and will be added to the documentation as they roll out.
+!!! info "Coming in 2026"
+    The following sections are currently under development as part of the 2026 roadmap and will be added to the documentation as they roll out.
+
+[:octicons-arrow-right-24: View 2026 Roadmap](../roadmap-2026.md)
 
 ---
 
@@ -37,7 +39,7 @@ Complete guide to liquidity mining operations, rewards calculation, and particip
 
 ---
 
-### 3. explorills.network Dashboard
+### 3. ONE network Dashboard
 
 :material-monitor-dashboard:{ .lg } **Comprehensive Web3 Dashboard**
 
@@ -97,7 +99,7 @@ A unified operational hub integrating all ecosystem features into one seamless p
 
 ---
 
-### 4. explorills.world
+### 4. ONE world
 
 :material-gamepad-variant:{ .lg } **Game Mechanics**
 

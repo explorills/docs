@@ -1,11 +1,13 @@
 # Distribution Master Map
 
-!!! info "Distribution Categories"
-    The $EXPL distribution is divided into two main categories: Node-Based Distribution and Direct Mint Channels. Through Node-Based Distribution, only Node Operators mint $EXPL, which is allocated to specific non-custodial automated escrows and Node operators. On the other hand, Direct Mint Channels allow users to mint $EXPL independently, without Nodes participation, as long as they meet the foundational system requirements.
+!!! success "EXPL Nodes-Powered Distribution"
+    The $EXPL distribution is divided into two main categories: **EXPL Nodes-Based Distribution** and **Direct Mint Channels**. Through EXPL Nodes-Based Distribution, only EXPL Nodes operators mint $EXPL, which is allocated to specific non-custodial automated escrows and node operators. Direct Mint Channels allow users to mint $EXPL independently, without Nodes participation, as long as they meet the foundational system requirements.
+
+**2026 Launch**: Main distribution begins with 12,000 EXPL Nodes operational in Q2 2026
 
 ---
 
-$EXPL Distribution Master Map outlines the total maximum supply of $EXPL and its allocation across various ecosystem components. Each component receives $EXPL through different distribution mechanisms, with its respective maximum supply shown as a percentage of the total.
+The $EXPL Distribution Master Map outlines the total maximum supply of $EXPL and its allocation across various ONE ecosystem components. Each component receives $EXPL through different distribution mechanisms, with its respective maximum supply shown as a percentage of the total.
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
@@ -20,13 +22,13 @@ $EXPL Distribution Master Map outlines the total maximum supply of $EXPL and its
 
 <div class="grid cards" markdown>
 
--   :material-server-network:{ .lg .middle } **Node-Based Distribution**
+-   :material-server-network:{ .lg .middle } **EXPL Nodes-Based Distribution**
 
     ---
     
     **76.19% of Total Supply**
     
-    Node operators mint and distribute $EXPL to designated escrows
+    EXPL Nodes operators mint and distribute $EXPL to designated escrows
     
     [:octicons-arrow-right-24: Learn More](node-based-distribution.md)
 

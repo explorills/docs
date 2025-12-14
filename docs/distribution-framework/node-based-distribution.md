@@ -15,11 +15,11 @@ Each Node generates a daily minting permission of **564.30 $EXPL** in total, wit
 
 When minting occurs, the tokens are automatically distributed to designated escrows. For instance, from the 24-hour generated minting permission of **564.30 $EXPL** (excluding referrals):
 
-- **342 $EXPL** is split evenly between the explorills.care and explorills.ventures escrows
+- **342 $EXPL** is split evenly between the EXPL.ONE.care and EXPL.ONE.ventures escrows
 - From the remaining **222.30 $EXPL**:
   - **34.2 $EXPL** is allocated to the Community Grants escrow
   - **17.1 $EXPL** to the Developer Incentives escrow
-  - **171 $EXPL** is kept by the Node operator as a reward for contributing to the explorills ecosystem
+  - **171 $EXPL** is kept by the Node operator as a reward for contributing to the EXPL.ONE ecosystem
 
 ---
 
@@ -41,13 +41,13 @@ If the Node was purchased via a referral code, the daily minting permission incr
 ## Allocation Summary
 
 === "Standard Node (564.30 $EXPL/day)"
-    **explorills.ventures Escrow**
+    **EXPL.ONE.ventures Escrow**
     
     171 $EXPL (30.31%)
     
     ---
     
-    **explorills.care Escrow**
+    **EXPL.ONE.care Escrow**
     
     171 $EXPL (30.31%)
     
@@ -70,13 +70,13 @@ If the Node was purchased via a referral code, the daily minting permission incr
     171 $EXPL (30.31%)
 
 === "Node with Referral (581.40 $EXPL/day)"
-    **explorills.ventures Escrow**
+    **EXPL.ONE.ventures Escrow**
     
     171 $EXPL (29.41%)
     
     ---
     
-    **explorills.care Escrow**
+    **EXPL.ONE.care Escrow**
     
     171 $EXPL (29.41%)
     

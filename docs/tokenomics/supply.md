@@ -8,18 +8,18 @@
 | **Node Operators** | 12,500,100,000 |
 | **Node Referrals** | 1,250,010,000 |
 | **HUB-Verified User** | 1,250,010,000 |
-| **[explorills.ventures](https://explorills.ventures/){:target="_blank"}** | 12,500,100,000 |
-| **[explorills.care](https://explorills.care/){:target="_blank"}** | 12,500,100,000 |
+| **[EXPL.ONE.ventures](https://EXPL.ONE.ventures/){:target="_blank"}** | 12,500,100,000 |
+| **[EXPL.ONE.care](https://EXPL.ONE.care/){:target="_blank"}** | 12,500,100,000 |
 | **Community Grants** | 2,500,020,000 |
 | **Developer Incentives** | 1,250,010,000 |
 | **Liquidity Mining** | 7,500,060,000 |
 | **Impermanent Loss Protection** | 3,750,030,000 |
-| **explorills Mystery-Box** | 12,500,100 |
+| **EXPL.ONE Mystery-Box** | 12,500,100 |
 | **TOTAL** | **55,783,940,100** |
 
 !!! info "Allocation Details"
-    - **TNO Cards**: Tokenized NFT Offering available at [mint.explorills.com/#TNO-Bronze](https://mint.explorills.com/#TNO-Bronze){:target="_blank"}
-    - **Node Operators**: Node NFT Licenses available at [mint.explorills.com/#explorills-Nodes](https://mint.explorills.com/#explorills-Nodes){:target="_blank"}
+    - **TNO Cards**: Tokenized NFT Offering available at [mint.EXPL.ONE.com/#TNO-Bronze](https://mint.EXPL.ONE.com/#TNO-Bronze){:target="_blank"}
+    - **Node Operators**: Node NFT Licenses available at [mint.EXPL.ONE.com/#EXPL.ONE-Nodes](https://mint.EXPL.ONE.com/#EXPL.ONE-Nodes){:target="_blank"}
     - **Mystery-Box**: Deployed in community Discord, open once every 7 days for various prizes including $EXPL
 
 ---
@@ -35,19 +35,19 @@
     
     [:octicons-arrow-right-24: Learn about Nodes](../nodes/introduction.md)
 
-=== "explorills.ventures"
+=== "EXPL.ONE.ventures"
     **12,500,100,000 $EXPL**
     
     Strategic venture initiatives and ecosystem investments
     
-    [:octicons-link-external-24: Visit explorills.ventures](https://explorills.ventures/){:target="_blank"}
+    [:octicons-link-external-24: Visit EXPL.ONE.ventures](https://EXPL.ONE.ventures/){:target="_blank"}
 
-=== "explorills.care"
+=== "EXPL.ONE.care"
     **12,500,100,000 $EXPL**
     
     Community support and care programs
     
-    [:octicons-link-external-24: Visit explorills.care](https://explorills.care/){:target="_blank"}
+    [:octicons-link-external-24: Visit EXPL.ONE.care](https://EXPL.ONE.care/){:target="_blank"}
 
 === "Community Grants"
     **2,500,020,000 $EXPL**
@@ -57,7 +57,7 @@
 === "Developer Incentives"
     **1,250,010,000 $EXPL**
     
-    Bounties and rewards for developers building on explorills
+    Bounties and rewards for developers building on EXPL.ONE
 
 === "Node Referrals"
     **1,250,010,000 $EXPL**
@@ -71,7 +71,7 @@
 === "Liquidity Mining"
     **7,500,060,000 $EXPL**
     
-    Rewards for liquidity providers in the explorills ecosystem
+    Rewards for liquidity providers in the EXPL.ONE ecosystem
 
 === "Impermanent Loss Protection"
     **3,750,030,000 $EXPL**
@@ -81,7 +81,7 @@
 === "HUB-Verified User"
     **1,250,010,000 $EXPL**
     
-    Rewards for verified users in the explorills HUB
+    Rewards for verified users in the EXPL.ONE HUB
 
 === "TNO Cards"
     **771,000,000 $EXPL**

@@ -1,22 +1,23 @@
-# Explorills Documentation
+# EXPL.ONE Documentation
 
-Official documentation repository for Explorills, a decentralized, node-based ecosystem powered by the $EXPL token. This repository contains comprehensive technical documentation covering the network infrastructure, tokenomics model, distribution framework, and participation mechanisms.
+Official documentation repository for the ONE ecosystem, powered by EXPL Nodes and the $EXPL token. This repository contains comprehensive technical documentation covering the network infrastructure, EXPL Nodes operations, tokenomics model, distribution framework, and ONE ecosystem projects.
 
 ## Overview
 
-Explorills is built on a foundation of Node NFT Licenses that enable community-driven network operations and automated token distribution. The ecosystem establishes a transparent, incentive-driven infrastructure where participants secure the network, earn rewards in $EXPL, and contribute to a unified on-chain economy.
+The ONE ecosystem is built on a foundation of EXPL Nodes that enable community-driven network operations and automated token distribution. EXPL Nodes are the living brand and core infrastructure that power all ONE ecosystem projects. The ecosystem establishes a transparent, incentive-driven infrastructure where participants operate nodes, secure the network, mint $EXPL through immutable smart contracts, and contribute to a unified decentralized economy.
 
-**Live Documentation:** [docs.explorills.com](https://docs.explorills.com)
+**Live Documentation:** [docs.expl.one](https://docs.expl.one)
 
 ## Documentation Structure
 
 The documentation is organized into the following sections:
 
-- **Core Objectives:** Strategic development roadmap and milestone planning
-- **Nodes:** Node NFT Licenses, escrow mechanisms, pricing, and purchase procedures
-- **TNO Cards:** Tokenized NFT Offering, functionality, and minting process
-- **Tokenomics:** $EXPL supply, allocation categories, and distribution model
-- **Distribution Framework:** Token distribution channels and reward structures
+- **2026 Roadmap:** Development milestones and launch timeline
+- **EXPL Nodes:** The foundation of the ONE ecosystem - operations, escrow, pricing, and purchase
+- **ONE Projects:** ONE pump, ONE network, ONE world, and ecosystem projects overview
+- **TNO Cards:** Tokenized NFT Offering (transitional phase)
+- **Tokenomics:** $EXPL ERC20 token supply, allocation, and distribution model
+- **Distribution Framework:** EXPL Nodes-based distribution and direct mint channels
 - **Get Involved:** Contribution guidelines, collaboration opportunities, and venture programs
 
 ## Development
