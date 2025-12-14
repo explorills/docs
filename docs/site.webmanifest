@@ -1,0 +1,21 @@
+{
+  "name": "EXPL.ONE Documentation - ONE Ecosystem",
+  "short_name": "EXPL Docs",
+  "description": "Official documentation for the ONE ecosystem - powered by EXPL Nodes. Open source, community-driven, 40% revenue to EXPL Node owners.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1d1d1d",
+  "theme_color": "#a147e1",
+  "orientation": "portrait-primary",
+  "lang": "en-US",
+  "categories": ["technology", "blockchain", "web3", "documentation"],
+  "icons": [
+    {
+      "src": "/assets/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
