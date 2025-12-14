@@ -8,11 +8,11 @@
 </div>
 
 !!! quote "Community-Driven Ecosystem"
-    EXPL.ONE is a community-driven ecosystem that thrives on participation from various stakeholders. We welcome individuals and organizations who share our vision of building a next-gen decentralized internet that fundamentally redistributes power and opportunity to everyone.
+    EXPL.ONE is powered by contributors from all backgrounds. We're building a decentralized future where everyone can participate and benefit. If you share that vision, there's a place for you here.
 
 ---
 
-The strength of EXPL.ONE comes from our vibrant and diverse community of contributors, welcoming talent from all fields.
+The strength of EXPL.ONE comes from our diverse community. We welcome talent from all fields.
 
 ---
 
@@ -121,9 +121,9 @@ Interested in becoming part of EXPL.ONE? Reach out to us:
 ---
 
 !!! success "Contributor Philosophy"
-    We carefully review every inquiry and respond promptly, with a focus on developing partnerships that complement EXPL.ONE core values and strategic direction. **Looking forward to shape the future of decentralized technology together with you!**
+    We review every inquiry and respond quickly. Looking for people who align with EXPL.ONE values and want to build something meaningful together.
 
 ---
 
 !!! info "Stay Connected"
-    Stay connected with the **EXPL.ONE** community through our [Official Links](../additional-information/official-links.md)
+    Connect with the **EXPL.ONE** community through our [Official Links](../additional-information/official-links.md)

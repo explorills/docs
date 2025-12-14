@@ -3,10 +3,10 @@
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
   <p><span style="color: #ffffff;">ONE</span> <span style="color: #2563eb; font-size: 1.5em; font-weight: 600;">network</span></p>
-  <p><strong>Core Blockchain Infrastructure Powered by EXPL Nodes</strong></p>
+  <p><strong>Blockchain Infrastructure Powered by EXPL Nodes</strong></p>
 </div>
 
-**ONE network** is the foundational blockchain infrastructure powering the entire ONE ecosystem. Operated and secured by EXPL Nodes, it provides the decentralized backbone for all projects, applications, and services within the ecosystem.
+**ONE network** is the blockchain infrastructure powering the entire ONE ecosystem. Secured and operated by EXPL Nodes, it provides the decentralized backbone for all projects and services we build.
 
 **Platform**: [network.expl.one](https://network.expl.one){:target="_blank"}
 
@@ -14,47 +14,39 @@
 
 ## Overview
 
-ONE network serves as the core infrastructure layer that enables the ONE ecosystem to function as a truly decentralized, community-operated platform. Every transaction, every smart contract, and every application within the ecosystem relies on the security and performance provided by EXPL Nodes operators.
+ONE network is the core layer that makes everything work. Every transaction, every smart contract, every application in the ecosystem runs on infrastructure secured by community-operated EXPL Nodes.
 
 ---
 
 ## Key Features
 
-### Decentralized Infrastructure
+### Community-Operated
 
-**Community-Operated Network**
+- Fully decentralized network run by EXPL Nodes
+- No centralized control points
+- Community governance
+- Transparent operations
 
-- Fully decentralized network operated by EXPL Nodes
-- No reliance on centralized entities
-- Community governance and decision-making
-- Transparent network operations
-
-### EXPL Nodes Integration
-
-**Powered by the Community**
+### Powered by Nodes
 
 - 12,000+ EXPL Nodes securing the network
-- Node operators mint EXPL through immutable smart contracts
-- Daily mint permissions distributed automatically
+- Daily EXPL minting through on-chain contracts
+- Automated distribution
 - Incentive-aligned infrastructure
 
-### Liquidity Infrastructure
+### DeFi Ready
 
-**DeFi Foundation**
-
-- Integrated liquidity pools for EXPL token
+- Integrated liquidity pools for EXPL
 - Liquidity mining programs
-- Optimized routing and transaction efficiency
-- Real-time pool statistics and analytics
+- Optimized transaction routing
+- Real-time analytics
 
-### Network Security
-
-**Immutable & Transparent**
+### Secure & Transparent
 
 - Smart contract-based operations
 - Verifiable on-chain transactions
-- Cryptographic security guarantees
-- Community audit capabilities
+- Cryptographic security
+- Community-auditable
 
 ---
 
@@ -144,7 +136,7 @@ ONE network is scheduled for full production launch in Q3 2026, including:
 
 ## For Developers
 
-ONE network will provide comprehensive developer resources:
+ONE network will provide developer resources:
 
 - REST APIs for network interactions
 - WebSocket support for real-time data
@@ -152,7 +144,7 @@ ONE network will provide comprehensive developer resources:
 - Documentation and code examples
 - Testnet access for development
 
-More details coming as development progresses.
+More details as development progresses.
 
 ---
 

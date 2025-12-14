@@ -1,15 +1,15 @@
 # EXPL Nodes Overview
 
 !!! success "ERC721 EXPL Nodes"
-    EXPL Nodes are ERC721 tokens available for public purchase via the fully decentralized and immutable smart contract "EXPL_Nodes," deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} Networks. EXPL Nodes empower users to operate network infrastructure, granting them mint permissions for EXPL and participation in all ONE ecosystem projects. The full contract architecture is outlined below.
+    EXPL Nodes are ERC721 tokens you can purchase through the "EXPL_Nodes" smart contract, deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"}. Own a Node, operate network infrastructure, mint EXPL tokens, and participate in all ONE ecosystem projects. The contract is immutable and fully decentralized.
 
 **Purchase**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
 ---
 
-## First Batch: 12,000 EXPL Nodes
+## First Batch: 12,000 Nodes
 
-This is the first batch of EXPL Nodes, limited to **12,000**. Once EXPL distribution begins as an ERC20 token through these initial Nodes, a new contract will be deployed for the second batch, bringing the total to **100,000 EXPL Nodes** across the entire ONE ecosystem.
+This is batch one — **12,000 Nodes** total. Once EXPL launches as an ERC20 token and distribution begins, we'll deploy a second contract to bring the total to **100,000 Nodes** across the entire ecosystem.
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin: 30px 0; flex-wrap: wrap;">
   <figure style="text-align: center;">
@@ -26,16 +26,16 @@ This is the first batch of EXPL Nodes, limited to **12,000**. Once EXPL distribu
 
 ## EXPL_Nodes Contract
 
-ERC721 cross-chain contract with whitelist functionality, dual-escrow system and backup address support
+ERC721 cross-chain contract with whitelist, dual-escrow system, and backup address support
 
-### General Functionality
+### Core Features
 
 1. Mints 12,000 unique ERC721 tokens
-2. Features dual-escrow system (Nodes and cross-chain escrows)
-3. Supports backup address functionality for enhanced security
-4. Includes whitelist functionality for reserved minting
-5. Enables cross-chain transfers and balance management
-6. The Node Escrow automatically activates the pulling window once 1-10,800 Nodes have been minted
+2. Dual-escrow system (Node escrow + cross-chain escrow)
+3. Backup address support for extra security
+4. Whitelist minting for reserved allocations
+5. Cross-chain transfers and balance management
+6. Node escrow auto-activates pulling window after 1-10,800 Nodes minted
 
 ### Main Functions
 

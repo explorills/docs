@@ -6,7 +6,7 @@
   <p><strong>Decentralized Token Launch & Trading Platform</strong></p>
 </div>
 
-**ONE pump** is a cryptocurrency sentiment tracking application where users vote on coins through daily pumps, earn points, and maintain streaks. Part of the ONE ecosystem, powered by EXPL Nodes.
+**ONE pump** is a community-driven crypto sentiment tracker where you vote on tokens daily, earn EXPL points, and climb leaderboards. Part of the ONE ecosystem, powered by EXPL Nodes.
 
 **Platform**: [pump.expl.one](https://pump.expl.one){:target="_blank"}
 
@@ -14,46 +14,33 @@
 
 ## Overview
 
-ONE pump creates a gamified, community-driven environment for cryptocurrency discovery and sentiment tracking. Users participate daily by "pumping" their favorite tokens, competing on leaderboards, and earning EXPL points for their engagement.
+ONE pump gamifies crypto discovery through daily community voting. Pump your favorite tokens, compete on leaderboards, maintain streaks, and earn EXPL points for engagement. It's sentiment tracking meets social competition.
 
 ---
 
 ## Core Features
 
-### Voting System
+### Daily Voting
 
-**Daily Pump Mechanism**
+- One pump per user, per day
+- Track rankings by timeframe (daily, weekly, monthly, yearly, all-time)
+- Add new cryptocurrencies to the voting pool
 
-- One pump per user per day
-- View pump counts filtered by timeframe:
-    - Daily rankings
-    - Weekly trends  
-    - Monthly statistics
-    - Yearly overviews
-    - All-time leaders
-- Add new cryptocurrencies to the voting list
+### EXPL Points
 
-### Points & Rewards
+- **10 points** per daily pump
+- **100 points** for adding a new coin
+- Global leaderboard tracking
+- Transparent point system
 
-**EXPL Points Economy**
+### Streak Challenges
 
-- **10 EXPL points** for each daily pump
-- **100 EXPL points** for adding a new coin
-- Global leaderboard ranking by total points
-- Transparent point accumulation tracking
+- Track consecutive days pumping
+- **Streak Freeze**: Protect your streak for 50 EXPL
+- **Streak Challenges**: Bet points on maintaining goals
+- Streak-based leaderboards
 
-### Streak System
-
-**Consecutive Engagement Rewards**
-
-- Track consecutive days of pumping
-- **Streak Freeze**: Spend 50 EXPL to protect your streak
-- **Streak Challenges**: Bet EXPL points on maintaining streak goals
-- Competitive streak leaderboards
-
-### User Profile
-
-**Personal Dashboard**
+### Your Profile
 
 - View complete pump history
 - Track coins you've added to the platform
@@ -86,14 +73,9 @@ ONE pump is built with modern web technologies for optimal performance:
 
 ---
 
-## Community Impact
+## Why It Matters
 
-ONE pump serves as a decentralized sentiment indicator for the cryptocurrency market. By aggregating community votes and engagement, the platform provides:
-
-- Real-time sentiment tracking
-- Emerging token discovery
-- Community-validated interest signals
-- Transparent voting mechanisms
+ONE pump aggregates community sentiment into a real-time crypto signal. Track emerging tokens, see what the community is excited about, and discover projects before they trend. All votes are transparent and community-driven.
 
 ---
 

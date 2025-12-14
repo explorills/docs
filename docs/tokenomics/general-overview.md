@@ -1,21 +1,21 @@
 # General Overview
 
 !!! info "Distribution Model"
-    Out of the total supply of 55,783,940,100, 76.19% is allocated to Node-Based Distribution, covering ONE venture, ONE care, community grants, developer incentives (bounties), Node referrals, and Node operators' NET. The remaining 23.81% is designated for Direct Mint Channels, including Liquidity Mining, Impermanent Loss Protection, HUB-Verified Users, Mystery-Box, and TNO. Unlike Node-Based Distribution, Direct Mint Channels operate independently, enabling users to mint EXPL directly based on their engagement and activities within the EXPL.ONE ecosystem.
+    Out of 55,783,940,100 total supply: **76.19%** goes to Node-Based Distribution (covering ONE venture, ONE care, community grants, dev bounties, Node referrals, and operator rewards). The remaining **23.81%** goes to Direct Mint Channels (liquidity mining, impermanent loss protection, verified users, mystery boxes, and TNO). Direct channels let users mint EXPL based on their ecosystem engagement — no Node required.
 
 ---
 
-## Node Operators & Their Role in EXPL Distribution
+## Node Operators & Distribution
 
-The Node Operators are the only ones who can mint the EXPL, based on the main distribution immutable smart contracts. As tokens are minted, designated portions are automatically allocated to various types of non-custodial escrows, while Node Operators retain a fixed portion of EXPL from the total distribution during minting as a reward for contributing to the EXPL.ONE ecosystem.
+Node operators are the only ones who can mint EXPL through the main distribution contracts. When tokens are minted, portions automatically flow to various non-custodial escrows, while operators keep a fixed portion as their reward for powering the ecosystem.
 
 ---
 
 ## TNO Purpose
 
-Before EXPL is deployed as an ERC-20 token, Nodes go live, and the main distribution begins, the initial allocation of EXPL is available through the Tokenized NFT Offering (TNO). Early adopters can acquire EXPL via TNO cards at [node.expl.one/bronze](https://node.expl.one/bronze){:target="_blank"} to get involved in the project.
+Before EXPL launches as an ERC20 token and Nodes go live, early adopters can acquire EXPL through the Tokenized NFT Offering (TNO) at [node.expl.one/bronze](https://node.expl.one/bronze){:target="_blank"}.
 
-The TNO is capped at 771,000,000 EXPL out of the total supply of 55,783,940,100. These TNO allocations will initially be used to deploy the liquidity pool on the EXPL.ONE platform, establishing a fair entry point and market consistency, before the Nodes main distribution begins.
+TNO is capped at 771,000,000 EXPL (1.38% of total supply). These allocations will initially fund the liquidity pool on the EXPL.ONE platform, establishing fair market entry before Node-based distribution begins.
 
 ---
 
@@ -64,5 +64,5 @@ The TNO is capped at 771,000,000 EXPL out of the total supply of 55,783,940,100.
 
 ---
 
-!!! success "Next Section"
-    The next page outlines all the components of EXPL.ONE tokenomics along with their max supplies
+!!! success "Next Up"
+    See the complete breakdown of max supplies for each allocation category

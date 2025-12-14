@@ -6,7 +6,7 @@
   <p><strong>Metaverse & Digital Experiences Platform</strong></p>
 </div>
 
-**ONE world** is a metaverse platform connecting digital experiences within the ONE ecosystem. It enables users to interact, create, and explore virtual environments powered by EXPL Nodes infrastructure.
+**ONE world** is a metaverse platform for digital experiences in the ONE ecosystem. Interact, create, and explore virtual environments powered by EXPL Nodes infrastructure.
 
 **Platform**: [world.expl.one](https://world.expl.one){:target="_blank"}
 
@@ -14,7 +14,7 @@
 
 ## Overview
 
-ONE world represents the intersection of digital identity, virtual experiences, and blockchain-powered economies. As part of the ONE ecosystem, it leverages the security and infrastructure provided by EXPL Nodes to create a decentralized metaverse platform.
+ONE world connects digital identity, virtual experiences, and blockchain economies. Built on EXPL Nodes infrastructure for decentralized metaverse hosting.
 
 ---
 

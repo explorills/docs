@@ -2,11 +2,11 @@
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
-  <p><strong>The Foundation of the ONE Ecosystem</strong></p>
+  <p><strong>The Infrastructure Backbone of ONE</strong></p>
 </div>
 
-!!! success "EXPL Nodes - The Living Brand"
-    EXPL Nodes are the foundation of the entire ONE ecosystem, powering all deployed projects and infrastructure. Operated by community members, each EXPL Node generates daily mint permissions for EXPL through immutable smart contracts. This decentralized approach eliminates reliance on centralized entities, enabling a secure and transparent environment for building community-driven products. EXPL Nodes create a stable and sustainable economic model that benefits the entire ecosystem through EXPL.
+!!! success "EXPL Nodes Power Everything"
+    EXPL Nodes are the foundation of the entire ONE ecosystem. Run by community members worldwide, each Node generates daily EXPL minting permissions through on-chain smart contracts. This decentralized model means no single entity controls the network — just transparent, community-owned infrastructure that benefits everyone.
 
 **Purchase EXPL Nodes**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
@@ -14,13 +14,13 @@
 
 ## What are EXPL Nodes?
 
-EXPL Nodes represent the core infrastructure and brand of the ONE ecosystem. They are not just network validators—they are the decentralized backbone that:
+EXPL Nodes are more than network validators — they're the living infrastructure that powers everything we build. When you operate a Node, you're:
 
-✅ **Power Infrastructure**: Operate and secure all ONE ecosystem projects  
-✅ **Mint EXPL**: Generate daily EXPL tokens through immutable smart contracts  
-✅ **Enable Governance**: Provide community-driven decision making  
-✅ **Create Value**: Establish sustainable token distribution model  
-✅ **Build Community**: Connect operators in a shared economic system  
+✅ **Powering Infrastructure**: Running the backbone for all ONE projects  
+✅ **Minting EXPL**: Generating daily tokens through on-chain contracts  
+✅ **Enabling Governance**: Participating in community decisions  
+✅ **Creating Value**: Contributing to sustainable token distribution  
+✅ **Building Community**: Connecting with operators in a shared economy  
 
 ---
 
@@ -48,7 +48,7 @@ EXPL Nodes represent the core infrastructure and brand of the ONE ecosystem. The
 
     ---
 
-    Comprehensive pricing tiers and economic framework
+    Pricing tiers and economic framework
 
     [:octicons-arrow-right-24: View Pricing](node-pricing-structure.md)
 
@@ -67,14 +67,14 @@ EXPL Nodes represent the core infrastructure and brand of the ONE ecosystem. The
 ## 2026 Milestone
 
 **First Batch**: 12,000 EXPL Nodes  
-**Target**: Q2 2026 - First batch sold out and operational  
-**Impact**: Main EXPL distribution mechanism kicks off  
+**Target**: Q2 2026 — first batch operational  
+**Impact**: Main EXPL distribution begins  
 
 [:octicons-arrow-right-24: View Complete 2026 Roadmap](../roadmap-2026.md)
 
 ---
 
-!!! info "Powered by Community"
-    EXPL Nodes are operated by community members worldwide, creating a truly decentralized infrastructure for the ONE ecosystem.
+!!! info "Community-Powered"
+    EXPL Nodes are run by people like you across the globe, creating truly decentralized infrastructure for ONE.
 
 

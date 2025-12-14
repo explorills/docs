@@ -5,7 +5,7 @@
   <p><strong>ONE ecosystem // powered by EXPL Nodes</strong></p>
 </div>
 
-The ONE ecosystem consists of 10 interconnected projects, each designed to create a comprehensive decentralized infrastructure. All projects are powered and secured by EXPL Nodes.
+We're building 10 interconnected projects — each one designed to solve a real problem. All powered and secured by community-operated EXPL Nodes.
 
 ---
 
@@ -15,7 +15,7 @@ The ONE ecosystem consists of 10 interconnected projects, each designed to creat
 
 **Decentralized Token Launch & Trading Platform**
 
-A cryptocurrency sentiment tracking application where users vote on tokens through daily pumps, earn EXPL points, and maintain streaks. Features include voting systems, leaderboards, and community-driven token discovery.
+Community-driven crypto sentiment tracker. Vote on tokens daily, earn EXPL points, maintain streaks, and discover what the community is excited about.
 
 - **Status**: In Progress
 - **URL**: [pump.expl.one](https://pump.expl.one){:target="_blank"}
@@ -25,9 +25,9 @@ A cryptocurrency sentiment tracking application where users vote on tokens throu
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #2563eb;">network</span>
 
-**Core Blockchain Infrastructure**
+**Blockchain Infrastructure**
 
-The foundational blockchain infrastructure powering the entire ONE ecosystem. Operated by EXPL Nodes, ONE network provides the decentralized backbone for all projects, including liquidity pools and liquidity mining capabilities.
+The foundational layer powering the entire ecosystem. Secured by EXPL Nodes, handling all transactions, smart contracts, and liquidity infrastructure.
 
 - **Status**: In Progress
 - **URL**: [network.expl.one](https://network.expl.one){:target="_blank"}
@@ -37,9 +37,9 @@ The foundational blockchain infrastructure powering the entire ONE ecosystem. Op
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #ec4899;">world</span>
 
-**Metaverse & Digital Experiences Platform**
+**Metaverse & Digital Experiences**
 
-A metaverse platform connecting digital experiences, enabling users to interact, create, and explore virtual environments within the ONE ecosystem.
+Virtual environments for interaction, creation, and exploration. Digital identity meets blockchain-powered economies.
 
 - **Status**: In Progress (Beta Q4 2026)
 - **URL**: [world.expl.one](https://world.expl.one){:target="_blank"}
@@ -49,7 +49,7 @@ A metaverse platform connecting digital experiences, enabling users to interact,
 
 ## Coming Soon
 
-The following projects are in planning and development stages. Each will be announced with detailed documentation as development progresses.
+Seven more projects in planning and development. Each will be announced with full docs as we progress.
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #dc2626;">agent</span>
 **Status**: Coming Soon
@@ -74,9 +74,9 @@ The following projects are in planning and development stages. Each will be anno
 
 ---
 
-## Powered by EXPL Nodes
+## Infrastructure Foundation
 
-All ONE ecosystem projects are secured, operated, and powered by EXPL Nodes. Node operators play a critical role in maintaining network infrastructure, minting EXPL tokens, and enabling the decentralized economy.
+All 10 projects run on infrastructure secured by EXPL Nodes. Node operators maintain the network, mint EXPL tokens, and power the decentralized economy.
 
 [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
 
@@ -86,12 +86,12 @@ All ONE ecosystem projects are secured, operated, and powered by EXPL Nodes. Nod
 
 ## Development Timeline
 
-View the complete roadmap and milestones for 2026:
+See what's shipping and when:
 
 [:octicons-arrow-right-24: View 2026 Roadmap](../roadmap-2026.md)
 
 ---
 
 !!! tip "Stay Updated"
-    Follow [@EXPL.ONE](https://x.com/explorills_main) on Twitter and join our [Discord community](https://discord.gg/jaZ23J3NCc) for the latest project updates and announcements.
+    Follow [@EXPL.ONE](https://x.com/explorills_main) on Twitter or join [Discord](https://discord.gg/jaZ23J3NCc) for project updates
 

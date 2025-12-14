@@ -1,12 +1,12 @@
 # TNO Cards Introduction
 
 !!! warning "Transition Phase"
-    TNO Cards are in a transition phase. Once the liquidity pool reaches **10 million EXPL** (approximately **$40,000 USD** at 1:1 ratio), TNO Cards will be phased out and the liquidity pool will be created. At that point, EXPL will be deployed as an ERC20 token, and EXPL Nodes will become the main distribution mechanism.
+    TNO Cards are temporary. Once the liquidity pool reaches **10 million EXPL** (~**$40,000 USD** at 1:1 ratio), TNO Cards phase out and the liquidity pool launches. At that point, EXPL becomes an ERC20 token and Nodes become the main distribution mechanism.
 
 !!! info "Tokenized NFT Offering"
-    TNO Cards offer early adopters the opportunity to acquire EXPL ahead of the main launch and engage with the ONE ecosystem. Limited to 771,000,000 EXPL - 1.38% of the total supply. TNO allocations are being used to establish the initial liquidity pool, creating a fair entry point and market consistency before EXPL Nodes main distribution begins.
+    TNO Cards let early adopters acquire EXPL before the main launch. Limited to 771,000,000 EXPL — just 1.38% of total supply. TNO allocations fund the initial liquidity pool, creating fair market entry before Node-based distribution begins.
 
-**Current Status**: Available for purchase while liquidity targets are being reached.
+**Current Status**: Available for purchase while we reach liquidity targets.
 
 ---
 
@@ -26,7 +26,7 @@
 
     ---
 
-    Comprehensive pricing breakdown for all TNO card tiers
+    Complete pricing breakdown for all TNO card tiers
 
     [:octicons-arrow-right-24: View Pricing](tno-cards-pricing.md)
 
@@ -47,9 +47,9 @@
 Once liquidity targets are met:
 
 1. **Liquidity Pool Creation**: 10M EXPL minimum deployed
-2. **ERC20 Deployment**: EXPL becomes tradeable ERC20 token
+2. **ERC20 Deployment**: EXPL becomes tradeable
 3. **TNO Phase Out**: TNO Cards program concludes
-4. **EXPL Nodes Era**: Main distribution through EXPL Nodes begins
+4. **Nodes Era**: Main distribution through EXPL Nodes begins
 
 [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
 

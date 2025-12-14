@@ -1,37 +1,37 @@
 # EXPL.ONE Documentation
 
-Official documentation repository for the ONE ecosystem, powered by EXPL Nodes and the EXPL token. This repository contains comprehensive technical documentation covering the network infrastructure, EXPL Nodes operations, tokenomics model, distribution framework, and ONE ecosystem projects.
+Official docs for the ONE ecosystem — a community-driven infrastructure powered by EXPL Nodes. This repo covers everything: network operations, tokenomics, distribution mechanics, and the 10 projects we're building.
 
 ## Overview
 
-The ONE ecosystem is built on a foundation of EXPL Nodes that enable community-driven network operations and automated token distribution. EXPL Nodes are the living brand and core infrastructure that power all ONE ecosystem projects. The ecosystem establishes a transparent, incentive-driven infrastructure where participants operate nodes, secure the network, mint EXPL through immutable smart contracts, and contribute to a unified decentralized economy.
+ONE isn't another blockchain project making empty promises. We're building decentralized infrastructure that actually works, powered by community-operated EXPL Nodes. No venture capital. No profit-extraction. Just transparent, community-owned technology where Node operators mint EXPL tokens, secure the network, and share in the ecosystem's success.
 
 **Live Documentation:** [docs.expl.one](https://docs.expl.one)
 
 ## Documentation Structure
 
-The documentation is organized into the following sections:
+The docs are organized into focused sections:
 
-- **2026 Roadmap:** Development milestones and launch timeline
-- **EXPL Nodes:** The foundation of the ONE ecosystem - operations, escrow, pricing, and purchase
-- **ONE Projects:** ONE pump, ONE network, ONE world, and ecosystem projects overview
-- **TNO Cards:** Tokenized NFT Offering (transitional phase)
-- **Tokenomics:** EXPL ERC20 token supply, allocation, and distribution model
-- **Distribution Framework:** EXPL Nodes-based distribution and direct mint channels
-- **Get Involved:** Contribution guidelines, collaboration opportunities, and venture programs
+- **2026 Roadmap:** Development timeline and launch milestones
+- **EXPL Nodes:** How the infrastructure works — operations, escrow, pricing, purchase
+- **ONE Projects:** Our 10-project ecosystem (pump, network, world, and more)
+- **TNO Cards:** Transitional NFT offering before ERC20 launch
+- **Tokenomics:** EXPL supply model and distribution mechanics
+- **Distribution Framework:** How EXPL flows through Nodes and direct channels
+- **Get Involved:** Ways to contribute, collaborate, and build with us
 
 ## Development
 
-This documentation is built with [MkDocs](https://www.mkdocs.org/) using the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+This documentation runs on [MkDocs](https://www.mkdocs.org/) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
 ### Requirements
 
-- Python 3.8 or higher
-- pip package manager
+- Python 3.8+
+- pip
 
 ### Local Development
 
-Clone the repository and install dependencies:
+Clone and install:
 
 ```bash
 git clone https://github.com/explorills/docs.git
@@ -39,65 +39,69 @@ cd docs
 pip install mkdocs-material
 ```
 
-Start the development server:
+Run the dev server:
 
 ```bash
 mkdocs serve
 ```
 
+The site will be live at `http://127.0.0.1:8000`.
+
 ### Building
 
-Generate the static site:
+Generate static files:
 
 ```bash
 mkdocs build
 ```
 
-Output files are created in the `./site/` directory.
+Output lands in `./site/`.
 
 ## Contributing
 
-Contributions to improve documentation accuracy, clarity, and completeness are welcome. Please follow these guidelines:
+We welcome contributions that improve clarity, accuracy, and completeness. Here's how:
 
-1. Fork this repository
-2. Create a feature branch (`git checkout -b improve-documentation`)
-3. Edit documentation files in the `docs/` directory
-4. Test changes locally using `mkdocs serve`
-5. Commit with clear, descriptive messages
-6. Submit a pull request with a summary of changes
+1. Fork this repo
+2. Create a feature branch: `git checkout -b improve-docs`
+3. Edit files in `docs/` directory
+4. Test locally: `mkdocs serve`
+5. Commit with clear messages
+6. Open a pull request
 
 ### Writing Guidelines
 
-- Maintain technical accuracy and verify all information
-- Use clear, precise language appropriate for technical documentation
-- Follow existing markdown formatting and structural patterns
-- Include relevant examples and use cases where applicable
-- Ensure all links and references are functional
-- Preserve the existing navigation hierarchy
+- **Be accurate** — verify all technical details
+- **Be clear** — avoid jargon when plain language works
+- **Be consistent** — follow existing patterns and structure
+- **Be helpful** — include examples and real use cases
+- **Check your links** — make sure everything works
+- **Respect the hierarchy** — don't break navigation structure
 
 ## Repository Structure
 
 ```
-docs/                          # Source documentation files
-├── index.md                   # Documentation homepage
-├── core-objectives.md         # Development roadmap
+docs/                          # Source markdown files
+├── index.md                   # Homepage
+├── roadmap-2026.md            # Development roadmap
 ├── nodes/                     # Node documentation
-├── tno-cards/                 # TNO Cards documentation
-├── tokenomics/                # Tokenomics documentation
-├── distribution-framework/    # Distribution mechanisms
-├── get-involved/              # Contribution and collaboration
-├── additional-information/    # Supplementary resources
-└── assets/                    # Images and static resources
-mkdocs.yml                     # MkDocs configuration
+├── tno-cards/                 # TNO Cards docs
+├── tokenomics/                # Token economics
+├── distribution-framework/    # Distribution mechanics
+├── get-involved/              # Contribution guides
+├── additional-information/    # Supplementary info
+└── assets/                    # Images and static files
+mkdocs.yml                     # MkDocs config
 overrides/                     # Theme customization
-site/                          # Generated static site (build output)
+site/                          # Build output (generated)
 ```
 
 ## Deployment
 
-Documentation is automatically built and deployed via GitHub Actions on each push to the `main` branch. The deployment pipeline publishes to S3 with CloudFront distribution.
+Docs auto-deploy via GitHub Actions on every push to `main`. The pipeline publishes to S3 with CloudFront distribution.
 
 ## License
+
+See [LICENSE](LICENSE) for details.
 
 This documentation is open source and available under the [MIT License](LICENSE).
 

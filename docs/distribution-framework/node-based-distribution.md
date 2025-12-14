@@ -1,31 +1,31 @@
 # Node-Based Distribution
 
 !!! info "Operator-Driven Distribution"
-    Node-Based Distribution depends entirely on the Node operators. EXPL tokens are only distributed to the respective escrows when a Node operator mints them, allocating the designated shares of EXPL.
+    Node-Based Distribution depends on Node operators. EXPL only flows to escrows when an operator mints it, triggering the automated allocation.
 
 ---
 
 ## Daily Minting Permissions
 
-Each Node generates a daily minting permission of **564.30 EXPL** in total, with an additional **17.1 EXPL** if Node was purchased using a referral code. The operator can mint these tokens daily or accumulate them over any period and mint them all at once. Until minted, these tokens do not exist within the ecosystem.
+Each Node generates **564.30 EXPL** worth of daily minting permission (or **581.40 EXPL** if purchased via referral code). Operators can mint daily or accumulate permissions and mint later. Until minted, the tokens don't exist in the ecosystem.
 
 ---
 
 ## Distribution Breakdown
 
-When minting occurs, the tokens are automatically distributed to designated escrows. For instance, from the 24-hour generated minting permission of **564.30 EXPL** (excluding referrals):
+When you mint, tokens automatically distribute to designated escrows. From the base **564.30 EXPL** permission:
 
-- **342 EXPL** is split evenly between the ONE care and ONE venture escrows
+- **342 EXPL** splits evenly between ONE care and ONE venture escrows
 - From the remaining **222.30 EXPL**:
-  - **34.2 EXPL** is allocated to the Community Grants escrow
-  - **17.1 EXPL** to the Developer Incentives escrow
-  - **171 EXPL** is kept by the Node operator as a reward for contributing to the EXPL.ONE ecosystem
+  - **34.2 EXPL** → Community Grants escrow
+  - **17.1 EXPL** → Developer Incentives escrow
+  - **171 EXPL** → Node operator (your reward)
 
 ---
 
 ## Referral Bonus
 
-If the Node was purchased via a referral code, the daily minting permission increases to **581.40 EXPL** (564.30 + 17.1). The additional **17.1 EXPL** is minted directly under the referring address.
+If your Node was purchased via referral code, daily minting increases to **581.40 EXPL** (564.30 + 17.1). The extra **17.1 EXPL** goes directly to the referrer's address.
 
 ---
 
@@ -146,5 +146,5 @@ If the Node was purchased via a referral code, the daily minting permission incr
 
 ---
 
-!!! success "Next Section"
-    The next page provides an overview of all the **Direct Mint Channels** and their key details
+!!! success "Next Up"
+    Learn about all **Direct Mint Channels** and how they work

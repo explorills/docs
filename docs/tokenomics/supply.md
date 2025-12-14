@@ -131,5 +131,5 @@
 
 ---
 
-!!! success "Next Section"
-    The next section provides a comprehensive overview of the **EXPL distribution framework**
+!!! success "Next Up"
+    Learn how the **distribution framework** works in detail

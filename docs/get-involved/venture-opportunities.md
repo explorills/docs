@@ -8,11 +8,11 @@
 </div>
 
 !!! quote "Community-Driven Ecosystem"
-    EXPL.ONE is a community-driven ecosystem that thrives on participation from various stakeholders. We welcome individuals and organizations who share our vision of building a next-gen decentralized internet that fundamentally redistributes power and opportunity to everyone.
+    EXPL.ONE is building decentralized infrastructure that redistributes power and opportunity. We're looking for partners who share that vision and want to build it together.
 
 ---
 
-EXPL.ONE is creating groundbreaking infrastructure for the decentralized future, working alongside forward-thinking, visionary partners who share our enduring commitment to shaping a next-gen decentralized internet for everyone.
+We're creating infrastructure for the decentralized future, working with partners who believe in building technology that works for everyone.
 
 ---
 
@@ -48,9 +48,9 @@ EXPL.ONE is creating groundbreaking infrastructure for the decentralized future,
 
     ---
 
-    Cutting-edge research
+    Advanced research
     
-    Innovative solutions
+    Innovation initiatives
 
 </div>
 
@@ -65,9 +65,9 @@ Ready to explore opportunities? Contact us at:
 ---
 
 !!! success "Partnership Philosophy"
-    We carefully review every inquiry and respond promptly, with a focus on developing partnerships that complement EXPL.ONE core values and strategic direction. **Looking forward to shape the future of decentralized technology together with you!**
+    We review every inquiry and respond quickly. Looking for partners who align with EXPL.ONE values and want to build meaningful infrastructure together.
 
 ---
 
 !!! info "Stay Connected"
-    Stay connected with the **EXPL.ONE** community through our [Official Links](../additional-information/official-links.md)
+    Connect with the **EXPL.ONE** community through our [Official Links](../additional-information/official-links.md)

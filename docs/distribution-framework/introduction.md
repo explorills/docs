@@ -1,13 +1,13 @@
 # Distribution Master Map
 
 !!! success "EXPL Nodes-Powered Distribution"
-    The EXPL distribution is divided into two main categories: **EXPL Nodes-Based Distribution** and **Direct Mint Channels**. Through EXPL Nodes-Based Distribution, only EXPL Nodes operators mint EXPL, which is allocated to specific non-custodial automated escrows and node operators. Direct Mint Channels allow users to mint EXPL independently, without Nodes participation, as long as they meet the foundational system requirements.
+    EXPL distribution happens in two ways: **EXPL Nodes-Based Distribution** and **Direct Mint Channels**. Through Node-based distribution, only Node operators mint EXPL, which automatically flows to specific non-custodial escrows and operator rewards. Direct channels let users mint EXPL independently based on ecosystem activity — no Node required.
 
 **2026 Launch**: Main distribution begins with 12,000 EXPL Nodes operational in Q2 2026
 
 ---
 
-The EXPL Distribution Master Map outlines the total maximum supply of EXPL and its allocation across various ONE ecosystem components. Each component receives EXPL through different distribution mechanisms, with its respective maximum supply shown as a percentage of the total.
+The Distribution Master Map shows the total max supply and how it's allocated across the ONE ecosystem. Each component receives EXPL through different mechanisms, with percentages shown relative to total supply.
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
@@ -48,12 +48,12 @@ The EXPL Distribution Master Map outlines the total maximum supply of EXPL and i
 
 ## Key Principles
 
-!!! note "Distribution Mechanism"
-    **Node-Based Distribution** requires Node operators to actively mint tokens, which are then automatically allocated to non-custodial escrows and operators based on predefined ratios.
+!!! note "How It Works"
+    **Node-Based Distribution** requires Node operators to mint tokens, which then automatically allocate to non-custodial escrows and operators based on fixed ratios.
     
-    **Direct Mint Channels** enable users to mint EXPL directly by meeting specific platform requirements, independent of Node operations.
+    **Direct Mint Channels** let users mint EXPL directly by meeting specific platform requirements — independent of Node operations.
 
 ---
 
-!!! success "Next Section"
-    The following page provides a walkthrough of the **Node-Based Distribution** process
+!!! success "Next Up"
+    See how **Node-Based Distribution** works in detail

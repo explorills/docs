@@ -5,7 +5,7 @@
 </div>
 
 !!! success "Foundation Year"
-    2026 marks the foundational year for the ONE ecosystem, with EXPL Nodes becoming operational and key projects launching into production.
+    2026 is when we build the foundation: EXPL Nodes go live, key projects launch, and the ecosystem becomes operational.
 
 ---
 
@@ -15,10 +15,10 @@
 
 **EXPL ERC20 Launch**
 
-- Deploy EXPL as ERC20 token on Ethereum
-- Establish liquidity pool with 10M EXPL minimum ($40k USD 1:1 ratio)
-- Enable liquidity mining for community participants
-- TNO Cards transition begins as liquidity targets are met
+- Deploy EXPL as ERC20 on Ethereum
+- Launch liquidity pool with 10M EXPL minimum ($40k USD at 1:1 ratio)
+- Enable liquidity mining
+- Begin TNO Cards transition as liquidity targets hit
 
 ---
 
@@ -26,13 +26,13 @@
 
 **12,000 EXPL Nodes Operational**
 
-- First batch of 12,000 EXPL Nodes sold out
-- EXPL Nodes become fully operational
+- First batch of 12,000 Nodes sold out
+- Nodes become fully operational
 - Main distribution mechanism kicks off
-- Node operators begin minting EXPL through immutable smart contracts
-- Network infrastructure secured by community-run nodes
+- Operators begin minting EXPL through on-chain contracts
+- Community-run nodes secure the network
 
-**EXPL Nodes are the foundation of the entire ONE ecosystem**
+**EXPL Nodes power the entire ONE ecosystem**
 
 ---
 
@@ -98,13 +98,13 @@ The ONE ecosystem includes 10 projects total, with the following in active plann
 
 ### EXPL Nodes: The Foundation
 
-EXPL Nodes are not just infrastructure—they are the living brand and core of the ONE ecosystem:
+EXPL Nodes aren't just infrastructure — they're the living brand and core of ONE:
 
-- **Decentralized Operations**: Run by community members
-- **EXPL Minting**: Daily mint permissions through immutable smart contracts
-- **Network Security**: Secure and maintain all ONE ecosystem projects
-- **Governance**: Enable community-driven decision making
-- **Economic Foundation**: Create sustainable token distribution model
+- **Decentralized Operations**: Run by community members worldwide
+- **EXPL Minting**: Daily mint permissions through on-chain contracts
+- **Network Security**: Secure and maintain all ONE projects
+- **Governance**: Enable community-driven decisions
+- **Economic Foundation**: Create sustainable distribution model
 
 [:octicons-arrow-right-24: Purchase EXPL Nodes](https://node.expl.one){:target="_blank"}
 
@@ -112,17 +112,17 @@ EXPL Nodes are not just infrastructure—they are the living brand and core of t
 
 ## Success Metrics
 
-By end of 2026, the ONE ecosystem aims to achieve:
+By end of 2026:
 
 ✅ 12,000+ EXPL Nodes operational  
 ✅ EXPL token deployed and liquid (ERC20)  
 ✅ 10M+ EXPL in liquidity pools  
 ✅ 3 projects in production (pump, network, world)  
 ✅ Active community governance  
-✅ Sustainable economic model established  
+✅ Sustainable economic model live  
 
 ---
 
 !!! info "Stay Updated"
-    Follow our progress on [GitHub](https://github.com/explorills), [Twitter](https://x.com/explorills_main), and [Discord](https://discord.gg/jaZ23J3NCc)
+    Follow progress on [GitHub](https://github.com/explorills), [Twitter](https://x.com/explorills_main), and [Discord](https://discord.gg/jaZ23J3NCc)
 

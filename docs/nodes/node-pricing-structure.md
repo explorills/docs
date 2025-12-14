@@ -86,9 +86,7 @@
 ### Whitelist Reserve: Nodes 10,801 – 12,000
 
 !!! info "Reserved Allocation"
-    **1,200 Nodes** reserved exclusively for whitelist addresses
-    
-    Special allocation for early supporters and strategic partners
+    **1,200 Nodes** reserved for whitelist addresses — early supporters and strategic partners
 
 ---
 
@@ -140,5 +138,5 @@
 
 ---
 
-!!! success "Next Section"
-    The next page will provide instructions on how to secure your EXPL Node
+!!! success "Next Step"
+    Ready to purchase? Check out the next page for step-by-step instructions

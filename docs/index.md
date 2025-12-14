@@ -1,6 +1,6 @@
 # Welcome to ONE
 
-We're escaping digital chaos. Instead of thousands of mediocre apps drowning in AI slop and endless options, we build ONE perfect tool per category. Quality over quantity. Singularity over noise.
+We're building an escape hatch from digital chaos. Not thousands of mediocre apps drowning in AI slop and infinite scrolling — ONE perfect tool per category. Quality over quantity. Signal over noise. Purpose over profit.
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="ONE ecosystem" width="125" />
@@ -9,21 +9,23 @@ We're escaping digital chaos. Instead of thousands of mediocre apps drowning in 
 
 ---
 
-## Why ONE Exists
+## Why We Exist
 
-We're open source, community-driven, and non-capitalistic. No profit-hungry tech giants here — we create what we love because the purpose IS the creation. The community decides what's worth building, not investors or user metrics.
+We're open source, community-driven, and built outside the traditional capitalist playbook. No profit-hungry investors dictating roadmaps. No dark patterns designed to extract attention. We create what we love because the work itself is the point. The community decides what gets built, not quarterly earnings reports.
 
-Every line of code, every decision, every commit is public. Fully open source on GitHub. No hidden agendas, no corporate secrecy. Just pure transparency and community-driven innovation.
+Every line of code lives on GitHub. Every decision happens in public. No corporate secrecy, no hidden agendas. Just transparent, community-owned infrastructure.
 
 ---
 
 ## Fair Economics
 
-- **40%** of all revenue goes to Node owners (you)
-- **50%** to ONE care (charity helping the world)
-- **10%** to founders
+We split every dollar that flows through ONE:
 
-This isn't just a company — it's a movement toward fair, community-owned technology.
+- **40%** goes to Node owners (you)
+- **50%** goes to ONE care (making the world better)
+- **10%** goes to founders (keeping the lights on)
+
+This isn't a company. It's a movement toward technology that works for everyone.
 
 ---
 
@@ -35,7 +37,7 @@ This isn't just a company — it's a movement toward fair, community-owned techn
 
     ---
 
-    Key milestones and development timeline
+    Key milestones and what we're shipping this year
 
     [:octicons-arrow-right-24: View 2026 Roadmap](roadmap-2026.md)
 
@@ -43,7 +45,7 @@ This isn't just a company — it's a movement toward fair, community-owned techn
 
     ---
 
-    Your stake in the entire ecosystem — one Node equals shareholder status in all 10 projects
+    The infrastructure backbone — your stake in all 10 projects
 
     [:octicons-arrow-right-24: Explore EXPL Nodes](nodes/introduction.md)
 
@@ -51,7 +53,7 @@ This isn't just a company — it's a movement toward fair, community-owned techn
 
     ---
 
-    Discover ONE pump, network, world, and more
+    ONE pump, network, world, and 7 more on the way
 
     [:octicons-arrow-right-24: View Projects](projects/overview.md)
 
@@ -59,7 +61,7 @@ This isn't just a company — it's a movement toward fair, community-owned techn
 
     ---
 
-    EXPL distribution model and utility
+    How EXPL is created, distributed, and flows through the system
 
     [:octicons-arrow-right-24: View Tokenomics](tokenomics/introduction.md)
 
@@ -67,7 +69,7 @@ This isn't just a company — it's a movement toward fair, community-owned techn
 
     ---
 
-    Token distribution mechanisms and reward structure
+    Node-based minting and direct distribution channels
 
     [:octicons-arrow-right-24: Explore Framework](distribution-framework/introduction.md)
 
@@ -75,7 +77,7 @@ This isn't just a company — it's a movement toward fair, community-owned techn
 
     ---
 
-    Partnership opportunities and collaboration programs
+    Build with us — partnerships, collabs, and contribution paths
 
     [:octicons-arrow-right-24: Get Involved](get-involved/collabs.md)
 
@@ -105,13 +107,13 @@ This isn't just a company — it's a movement toward fair, community-owned techn
 
 ## Support
 
-For support inquiries, reach us at [support@expl.one](mailto:support@expl.one) or join our Discord community.
+Need help? Reach us at [support@expl.one](mailto:support@expl.one) or join the Discord community.
 
 !!! tip "Discord Support"
-    Mention Admin User **`orb.8888`** in General Chat or create a Support Ticket for assistance
+    Mention **`orb.8888`** in General Chat or open a Support Ticket for direct help
 
 ---
 
 !!! info "Get Started"
-    Begin by exploring our [2026 Roadmap](roadmap-2026.md) to understand the development timeline and milestones
+    Start with the [2026 Roadmap](roadmap-2026.md) to see what we're building and when it's shipping
 

@@ -1,7 +1,7 @@
 # Direct Mint Channels
 
 !!! info "Independent Minting"
-    Through Direct Mint Channels, EXPL is minted independently of the EXPL.ONE Nodes, with a total of five distinct channels provided below.
+    Direct Mint Channels let you mint EXPL without operating a Node. Five channels available, each with different requirements and rewards.
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### 1. Liquidity Mining
 
-By providing EXPL and its paired token as liquidity, EXPL is minted directly via the liquidity platform based on the amount provided and the locking duration.
+Provide EXPL and its paired token as liquidity. Mint amount depends on what you provide and how long you lock it.
 
 **Key Features:**
 - :material-chart-line: Rewards based on liquidity amount
@@ -20,7 +20,7 @@ By providing EXPL and its paired token as liquidity, EXPL is minted directly via
 
 ### 2. Impermanent Loss Protection
 
-Since long-term liquidity provision can lead to impermanent loss, a special protection pool is offered. This ensures that Liquidity Providers get back the exact amount of tokens they originally provided, regardless of market changes.
+Long-term liquidity providers risk impermanent loss. This protection pool ensures you get back exactly what you originally provided, regardless of market changes.
 
 **Key Features:**
 - :material-shield-sync: Protection against impermanent loss
@@ -31,7 +31,7 @@ Since long-term liquidity provision can lead to impermanent loss, a special prot
 
 ### 3. HUB-Verified Users
 
-The first million users who obtain HUB-verified status on the EXPL.ONE platform generate a mint permission of **1.71 EXPL** on a daily basis, per user, for **731 days** at the provided address.
+First 1,000,000 users who get HUB-verified status mint **1.71 EXPL daily** for **731 days** at their verified address.
 
 **Key Features:**
 - :material-account-check: First 1,000,000 verified users
@@ -42,7 +42,7 @@ The first million users who obtain HUB-verified status on the EXPL.ONE platform 
 
 ### 4. Mystery Box
 
-A gamified feature on the EXPL.ONE platform, offering mintable EXPL and a range of prizes. Anyone can open it every 7 days. Currently, it's available exclusively on the [EXPL.ONE Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"}.
+Gameified feature with mintable EXPL and prizes. Anyone can open it once every 7 days. Currently live on [EXPL.ONE Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"}.
 
 **Key Features:**
 - :material-gift: Open once every 7 days
@@ -131,5 +131,5 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint EXPL directly
 
 ---
 
-!!! success "Next Section"
-    The next section explains how to get involved with the EXPL.ONE ecosystem - through **collaborations, contributions, and venture partnerships**
+!!! success "Next Up"
+    Learn how to get involved through **collaborations, contributions, and venture partnerships**
