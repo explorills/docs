@@ -1,7 +1,7 @@
 # ONE pump
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="../assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
+  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
   <p style="color: #16a34a; font-size: 1.5em; font-weight: 600;">ONE pump</p>
   <p><strong>Decentralized Token Launch & Trading Platform</strong></p>
 </div>

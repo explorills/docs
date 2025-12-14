@@ -58,7 +58,7 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
 **Key Features:**
 - :material-card-account-details: Four card tiers (Bronze, Silver, Gold, Diamond)
 - :material-cash-multiple: 771,000,000 $EXPL total allocation
-- :material-shopping: Available at [mint.EXPL.ONE.com](https://mint.EXPL.ONE.com/#TNO-Bronze){:target="_blank"}
+- :material-shopping: Available at [node.expl.one/bronze){:target="_blank"}
 
 ---
 

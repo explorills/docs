@@ -2,7 +2,7 @@
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
-    <img src="../../assets/images/logo.png" alt="EXPL.ONE - Get Involved" width="125" />
+    <img src="/assets/images/logo.png" alt="EXPL.ONE - Get Involved" width="125" />
     <figcaption><em>Get Involved</em></figcaption>
   </figure>
 </div>

@@ -2,7 +2,7 @@
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
-    <img src="../../assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
+    <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
     <figcaption><strong>ONE ecosystem // powered by EXPL Nodes</strong></figcaption>
   </figure>
 </div>
@@ -26,10 +26,10 @@
 
 | Platform | Link |
 |----------|------|
-| **GitHub** | [github.com/explorills](https://github.com/explorills){:target="_blank"} |
-| **Twitter** | [x.com/explorills_main](https://x.com/explorills_main){:target="_blank"} |
-| **Discord** | [discord.gg/jaZ23J3NCc](https://discord.gg/jaZ23J3NCc){:target="_blank"} |
-| **LinkedIn** | [linkedin.com/company/explorills](https://www.linkedin.com/company/explorills){:target="_blank"} |
+| **GitHub** | [EXPL.ONE](https://github.com/explorills){:target="_blank"} |
+| **Twitter** | [EXPL.ONE](https://x.com/explorills_main){:target="_blank"} |
+| **Discord** | [EXPL.ONE](https://discord.gg/jaZ23J3NCc){:target="_blank"} |
+| **LinkedIn** | [EXPL.ONE](https://www.linkedin.com/company/explorills){:target="_blank"} |
 
 !!! info "Display Names"
     All social platforms display as **EXPL.ONE**

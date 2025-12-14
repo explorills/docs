@@ -1,7 +1,7 @@
 # ONE world
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="../assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
+  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
   <p style="color: #ec4899; font-size: 1.5em; font-weight: 600;">ONE world</p>
   <p><strong>Metaverse & Digital Experiences Platform</strong></p>
 </div>

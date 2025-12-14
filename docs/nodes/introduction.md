@@ -1,7 +1,7 @@
 # EXPL Nodes
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="../assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
+  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
   <p><strong>The Foundation of the ONE Ecosystem</strong></p>
 </div>
 
