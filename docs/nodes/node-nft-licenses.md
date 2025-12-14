@@ -1,7 +1,7 @@
 # EXPL Nodes Overview
 
 !!! success "ERC721 EXPL Nodes"
-    EXPL Nodes are ERC721 tokens available for public purchase via the fully decentralized and immutable smart contract "EXPL_Nodes," deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} Networks. EXPL Nodes empower users to operate network infrastructure, granting them mint permissions for $EXPL and participation in all ONE ecosystem projects. The full contract architecture is outlined below.
+    EXPL Nodes are ERC721 tokens available for public purchase via the fully decentralized and immutable smart contract "EXPL_Nodes," deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} Networks. EXPL Nodes empower users to operate network infrastructure, granting them mint permissions for EXPL and participation in all ONE ecosystem projects. The full contract architecture is outlined below.
 
 **Purchase**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
@@ -9,7 +9,7 @@
 
 ## First Batch: 12,000 EXPL Nodes
 
-This is the first batch of EXPL Nodes, limited to **12,000**. Once $EXPL distribution begins as an ERC20 token through these initial Nodes, a new contract will be deployed for the second batch, bringing the total to **100,000 EXPL Nodes** across the entire ONE ecosystem.
+This is the first batch of EXPL Nodes, limited to **12,000**. Once EXPL distribution begins as an ERC20 token through these initial Nodes, a new contract will be deployed for the second batch, bringing the total to **100,000 EXPL Nodes** across the entire ONE ecosystem.
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin: 30px 0; flex-wrap: wrap;">
   <figure style="text-align: center;">

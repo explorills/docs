@@ -1,10 +1,10 @@
 # EXPL.ONE Documentation
 
-Official documentation repository for the ONE ecosystem, powered by EXPL Nodes and the $EXPL token. This repository contains comprehensive technical documentation covering the network infrastructure, EXPL Nodes operations, tokenomics model, distribution framework, and ONE ecosystem projects.
+Official documentation repository for the ONE ecosystem, powered by EXPL Nodes and the EXPL token. This repository contains comprehensive technical documentation covering the network infrastructure, EXPL Nodes operations, tokenomics model, distribution framework, and ONE ecosystem projects.
 
 ## Overview
 
-The ONE ecosystem is built on a foundation of EXPL Nodes that enable community-driven network operations and automated token distribution. EXPL Nodes are the living brand and core infrastructure that power all ONE ecosystem projects. The ecosystem establishes a transparent, incentive-driven infrastructure where participants operate nodes, secure the network, mint $EXPL through immutable smart contracts, and contribute to a unified decentralized economy.
+The ONE ecosystem is built on a foundation of EXPL Nodes that enable community-driven network operations and automated token distribution. EXPL Nodes are the living brand and core infrastructure that power all ONE ecosystem projects. The ecosystem establishes a transparent, incentive-driven infrastructure where participants operate nodes, secure the network, mint EXPL through immutable smart contracts, and contribute to a unified decentralized economy.
 
 **Live Documentation:** [docs.expl.one](https://docs.expl.one)
 
@@ -16,7 +16,7 @@ The documentation is organized into the following sections:
 - **EXPL Nodes:** The foundation of the ONE ecosystem - operations, escrow, pricing, and purchase
 - **ONE Projects:** ONE pump, ONE network, ONE world, and ecosystem projects overview
 - **TNO Cards:** Tokenized NFT Offering (transitional phase)
-- **Tokenomics:** $EXPL ERC20 token supply, allocation, and distribution model
+- **Tokenomics:** EXPL ERC20 token supply, allocation, and distribution model
 - **Distribution Framework:** EXPL Nodes-based distribution and direct mint channels
 - **Get Involved:** Contribution guidelines, collaboration opportunities, and venture programs
 

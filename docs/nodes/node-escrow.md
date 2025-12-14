@@ -16,7 +16,7 @@ When users mint a Node on [node.expl.one/#EXPL-Nodes](https://node.expl.one/#EXP
    - It redirects to the corresponding EXPL Node page on the blockchain
 
 !!! success "Early Access Benefits"
-    Even before the Node escrow is released, owners can regularly use their Nodes directly from the escrow to generate mint permissions for $EXPL and gain access to all project events.
+    Even before the Node escrow is released, owners can regularly use their Nodes directly from the escrow to generate mint permissions for EXPL and gain access to all project events.
 
 ---
 

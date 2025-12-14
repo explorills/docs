@@ -50,7 +50,7 @@ ONE world is currently under active development with a planned beta launch in Q4
 
 ### Economic Integration
 
-- $EXPL token integration
+- EXPL token integration
 - Virtual asset ownership
 - Marketplace functionality
 - Creator monetization

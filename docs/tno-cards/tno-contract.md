@@ -1,7 +1,7 @@
 # TNO Contract
 
 !!! info "ERC-1155 TNO Cards"
-    TNO Cards, ERC-1155 tokens, are publicly available through the cross-chain and immutable "EXPL.ONE_TNO" smart contract on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} networks. Early adopters can obtain $EXPL via TNO Cards, enabling them to mint $EXPL as an ERC-20 token upon deployment. The contract architecture is detailed below.
+    TNO Cards, ERC-1155 tokens, are publicly available through the cross-chain and immutable "EXPL.ONE_TNO" smart contract on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} networks. Early adopters can obtain EXPL via TNO Cards, enabling them to mint EXPL as an ERC-20 token upon deployment. The contract architecture is detailed below.
 
 ---
 
@@ -12,14 +12,14 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 ### General Functionality
 
 1. Mints four types of NFTs (TNO Cards): Bronze, Silver, Gold, and Diamond
-2. Each type of TNO card holds a different value relative to EXPL.ONE' native currency $EXPL
-3. TNO cards will enable users to claim $EXPL once it's deployed
+2. Each type of TNO card holds a different value relative to EXPL.ONE' native currency EXPL
+3. TNO cards will enable users to claim EXPL once it's deployed
 4. Cross-chain NFT minting, transfers, and balance management are supported
 
 ### Main Functions
 
 - **`mint`**: Create new NFTs (TNO cards)
-- **`burnTnftForMintTerc20`**: Burn TNO cards to get ERC20 tokens $EXPL
+- **`burnTnftForMintTerc20`**: Burn TNO cards to get ERC20 tokens EXPL
 - **`receiveTnftFromUserToOtherChainsSupply`**: Transfer TNO cards to another chain
 
 ---

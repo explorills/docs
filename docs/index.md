@@ -1,11 +1,29 @@
-# Welcome to the ONE Ecosystem
+# Welcome to ONE
 
-The ONE ecosystem is a decentralized infrastructure powered by EXPL Nodes and the $EXPL token. EXPL Nodes are the foundation of the network, operated by community members who secure the infrastructure, mint $EXPL through immutable smart contracts, and enable a transparent, community-governed economy.
+We're escaping digital chaos. Instead of thousands of mediocre apps drowning in AI slop and endless options, we build ONE perfect tool per category. Quality over quantity. Singularity over noise.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
+  <img src="/assets/images/logo.png" alt="ONE ecosystem" width="125" />
   <p><strong>ONE ecosystem // powered by EXPL Nodes</strong></p>
 </div>
+
+---
+
+## Why ONE Exists
+
+We're open source, community-driven, and non-capitalistic. No profit-hungry tech giants here — we create what we love because the purpose IS the creation. The community decides what's worth building, not investors or user metrics.
+
+Every line of code, every decision, every commit is public. Fully open source on GitHub. No hidden agendas, no corporate secrecy. Just pure transparency and community-driven innovation.
+
+---
+
+## Fair Economics
+
+- **40%** of all revenue goes to Node owners (you)
+- **50%** to ONE care (charity helping the world)
+- **10%** to founders
+
+This isn't just a company — it's a movement toward fair, community-owned technology.
 
 ---
 
@@ -17,7 +35,7 @@ The ONE ecosystem is a decentralized infrastructure powered by EXPL Nodes and th
 
     ---
 
-    Key milestones and development timeline for the ONE ecosystem
+    Key milestones and development timeline
 
     [:octicons-arrow-right-24: View 2026 Roadmap](roadmap-2026.md)
 
@@ -25,15 +43,15 @@ The ONE ecosystem is a decentralized infrastructure powered by EXPL Nodes and th
 
     ---
 
-    The foundation of the ONE ecosystem infrastructure
+    Your stake in the entire ecosystem — one Node equals shareholder status in all 10 projects
 
     [:octicons-arrow-right-24: Explore EXPL Nodes](nodes/introduction.md)
 
--   :material-rocket-launch:{ .lg .middle } **ONE Projects**
+-   :material-rocket-launch:{ .lg .middle } **Projects**
 
     ---
 
-    Discover ONE pump, ONE network, ONE world, and more
+    Discover ONE pump, network, world, and more
 
     [:octicons-arrow-right-24: View Projects](projects/overview.md)
 
@@ -41,7 +59,7 @@ The ONE ecosystem is a decentralized infrastructure powered by EXPL Nodes and th
 
     ---
 
-    $EXPL tokenomics, distribution model, and utility
+    EXPL distribution model and utility
 
     [:octicons-arrow-right-24: View Tokenomics](tokenomics/introduction.md)
 
@@ -65,9 +83,7 @@ The ONE ecosystem is a decentralized infrastructure powered by EXPL Nodes and th
 
 ---
 
-## Quick Links
-
-### Main Platforms
+## Platforms
 
 | Platform | Link |
 |----------|------|
@@ -78,7 +94,7 @@ The ONE ecosystem is a decentralized infrastructure powered by EXPL Nodes and th
 | **ONE network** | [network.expl.one](https://network.expl.one){:target="_blank"} |
 | **ONE world** | [world.expl.one](https://world.expl.one){:target="_blank"} |
 
-### Social & Community
+### Community
 
 - [**GitHub**](https://github.com/explorills){:target="_blank"}: Explore Repositories
 - [**Twitter**](https://x.com/explorills_main){:target="_blank"}: Follow for Updates
@@ -97,5 +113,5 @@ For support inquiries, reach us at [support@expl.one](mailto:support@expl.one) o
 ---
 
 !!! info "Get Started"
-    Begin by exploring our [2026 Roadmap](roadmap-2026.md) to understand the ONE ecosystem development timeline and milestones
+    Begin by exploring our [2026 Roadmap](roadmap-2026.md) to understand the development timeline and milestones
 

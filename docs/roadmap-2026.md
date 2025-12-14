@@ -13,9 +13,9 @@
 
 ### Q1 2026: EXPL Token Deployment
 
-**$EXPL ERC20 Launch**
+**EXPL ERC20 Launch**
 
-- Deploy $EXPL as ERC20 token on Ethereum
+- Deploy EXPL as ERC20 token on Ethereum
 - Establish liquidity pool with 10M EXPL minimum ($40k USD 1:1 ratio)
 - Enable liquidity mining for community participants
 - TNO Cards transition begins as liquidity targets are met
@@ -29,7 +29,7 @@
 - First batch of 12,000 EXPL Nodes sold out
 - EXPL Nodes become fully operational
 - Main distribution mechanism kicks off
-- Node operators begin minting $EXPL through immutable smart contracts
+- Node operators begin minting EXPL through immutable smart contracts
 - Network infrastructure secured by community-run nodes
 
 **EXPL Nodes are the foundation of the entire ONE ecosystem**
@@ -101,7 +101,7 @@ The ONE ecosystem includes 10 projects total, with the following in active plann
 EXPL Nodes are not just infrastructure—they are the living brand and core of the ONE ecosystem:
 
 - **Decentralized Operations**: Run by community members
-- **$EXPL Minting**: Daily mint permissions through immutable smart contracts
+- **EXPL Minting**: Daily mint permissions through immutable smart contracts
 - **Network Security**: Secure and maintain all ONE ecosystem projects
 - **Governance**: Enable community-driven decision making
 - **Economic Foundation**: Create sustainable token distribution model
@@ -115,7 +115,7 @@ EXPL Nodes are not just infrastructure—they are the living brand and core of t
 By end of 2026, the ONE ecosystem aims to achieve:
 
 ✅ 12,000+ EXPL Nodes operational  
-✅ $EXPL token deployed and liquid (ERC20)  
+✅ EXPL token deployed and liquid (ERC20)  
 ✅ 10M+ EXPL in liquidity pools  
 ✅ 3 projects in production (pump, network, world)  
 ✅ Active community governance  

@@ -76,7 +76,7 @@ The following projects are in planning and development stages. Each will be anno
 
 ## Powered by EXPL Nodes
 
-All ONE ecosystem projects are secured, operated, and powered by EXPL Nodes. Node operators play a critical role in maintaining network infrastructure, minting $EXPL tokens, and enabling the decentralized economy.
+All ONE ecosystem projects are secured, operated, and powered by EXPL Nodes. Node operators play a critical role in maintaining network infrastructure, minting EXPL tokens, and enabling the decentralized economy.
 
 [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
 

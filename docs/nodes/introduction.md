@@ -6,7 +6,7 @@
 </div>
 
 !!! success "EXPL Nodes - The Living Brand"
-    EXPL Nodes are the foundation of the entire ONE ecosystem, powering all deployed projects and infrastructure. Operated by community members, each EXPL Node generates daily mint permissions for $EXPL through immutable smart contracts. This decentralized approach eliminates reliance on centralized entities, enabling a secure and transparent environment for building community-driven products. EXPL Nodes create a stable and sustainable economic model that benefits the entire ecosystem through $EXPL.
+    EXPL Nodes are the foundation of the entire ONE ecosystem, powering all deployed projects and infrastructure. Operated by community members, each EXPL Node generates daily mint permissions for EXPL through immutable smart contracts. This decentralized approach eliminates reliance on centralized entities, enabling a secure and transparent environment for building community-driven products. EXPL Nodes create a stable and sustainable economic model that benefits the entire ecosystem through EXPL.
 
 **Purchase EXPL Nodes**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
@@ -17,7 +17,7 @@
 EXPL Nodes represent the core infrastructure and brand of the ONE ecosystem. They are not just network validators—they are the decentralized backbone that:
 
 ✅ **Power Infrastructure**: Operate and secure all ONE ecosystem projects  
-✅ **Mint $EXPL**: Generate daily $EXPL tokens through immutable smart contracts  
+✅ **Mint EXPL**: Generate daily EXPL tokens through immutable smart contracts  
 ✅ **Enable Governance**: Provide community-driven decision making  
 ✅ **Create Value**: Establish sustainable token distribution model  
 ✅ **Build Community**: Connect operators in a shared economic system  
@@ -68,7 +68,7 @@ EXPL Nodes represent the core infrastructure and brand of the ONE ecosystem. The
 
 **First Batch**: 12,000 EXPL Nodes  
 **Target**: Q2 2026 - First batch sold out and operational  
-**Impact**: Main $EXPL distribution mechanism kicks off  
+**Impact**: Main EXPL distribution mechanism kicks off  
 
 [:octicons-arrow-right-24: View Complete 2026 Roadmap](../roadmap-2026.md)
 

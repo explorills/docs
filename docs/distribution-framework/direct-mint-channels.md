@@ -1,7 +1,7 @@
 # Direct Mint Channels
 
 !!! info "Independent Minting"
-    Through Direct Mint Channels, $EXPL is minted independently of the EXPL.ONE Nodes, with a total of five distinct channels provided below.
+    Through Direct Mint Channels, EXPL is minted independently of the EXPL.ONE Nodes, with a total of five distinct channels provided below.
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### 1. Liquidity Mining
 
-By providing $EXPL and its paired token as liquidity, $EXPL is minted directly via the liquidity platform based on the amount provided and the locking duration.
+By providing EXPL and its paired token as liquidity, EXPL is minted directly via the liquidity platform based on the amount provided and the locking duration.
 
 **Key Features:**
 - :material-chart-line: Rewards based on liquidity amount
@@ -31,41 +31,41 @@ Since long-term liquidity provision can lead to impermanent loss, a special prot
 
 ### 3. HUB-Verified Users
 
-The first million users who obtain HUB-verified status on the EXPL.ONE platform generate a mint permission of **1.71 $EXPL** on a daily basis, per user, for **731 days** at the provided address.
+The first million users who obtain HUB-verified status on the EXPL.ONE platform generate a mint permission of **1.71 EXPL** on a daily basis, per user, for **731 days** at the provided address.
 
 **Key Features:**
 - :material-account-check: First 1,000,000 verified users
-- :material-calendar: 1.71 $EXPL per day for 731 days
-- :material-calculator: Total of 1,250.01 $EXPL per verified user
+- :material-calendar: 1.71 EXPL per day for 731 days
+- :material-calculator: Total of 1,250.01 EXPL per verified user
 
 ---
 
 ### 4. Mystery Box
 
-A gamified feature on the EXPL.ONE platform, offering mintable $EXPL and a range of prizes. Anyone can open it every 7 days. Currently, it's available exclusively on the [EXPL.ONE Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"}.
+A gamified feature on the EXPL.ONE platform, offering mintable EXPL and a range of prizes. Anyone can open it every 7 days. Currently, it's available exclusively on the [EXPL.ONE Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"}.
 
 **Key Features:**
 - :material-gift: Open once every 7 days
-- :material-dice-multiple: Random $EXPL rewards
+- :material-dice-multiple: Random EXPL rewards
 - :fontawesome-brands-discord: Available on Discord
 
 ---
 
 ### 5. TNO (Tokenized NFT Offering)
 
-Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directly. More details are available in the [TNO Cards](../tno-cards/introduction.md) section.
+Through Tokenized NFT Offering, TNO Cards can be purchased to mint EXPL directly. More details are available in the [TNO Cards](../tno-cards/introduction.md) section.
 
 **Key Features:**
 - :material-card-account-details: Four card tiers (Bronze, Silver, Gold, Diamond)
-- :material-cash-multiple: 771,000,000 $EXPL total allocation
+- :material-cash-multiple: 771,000,000 EXPL total allocation
 - :material-shopping: Available at [node.expl.one/bronze){:target="_blank"}
 
 ---
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
-    <img src="../../assets/images/directMintChannels.png" alt="$EXPL Direct Mint Channels" style="max-width: 100%; height: auto;" />
-    <figcaption><em>$EXPL Direct Mint Channels</em></figcaption>
+    <img src="../../assets/images/directMintChannels.png" alt="EXPL Direct Mint Channels" style="max-width: 100%; height: auto;" />
+    <figcaption><em>EXPL Direct Mint Channels</em></figcaption>
   </figure>
 </div>
 
@@ -75,11 +75,11 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
 
 | Channel | Allocation | Requirements | Frequency |
 |---------|-----------|--------------|-----------|
-| **Liquidity Mining** | 7,500,060,000 $EXPL | Provide liquidity | Duration-based |
-| **ILP** | 3,750,030,000 $EXPL | LP participation | Protection pool |
-| **HUB-Verified** | 1,250,010,000 $EXPL | Verified status | 1.71 $EXPL/day for 731 days |
-| **Mystery Box** | 12,500,100 $EXPL | Platform access | Every 7 days |
-| **TNO** | 771,000,000 $EXPL | Purchase TNO Card | One-time mint |
+| **Liquidity Mining** | 7,500,060,000 EXPL | Provide liquidity | Duration-based |
+| **ILP** | 3,750,030,000 EXPL | LP participation | Protection pool |
+| **HUB-Verified** | 1,250,010,000 EXPL | Verified status | 1.71 EXPL/day for 731 days |
+| **Mystery Box** | 12,500,100 EXPL | Platform access | Every 7 days |
+| **TNO** | 771,000,000 EXPL | Purchase TNO Card | One-time mint |
 
 ---
 
@@ -93,7 +93,7 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
     
     Provide liquidity and earn
     
-    7.5B $EXPL allocation
+    7.5B EXPL allocation
 
 -   :material-shield-sync:{ .lg .middle } **ILP**
 
@@ -101,7 +101,7 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
     
     Protection for LP providers
     
-    3.75B $EXPL allocation
+    3.75B EXPL allocation
 
 -   :material-account-check:{ .lg .middle } **HUB-Verified**
 
@@ -109,7 +109,7 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
     
     Daily rewards for verified users
     
-    1.25B $EXPL allocation
+    1.25B EXPL allocation
 
 -   :material-gift:{ .lg .middle } **Mystery Box**
 
@@ -117,7 +117,7 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
     
     Weekly gamified rewards
     
-    12.5M $EXPL allocation
+    12.5M EXPL allocation
 
 -   :material-card-account-details:{ .lg .middle } **TNO Cards**
 
@@ -125,7 +125,7 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint $EXPL directl
     
     Early adopter access
     
-    771M $EXPL allocation
+    771M EXPL allocation
 
 </div>
 

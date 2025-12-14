@@ -50,7 +50,7 @@
 
 ## Purchase EXPL Nodes
 
-EXPL Nodes are the foundation of the ONE ecosystem. Become a node operator to secure the network and mint $EXPL tokens.
+EXPL Nodes are the foundation of the ONE ecosystem. Become a node operator to secure the network and mint EXPL tokens.
 
 **Purchase Link**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
@@ -62,5 +62,5 @@ EXPL Nodes are the foundation of the ONE ecosystem. Become a node operator to se
 
 - **2026 Roadmap**: [View Milestones](../roadmap-2026.md)
 - **Projects Overview**: [Explore All Projects](../projects/overview.md)
-- **Tokenomics**: [Understand $EXPL](../tokenomics/introduction.md)
+- **Tokenomics**: [Understand EXPL](../tokenomics/introduction.md)
 

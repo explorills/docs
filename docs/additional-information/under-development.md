@@ -9,11 +9,11 @@
 
 ## Upcoming Documentation
 
-### 1. $EXPL Tokenomics Escrows Architecture
+### 1. EXPL Tokenomics Escrows Architecture
 
 :material-lock-outline:{ .lg } **Non-Custodial Escrow System**
 
-Detailed architecture and mechanics of the non-custodial escrow system for $EXPL token distribution.
+Detailed architecture and mechanics of the non-custodial escrow system for EXPL token distribution.
 
 **Topics covered:**
 

@@ -1,21 +1,21 @@
 # General Overview
 
 !!! info "Distribution Model"
-    Out of the total supply of 55,783,940,100, 76.19% is allocated to Node-Based Distribution, covering ONE venture, ONE care, community grants, developer incentives (bounties), Node referrals, and Node operators' NET. The remaining 23.81% is designated for Direct Mint Channels, including Liquidity Mining, Impermanent Loss Protection, HUB-Verified Users, Mystery-Box, and TNO. Unlike Node-Based Distribution, Direct Mint Channels operate independently, enabling users to mint $EXPL directly based on their engagement and activities within the EXPL.ONE ecosystem.
+    Out of the total supply of 55,783,940,100, 76.19% is allocated to Node-Based Distribution, covering ONE venture, ONE care, community grants, developer incentives (bounties), Node referrals, and Node operators' NET. The remaining 23.81% is designated for Direct Mint Channels, including Liquidity Mining, Impermanent Loss Protection, HUB-Verified Users, Mystery-Box, and TNO. Unlike Node-Based Distribution, Direct Mint Channels operate independently, enabling users to mint EXPL directly based on their engagement and activities within the EXPL.ONE ecosystem.
 
 ---
 
-## Node Operators & Their Role in $EXPL Distribution
+## Node Operators & Their Role in EXPL Distribution
 
-The Node Operators are the only ones who can mint the $EXPL, based on the main distribution immutable smart contracts. As tokens are minted, designated portions are automatically allocated to various types of non-custodial escrows, while Node Operators retain a fixed portion of $EXPL from the total distribution during minting as a reward for contributing to the EXPL.ONE ecosystem.
+The Node Operators are the only ones who can mint the EXPL, based on the main distribution immutable smart contracts. As tokens are minted, designated portions are automatically allocated to various types of non-custodial escrows, while Node Operators retain a fixed portion of EXPL from the total distribution during minting as a reward for contributing to the EXPL.ONE ecosystem.
 
 ---
 
 ## TNO Purpose
 
-Before $EXPL is deployed as an ERC-20 token, Nodes go live, and the main distribution begins, the initial allocation of $EXPL is available through the Tokenized NFT Offering (TNO). Early adopters can acquire $EXPL via TNO cards at [node.expl.one/bronze](https://node.expl.one/bronze){:target="_blank"} to get involved in the project.
+Before EXPL is deployed as an ERC-20 token, Nodes go live, and the main distribution begins, the initial allocation of EXPL is available through the Tokenized NFT Offering (TNO). Early adopters can acquire EXPL via TNO cards at [node.expl.one/bronze](https://node.expl.one/bronze){:target="_blank"} to get involved in the project.
 
-The TNO is capped at 771,000,000 $EXPL out of the total supply of 55,783,940,100. These TNO allocations will initially be used to deploy the liquidity pool on the EXPL.ONE platform, establishing a fair entry point and market consistency, before the Nodes main distribution begins.
+The TNO is capped at 771,000,000 EXPL out of the total supply of 55,783,940,100. These TNO allocations will initially be used to deploy the liquidity pool on the EXPL.ONE platform, establishing a fair entry point and market consistency, before the Nodes main distribution begins.
 
 ---
 

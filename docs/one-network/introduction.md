@@ -34,7 +34,7 @@ ONE network serves as the core infrastructure layer that enables the ONE ecosyst
 **Powered by the Community**
 
 - 12,000+ EXPL Nodes securing the network
-- Node operators mint $EXPL through immutable smart contracts
+- Node operators mint EXPL through immutable smart contracts
 - Daily mint permissions distributed automatically
 - Incentive-aligned infrastructure
 
@@ -42,7 +42,7 @@ ONE network serves as the core infrastructure layer that enables the ONE ecosyst
 
 **DeFi Foundation**
 
-- Integrated liquidity pools for $EXPL token
+- Integrated liquidity pools for EXPL token
 - Liquidity mining programs
 - Optimized routing and transaction efficiency
 - Real-time pool statistics and analytics
@@ -68,7 +68,7 @@ ONE network is designed as a horizontally scalable infrastructure that can suppo
 - Low latency transaction processing
 
 ### Smart Contract Layer
-- $EXPL minting contracts
+- EXPL minting contracts
 - Liquidity pool management
 - Governance mechanisms
 - Cross-project integrations
@@ -80,9 +80,9 @@ ONE network is designed as a horizontally scalable infrastructure that can suppo
 
 ---
 
-## $EXPL Token Distribution
+## EXPL Token Distribution
 
-ONE network facilitates the primary distribution mechanism for $EXPL tokens:
+ONE network facilitates the primary distribution mechanism for EXPL tokens:
 
 - **Daily Minting**: EXPL Nodes generate mint permissions
 - **Immutable Contracts**: Transparent, unchangeable smart contracts
@@ -97,7 +97,7 @@ ONE network facilitates the primary distribution mechanism for $EXPL tokens:
 
 ### Participate in Network Growth
 
-- Provide liquidity to $EXPL pools
+- Provide liquidity to EXPL pools
 - Earn rewards for liquidity provision
 - Support network stability and trading efficiency
 - Transparent APY tracking and analytics
@@ -116,10 +116,10 @@ ONE network facilitates the primary distribution mechanism for $EXPL tokens:
 EXPL Nodes are not just validators—they are the living heart of ONE network:
 
 ✅ **Operate Network Infrastructure**: Run and maintain network nodes  
-✅ **Mint $EXPL Tokens**: Generate daily mint permissions  
+✅ **Mint EXPL Tokens**: Generate daily mint permissions  
 ✅ **Secure Transactions**: Validate and process network activity  
 ✅ **Enable Governance**: Participate in ecosystem decisions  
-✅ **Earn Rewards**: Receive $EXPL for network contributions  
+✅ **Earn Rewards**: Receive EXPL for network contributions  
 
 [:octicons-arrow-right-24: Purchase EXPL Nodes](https://node.expl.one){:target="_blank"}
 
@@ -161,7 +161,7 @@ More details coming as development progresses.
 Stay updated with real-time network metrics:
 
 - Number of active EXPL Nodes
-- Total $EXPL minted
+- Total EXPL minted
 - Liquidity pool depth
 - Transaction throughput
 - Network health metrics
@@ -174,7 +174,7 @@ Stay updated with real-time network metrics:
 
 ### Become a Node Operator
 
-Run an EXPL Node to directly participate in network operations and earn $EXPL rewards.
+Run an EXPL Node to directly participate in network operations and earn EXPL rewards.
 
 [:octicons-arrow-right-24: How to Purchase EXPL Nodes](../nodes/how-to-purchase-node.md)
 

@@ -1,10 +1,10 @@
 # TNO Cards Introduction
 
 !!! warning "Transition Phase"
-    TNO Cards are in a transition phase. Once the liquidity pool reaches **10 million EXPL** (approximately **$40,000 USD** at 1:1 ratio), TNO Cards will be phased out and the liquidity pool will be created. At that point, $EXPL will be deployed as an ERC20 token, and EXPL Nodes will become the main distribution mechanism.
+    TNO Cards are in a transition phase. Once the liquidity pool reaches **10 million EXPL** (approximately **$40,000 USD** at 1:1 ratio), TNO Cards will be phased out and the liquidity pool will be created. At that point, EXPL will be deployed as an ERC20 token, and EXPL Nodes will become the main distribution mechanism.
 
 !!! info "Tokenized NFT Offering"
-    TNO Cards offer early adopters the opportunity to acquire $EXPL ahead of the main launch and engage with the ONE ecosystem. Limited to 771,000,000 $EXPL - 1.38% of the total supply. TNO allocations are being used to establish the initial liquidity pool, creating a fair entry point and market consistency before EXPL Nodes main distribution begins.
+    TNO Cards offer early adopters the opportunity to acquire EXPL ahead of the main launch and engage with the ONE ecosystem. Limited to 771,000,000 EXPL - 1.38% of the total supply. TNO allocations are being used to establish the initial liquidity pool, creating a fair entry point and market consistency before EXPL Nodes main distribution begins.
 
 **Current Status**: Available for purchase while liquidity targets are being reached.
 
@@ -47,7 +47,7 @@
 Once liquidity targets are met:
 
 1. **Liquidity Pool Creation**: 10M EXPL minimum deployed
-2. **ERC20 Deployment**: $EXPL becomes tradeable ERC20 token
+2. **ERC20 Deployment**: EXPL becomes tradeable ERC20 token
 3. **TNO Phase Out**: TNO Cards program concludes
 4. **EXPL Nodes Era**: Main distribution through EXPL Nodes begins
 

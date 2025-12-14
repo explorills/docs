@@ -154,4 +154,4 @@ Mint directly from the smartphone or tablet using a Web3-enabled mobile wallet.
 ---
 
 !!! success "Next Section"
-    The upcoming section provides a detailed breakdown of **$EXPL tokenomics**
+    The upcoming section provides a detailed breakdown of **EXPL tokenomics**
