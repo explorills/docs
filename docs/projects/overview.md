@@ -11,7 +11,7 @@ The ONE ecosystem consists of 10 interconnected projects, each designed to creat
 
 ## In Production & Development
 
-### <span style="color: #16a34a;">ONE pump</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #16a34a;">pump</span>
 
 **Decentralized Token Launch & Trading Platform**
 
@@ -23,7 +23,7 @@ A cryptocurrency sentiment tracking application where users vote on tokens throu
 
 ---
 
-### <span style="color: #2563eb;">ONE network</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #2563eb;">network</span>
 
 **Core Blockchain Infrastructure**
 
@@ -35,7 +35,7 @@ The foundational blockchain infrastructure powering the entire ONE ecosystem. Op
 
 ---
 
-### <span style="color: #ec4899;">ONE world</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #ec4899;">world</span>
 
 **Metaverse & Digital Experiences Platform**
 
@@ -51,25 +51,25 @@ A metaverse platform connecting digital experiences, enabling users to interact,
 
 The following projects are in planning and development stages. Each will be announced with detailed documentation as development progresses.
 
-### <span style="color: #dc2626;">ONE agent</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #dc2626;">agent</span>
 **Status**: Coming Soon
 
-### <span style="color: #dfdfdf;">ONE chat</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #dfdfdf;">chat</span>
 **Status**: Coming Soon
 
-### <span style="color: #92400e;">ONE ID</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #92400e;">ID</span>
 **Status**: Coming Soon
 
-### <span style="color: #facc15;">ONE venture</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #facc15;">venture</span>
 **Status**: Coming Soon
 
-### <span style="color: #64748b;">ONE care</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #64748b;">care</span>
 **Status**: Coming Soon
 
-### <span style="color: #ef5609;">ONE merch</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #ef5609;">merch</span>
 **Status**: Coming Soon
 
-### <span style="color: #84cc16;">ONE space</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #84cc16;">space</span>
 **Status**: Coming Soon
 
 ---

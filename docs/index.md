@@ -80,12 +80,10 @@ The ONE ecosystem is a decentralized infrastructure powered by EXPL Nodes and th
 
 ### Social & Community
 
-| Platform | Link |
-|----------|------|
-| **GitHub** | [EXPL.ONE](https://github.com/explorills){:target="_blank"} |
-| **Twitter** | [EXPL.ONE](https://x.com/explorills_main){:target="_blank"} |
-| **Discord** | [EXPL.ONE](https://discord.gg/jaZ23J3NCc){:target="_blank"} |
-| **LinkedIn** | [EXPL.ONE](https://www.linkedin.com/company/explorills){:target="_blank"} |
+- [**GitHub**](https://github.com/explorills){:target="_blank"}: Explore Repositories
+- [**Twitter**](https://x.com/explorills_main){:target="_blank"}: Follow for Updates
+- [**Discord**](https://discord.gg/jaZ23J3NCc){:target="_blank"}: Join the Community
+- [**LinkedIn**](https://www.linkedin.com/company/explorills){:target="_blank"}: Connect with Us
 
 ---
 
