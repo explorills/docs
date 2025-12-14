@@ -28,7 +28,7 @@
 |----------|------|
 | **GitHub** | [EXPL.ONE](https://github.com/explorills){:target="_blank"} |
 | **Twitter** | [EXPL.ONE](https://x.com/explorills_main){:target="_blank"} |
-| **Discord** | [EXPL.ONE](https://discord.gg/jaZ23J3NCc){:target="_blank"} |
+| **Discord** | [EXPL.ONE](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} |
 | **LinkedIn** | [EXPL.ONE](https://www.linkedin.com/company/explorills){:target="_blank"} |
 
 !!! info "Display Names"
@@ -41,7 +41,7 @@
 | Support Channel | Details |
 |----------------|---------|
 | **Email** | [support@expl.one](mailto:support@expl.one){:target="_blank"} |
-| **Discord** | [Join our community server](https://discord.gg/jaZ23J3NCc){:target="_blank"} |
+| **Discord** | [Join our community server](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} |
 
 !!! tip "Quick Support"
     For any inquiries on Discord, mention Admin User **`orb.8888`** in the General Chat or use directly **Support Tickets**

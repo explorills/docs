@@ -100,7 +100,7 @@ This isn't a company. It's a movement toward technology that works for everyone.
 
 - [**GitHub**](https://github.com/explorills){:target="_blank"}: Explore Repositories
 - [**Twitter**](https://x.com/explorills_main){:target="_blank"}: Follow for Updates
-- [**Discord**](https://discord.gg/jaZ23J3NCc){:target="_blank"}: Join the Community
+- [**Discord**](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}: Join the Community
 - [**LinkedIn**](https://www.linkedin.com/company/explorills){:target="_blank"}: Connect with Us
 
 ---

@@ -93,5 +93,5 @@ See what's shipping and when:
 ---
 
 !!! tip "Stay Updated"
-    Follow [@EXPL.ONE](https://x.com/explorills_main) on Twitter or join [Discord](https://discord.gg/jaZ23J3NCc) for project updates
+    Follow [@EXPL.ONE](https://x.com/explorills_main) on Twitter or join [Discord](https://discord.com/invite/RetTCVq7tJ) for project updates
 

@@ -124,5 +124,5 @@ By end of 2026:
 ---
 
 !!! info "Stay Updated"
-    Follow progress on [GitHub](https://github.com/explorills), [Twitter](https://x.com/explorills_main), and [Discord](https://discord.gg/jaZ23J3NCc)
+    Follow progress on [GitHub](https://github.com/explorills), [Twitter](https://x.com/explorills_main), and [Discord](https://discord.com/invite/RetTCVq7tJ)
 

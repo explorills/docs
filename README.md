@@ -107,9 +107,9 @@ This documentation is open source and available under the [MIT License](LICENSE)
 
 ## Contact
 
-- **Website:** [explorills.com](https://explorills.com)
-- **Email:** support@explorills.com
-- **Discord:** [discord.gg/DMSSuPPrTV](https://discord.gg/DMSSuPPrTV)
+- **Website:** [EXPL.ONE](https://EXPL.ONE)
+- **Email:** support@expl.one
+- **Discord:** [discord.com/invite/RetTCVq7tJ](https://discord.com/invite/RetTCVq7tJ)
 - **GitHub:** [github.com/explorills](https://github.com/explorills)
 
 For technical support or documentation inquiries, please use the Discord server or email support.

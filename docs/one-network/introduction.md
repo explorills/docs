@@ -181,7 +181,7 @@ Contribute to network liquidity and earn mining rewards.
 ## Support & Community
 
 - **Email**: [support@expl.one](mailto:support@expl.one)
-- **Discord**: [Join the Community](https://discord.gg/jaZ23J3NCc){:target="_blank"}
+- **Discord**: [Join the Community](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
 - **GitHub**: [Explore Repositories](https://github.com/explorills){:target="_blank"}
 
 ---

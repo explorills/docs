@@ -1,6 +1,6 @@
 site_name: ONE documentation
-site_url: https://docs.expl.one
-site_description: Official docs for the ONE ecosystem - community-driven infrastructure powered by EXPL Nodes. 40% revenue to Node owners, 50% to charity, 10% to founders.
+site_url: https://docs.expl.one/
+site_description: Official documentation for the ONE ecosystem. Decentralized infrastructure powered by EXPL Nodes. 40% revenue to Node owners, 50% to charity, 10% to founders.
 site_author: EXPL.ONE Team
 repo_url: https://github.com/explorills/docs
 repo_name: explorills/docs
@@ -73,7 +73,7 @@ extra:
       link: https://x.com/explorills_main
       name: EXPL.ONE on Twitter
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/jaZ23J3NCc
+      link: https://discord.com/invite/RetTCVq7tJ
       name: EXPL.ONE Discord
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/explorills

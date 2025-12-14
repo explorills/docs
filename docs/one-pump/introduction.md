@@ -99,7 +99,7 @@ Visit [pump.expl.one](https://pump.expl.one){:target="_blank"} to start pumping 
 
 - **GitHub**: [ONE pump Repository](https://github.com/explorills/expl-one-pump){:target="_blank"}
 - **Support**: [support@expl.one](mailto:support@expl.one)
-- **Community**: [Discord](https://discord.gg/jaZ23J3NCc){:target="_blank"}
+- **Community**: [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
 
 ---
 

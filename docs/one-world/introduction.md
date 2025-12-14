@@ -101,7 +101,7 @@ ONE world's infrastructure is secured and operated by EXPL Nodes, ensuring:
 
 Follow the development progress of ONE world:
 
-- **Discord**: [Join the Community](https://discord.gg/jaZ23J3NCc){:target="_blank"}
+- **Discord**: [Join the Community](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
 - **Twitter**: [@EXPL.ONE](https://x.com/explorills_main){:target="_blank"}
 - **GitHub**: [Project Updates](https://github.com/explorills){:target="_blank"}
 
@@ -111,7 +111,7 @@ Follow the development progress of ONE world:
 
 Information about beta access and early adopter programs will be announced as we approach the Q4 2026 beta launch.
 
-Join our [Discord community](https://discord.gg/jaZ23J3NCc){:target="_blank"} to stay informed about early access opportunities.
+Join our [Discord community](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} to stay informed about early access opportunities.
 
 ---
 

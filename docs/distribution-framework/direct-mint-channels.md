@@ -42,7 +42,7 @@ First 1,000,000 users who get HUB-verified status mint **1.71 EXPL daily** for *
 
 ### 4. Mystery Box
 
-Gameified feature with mintable EXPL and prizes. Anyone can open it once every 7 days. Currently live on [EXPL.ONE Discord](https://discord.gg/DMSSuPPrTV){:target="_blank"}.
+Gameified feature with mintable EXPL and prizes. Anyone can open it once every 7 days. Currently live on [EXPL.ONE Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}.
 
 **Key Features:**
 - :material-gift: Open once every 7 days

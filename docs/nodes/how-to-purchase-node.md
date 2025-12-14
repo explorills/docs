@@ -88,7 +88,7 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 | Support Channel | Details |
 |----------------|---------|
 | **Email** | [support@expl.one](mailto:support@expl.one){:target="_blank"} |
-| **Discord** | [Join our community server](https://discord.gg/DMSSuPPrTV){:target="_blank"} |
+| **Discord** | [Join our community server](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} |
 
 !!! tip "Quick Support"
     For any inquiries on Discord, mention Admin User **`orb.8888`** in the General Chat or use directly **Support Tickets**
