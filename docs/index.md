@@ -3,7 +3,7 @@
 The ONE ecosystem is a decentralized infrastructure powered by EXPL Nodes and the $EXPL token. EXPL Nodes are the foundation of the network, operated by community members who secure the infrastructure, mint $EXPL through immutable smart contracts, and enable a transparent, community-governed economy.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
+  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
   <p><strong>ONE ecosystem // powered by EXPL Nodes</strong></p>
 </div>
 

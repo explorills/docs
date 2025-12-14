@@ -1,7 +1,7 @@
 # 2026 Roadmap
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
+  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
 </div>
 
 !!! success "Foundation Year"

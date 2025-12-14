@@ -1,8 +1,8 @@
-# ONE network
+# <span style="color: #ffffff;">ONE</span> <span style="color: #2563eb;">network</span>
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
-  <p style="color: #2563eb; font-size: 1.5em; font-weight: 600;">ONE network</p>
+  <p><span style="color: #ffffff;">ONE</span> <span style="color: #2563eb; font-size: 1.5em; font-weight: 600;">network</span></p>
   <p><strong>Core Blockchain Infrastructure Powered by EXPL Nodes</strong></p>
 </div>
 
