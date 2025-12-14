@@ -9,8 +9,6 @@ repo_name: explorills/docs
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
-  - minify:
-      minify_html: true
 
 theme:
   name: material
