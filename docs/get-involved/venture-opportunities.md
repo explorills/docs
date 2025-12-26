@@ -7,12 +7,12 @@
   </figure>
 </div>
 
-!!! quote "Community-Driven Ecosystem"
-    EXPL.ONE is building decentralized infrastructure that redistributes power and opportunity. We're looking for partners who share that vision and want to build it together.
+!!! quote "Partnership Overview"
+    EXPL.ONE is developing decentralized infrastructure and blockchain-based products. We work with strategic partners and investors who are interested in contributing to the ecosystem's technical and commercial development.
 
 ---
 
-We're creating infrastructure for the decentralized future, working with partners who believe in building technology that works for everyone.
+We are open to partnerships across protocol development, ecosystem growth, and infrastructure expansion. Collaboration opportunities are evaluated based on strategic alignment and technical capability.
 
 ---
 
@@ -64,8 +64,8 @@ Ready to explore opportunities? Contact us at:
 
 ---
 
-!!! success "Partnership Philosophy"
-    We review every inquiry and respond quickly. Looking for partners who align with EXPL.ONE values and want to build meaningful infrastructure together.
+!!! success "Partnership Process"
+    All partnership inquiries are reviewed and evaluated based on strategic fit, technical capabilities, and alignment with ecosystem development objectives. Responses are provided in a timely manner.
 
 ---
 

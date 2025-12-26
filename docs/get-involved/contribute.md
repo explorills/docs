@@ -7,12 +7,12 @@
   </figure>
 </div>
 
-!!! quote "Community-Driven Ecosystem"
-    EXPL.ONE is powered by contributors from all backgrounds. We're building a decentralized future where everyone can participate and benefit. If you share that vision, there's a place for you here.
+!!! quote "Open Contribution Model"
+    EXPL.ONE is developed through open-source contributions across multiple technical and operational domains. The project welcomes contributors with relevant expertise in blockchain development, infrastructure, and ecosystem operations.
 
 ---
 
-The strength of EXPL.ONE comes from our diverse community. We welcome talent from all fields.
+EXPL.ONE accepts contributions across technical development, community operations, and content creation. Contributors are evaluated based on technical capability and domain expertise.
 
 ---
 
@@ -120,8 +120,8 @@ Interested in becoming part of EXPL.ONE? Reach out to us:
 
 ---
 
-!!! success "Contributor Philosophy"
-    We review every inquiry and respond quickly. Looking for people who align with EXPL.ONE values and want to build something meaningful together.
+!!! success "Contribution Process"
+    All contributor inquiries are reviewed based on technical expertise, relevant experience, and alignment with project development objectives.
 
 ---
 

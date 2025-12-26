@@ -6,7 +6,7 @@
   <p><strong>Blockchain Infrastructure Powered by EXPL Nodes</strong></p>
 </div>
 
-**ONE network** is the blockchain infrastructure powering the entire ONE ecosystem. Secured and operated by EXPL Nodes, it provides the decentralized backbone for all projects and services we build.
+**ONE network** is the blockchain infrastructure layer for the ONE ecosystem. Operated by EXPL Nodes, it provides distributed infrastructure for all ecosystem projects and services.
 
 **Platform**: [network.expl.one](https://network.expl.one){:target="_blank"}
 
@@ -14,18 +14,18 @@
 
 ## Overview
 
-ONE network is the core layer that makes everything work. Every transaction, every smart contract, every application in the ecosystem runs on infrastructure secured by community-operated EXPL Nodes.
+ONE network serves as the foundational blockchain layer for the ecosystem. All transactions, smart contracts, and applications execute on infrastructure maintained by EXPL Node operators.
 
 ---
 
 ## Key Features
 
-### Community-Operated
+### Distributed Operations
 
-- Fully decentralized network run by EXPL Nodes
-- No centralized control points
-- Community governance
-- Transparent operations
+- Decentralized network operated by EXPL Nodes
+- Distributed consensus mechanism
+- Protocol governance through node operators
+- Transparent on-chain operations
 
 ### Powered by Nodes
 
@@ -105,13 +105,13 @@ ONE network facilitates the primary distribution mechanism for EXPL tokens:
 
 ## EXPL Nodes: The Foundation
 
-EXPL Nodes are not just validators—they are the living heart of ONE network:
+EXPL Nodes function as network validators and infrastructure operators:
 
-✅ **Operate Network Infrastructure**: Run and maintain network nodes  
-✅ **Mint EXPL Tokens**: Generate daily mint permissions  
-✅ **Secure Transactions**: Validate and process network activity  
-✅ **Enable Governance**: Participate in ecosystem decisions  
-✅ **Earn Rewards**: Receive EXPL for network contributions  
+✅ **Operate Network Infrastructure**: Run and maintain distributed network nodes
+✅ **Mint EXPL Tokens**: Execute daily token minting via smart contracts
+✅ **Secure Transactions**: Validate and process on-chain transactions
+✅ **Enable Governance**: Vote on protocol proposals and decisions
+✅ **Earn Rewards**: Receive EXPL allocation for infrastructure operations  
 
 [:octicons-arrow-right-24: Purchase EXPL Nodes](https://node.expl.one){:target="_blank"}
 
@@ -186,6 +186,6 @@ Contribute to network liquidity and earn mining rewards.
 
 ---
 
-!!! success "The Core of ONE Ecosystem"
-    ONE network is the foundation that makes everything else possible. Powered by community-operated EXPL Nodes, it represents a truly decentralized approach to blockchain infrastructure.
+!!! success "Core Infrastructure Layer"
+    ONE network provides the foundational blockchain infrastructure for the ecosystem. Operated by distributed EXPL Nodes, it implements a decentralized architecture for transaction processing and smart contract execution.
 

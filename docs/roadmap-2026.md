@@ -5,7 +5,7 @@
 </div>
 
 !!! success "Foundation Year"
-    2026 is when we build the foundation: EXPL Nodes go live, key projects launch, and the ecosystem becomes operational.
+    2026 marks the deployment of core infrastructure: EXPL Nodes launch, primary projects enter production, and the ecosystem becomes operational.
 
 ---
 
@@ -98,13 +98,13 @@ The ONE ecosystem includes 10 projects total, with the following in active plann
 
 ### EXPL Nodes: The Foundation
 
-EXPL Nodes aren't just infrastructure — they're the living brand and core of ONE:
+EXPL Nodes provide the core infrastructure layer for the ONE ecosystem:
 
-- **Decentralized Operations**: Run by community members worldwide
-- **EXPL Minting**: Daily mint permissions through on-chain contracts
-- **Network Security**: Secure and maintain all ONE projects
-- **Governance**: Enable community-driven decisions
-- **Economic Foundation**: Create sustainable distribution model
+- **Decentralized Operations**: Operated by independent node operators globally
+- **EXPL Minting**: Daily mint permissions executed via on-chain contracts
+- **Network Security**: Distributed security for all ONE projects
+- **Governance**: Protocol-level decision making and voting
+- **Economic Foundation**: Structured token distribution mechanism
 
 [:octicons-arrow-right-24: Purchase EXPL Nodes](https://node.expl.one){:target="_blank"}
 

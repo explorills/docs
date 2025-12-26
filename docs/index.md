@@ -1,6 +1,6 @@
 # Welcome to ONE
 
-We're building an escape hatch from digital chaos. Not thousands of mediocre apps drowning in AI slop and infinite scrolling — ONE perfect tool per category. Quality over quantity. Signal over noise. Purpose over profit.
+ONE is a decentralized ecosystem consisting of 10 specialized projects, each designed to address specific use cases within the blockchain and digital infrastructure space. The platform operates on a node-based architecture powered by EXPL Nodes, enabling distributed operations and token distribution.
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="ONE ecosystem" width="125" />
@@ -9,23 +9,23 @@ We're building an escape hatch from digital chaos. Not thousands of mediocre app
 
 ---
 
-## Why We Exist
+## Architecture Overview
 
-We're open source, community-driven, and built outside the traditional capitalist playbook. No profit-hungry investors dictating roadmaps. No dark patterns designed to extract attention. We create what we love because the work itself is the point. The community decides what gets built, not quarterly earnings reports.
+ONE operates as an open-source, decentralized infrastructure platform. Development is transparent with all code repositories publicly available on GitHub. The ecosystem is governed through community participation via EXPL Node operators who maintain network infrastructure and participate in protocol decisions.
 
-Every line of code lives on GitHub. Every decision happens in public. No corporate secrecy, no hidden agendas. Just transparent, community-owned infrastructure.
+Technical operations are managed through on-chain smart contracts that handle token distribution, escrow mechanisms, and node operations. This architecture eliminates centralized control points while maintaining operational efficiency.
 
 ---
 
-## Fair Economics
+## Economic Model
 
-We split every dollar that flows through ONE:
+The ONE ecosystem implements a structured revenue distribution model:
 
-- **40%** goes to Node owners (you)
-- **50%** goes to ONE care (making the world better)
-- **10%** goes to founders (keeping the lights on)
+- **40%** allocated to Node operators (infrastructure providers)
+- **50%** allocated to ONE care (ecosystem development and community initiatives)
+- **10%** allocated to founding team (core development and operations)
 
-This isn't a company. It's a movement toward technology that works for everyone.
+This distribution model aligns long-term incentives across operators, users, and developers while supporting sustainable ecosystem growth.
 
 ---
 

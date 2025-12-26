@@ -6,7 +6,7 @@
   <p><strong>Decentralized Token Launch & Trading Platform</strong></p>
 </div>
 
-**ONE pump** is a community-driven crypto sentiment tracker where you vote on tokens daily, earn EXPL points, and climb leaderboards. Part of the ONE ecosystem, powered by EXPL Nodes.
+**ONE pump** is a token sentiment tracking platform with daily voting mechanics, EXPL point rewards, and competitive leaderboards. Operates as part of the ONE ecosystem infrastructure.
 
 **Platform**: [pump.expl.one](https://pump.expl.one){:target="_blank"}
 
@@ -14,7 +14,7 @@
 
 ## Overview
 
-ONE pump gamifies crypto discovery through daily community voting. Pump your favorite tokens, compete on leaderboards, maintain streaks, and earn EXPL points for engagement. It's sentiment tracking meets social competition.
+ONE pump implements a daily voting system for cryptocurrency sentiment tracking. Users vote on tokens, accumulate EXPL points through platform engagement, and participate in streak-based challenges. The platform aggregates voting data to provide community sentiment metrics.
 
 ---
 
@@ -73,9 +73,9 @@ ONE pump is built with modern web technologies for optimal performance:
 
 ---
 
-## Why It Matters
+## Use Cases
 
-ONE pump aggregates community sentiment into a real-time crypto signal. Track emerging tokens, see what the community is excited about, and discover projects before they trend. All votes are transparent and community-driven.
+ONE pump provides aggregated community sentiment data for cryptocurrency evaluation. The platform enables tracking of emerging tokens through voting patterns and maintains transparent, on-chain voting records. Users can analyze sentiment trends across multiple timeframes.
 
 ---
 

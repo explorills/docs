@@ -6,7 +6,7 @@
 </div>
 
 !!! success "EXPL Nodes Power Everything"
-    EXPL Nodes are the foundation of the entire ONE ecosystem. Run by community members worldwide, each Node generates daily EXPL minting permissions through on-chain smart contracts. This decentralized model means no single entity controls the network — just transparent, community-owned infrastructure that benefits everyone.
+    EXPL Nodes are the infrastructure foundation of the ONE ecosystem. Each Node operates on-chain smart contracts that provide daily EXPL minting permissions. The distributed node architecture ensures no single point of control while maintaining network operations.
 
 **Purchase EXPL Nodes**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
@@ -14,13 +14,13 @@
 
 ## What are EXPL Nodes?
 
-EXPL Nodes are more than network validators — they're the living infrastructure that powers everything we build. When you operate a Node, you're:
+EXPL Nodes function as both network validators and distribution mechanisms. Node operators perform the following functions:
 
-✅ **Powering Infrastructure**: Running the backbone for all ONE projects  
-✅ **Minting EXPL**: Generating daily tokens through on-chain contracts  
-✅ **Enabling Governance**: Participating in community decisions  
-✅ **Creating Value**: Contributing to sustainable token distribution  
-✅ **Building Community**: Connecting with operators in a shared economy  
+✅ **Infrastructure Operations**: Maintaining network infrastructure for all ONE projects
+✅ **Token Minting**: Executing daily token generation via on-chain contracts
+✅ **Governance Participation**: Voting on protocol proposals and ecosystem decisions
+✅ **Distribution Management**: Facilitating structured token distribution processes
+✅ **Network Security**: Contributing to distributed network consensus  
 
 ---
 
@@ -74,7 +74,7 @@ EXPL Nodes are more than network validators — they're the living infrastructur
 
 ---
 
-!!! info "Community-Powered"
-    EXPL Nodes are run by people like you across the globe, creating truly decentralized infrastructure for ONE.
+!!! info "Distributed Operations"
+    EXPL Nodes are operated by independent node operators globally, providing distributed infrastructure for the ONE ecosystem.
 
 

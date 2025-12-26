@@ -5,7 +5,7 @@
   <p><strong>ONE ecosystem // powered by EXPL Nodes</strong></p>
 </div>
 
-We're building 10 interconnected projects — each one designed to solve a real problem. All powered and secured by community-operated EXPL Nodes.
+The ONE ecosystem comprises 10 interconnected projects, each addressing specific use cases within the decentralized infrastructure space. All projects operate on infrastructure maintained by EXPL Nodes.
 
 ---
 
@@ -15,7 +15,7 @@ We're building 10 interconnected projects — each one designed to solve a real 
 
 **Decentralized Token Launch & Trading Platform**
 
-Community-driven crypto sentiment tracker. Vote on tokens daily, earn EXPL points, maintain streaks, and discover what the community is excited about.
+Token sentiment tracking and voting platform. Users participate in daily token voting, earn EXPL points, maintain engagement streaks, and access community sentiment data.
 
 - **Status**: In Progress
 - **URL**: [pump.expl.one](https://pump.expl.one){:target="_blank"}
@@ -39,7 +39,7 @@ The foundational layer powering the entire ecosystem. Secured by EXPL Nodes, han
 
 **Metaverse & Digital Experiences**
 
-Virtual environments for interaction, creation, and exploration. Digital identity meets blockchain-powered economies.
+Virtual environment platform supporting user interaction, content creation, and digital asset management. Integrates digital identity with blockchain-based economic systems.
 
 - **Status**: In Progress (Beta Q4 2026)
 - **URL**: [world.expl.one](https://world.expl.one){:target="_blank"}
