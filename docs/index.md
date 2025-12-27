@@ -21,8 +21,8 @@ Technical operations are managed through on-chain smart contracts that handle to
 
 The ONE ecosystem implements a structured revenue distribution model:
 
-- **40%** allocated to Node operators (infrastructure providers)
-- **50%** allocated to ONE care (ecosystem development and community initiatives)
+- **45%** allocated to EXPL Nodes (infrastructure providers)
+- **45%** allocated to ONE Creators
 - **10%** allocated to founding team (core development and operations)
 
 This distribution model aligns long-term incentives across operators, users, and developers while supporting sustainable ecosystem growth.
