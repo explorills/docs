@@ -5,7 +5,7 @@
   <p><strong>ONE ecosystem // powered by EXPL Nodes</strong></p>
 </div>
 
-The ONE ecosystem comprises 10 interconnected projects, each addressing specific use cases within the decentralized infrastructure space. All projects operate on infrastructure maintained by EXPL Nodes.
+The ONE ecosystem comprises interconnected projects, each addressing specific use cases within the decentralized infrastructure space. All projects operate on infrastructure maintained by EXPL Nodes.
 
 ---
 
@@ -49,7 +49,7 @@ Virtual environment platform supporting user interaction, content creation, and 
 
 ## Coming Soon
 
-Seven more projects in planning and development. Each will be announced with full docs as we progress.
+Additional projects in planning and development. Each will be announced with full docs as we progress.
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #dc2626;">agent</span>
 **Status**: Coming Soon
@@ -76,7 +76,7 @@ Seven more projects in planning and development. Each will be announced with ful
 
 ## Infrastructure Foundation
 
-All 10 projects run on infrastructure secured by EXPL Nodes. Node operators maintain the network, mint EXPL tokens, and power the decentralized economy.
+All projects run on infrastructure secured by EXPL Nodes. Node operators maintain the network, mint EXPL tokens, and power the decentralized economy.
 
 [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
 

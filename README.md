@@ -1,6 +1,6 @@
 # EXPL.ONE Documentation
 
-Official docs for the ONE ecosystem — a community-driven infrastructure powered by EXPL Nodes. This repo covers everything: network operations, tokenomics, distribution mechanics, and the 10 projects we're building.
+Official docs for the ONE ecosystem — a community-driven infrastructure powered by EXPL Nodes. This repo covers everything: network operations, tokenomics, distribution mechanics, and the projects we're building.
 
 ## Overview
 
@@ -14,7 +14,7 @@ The docs are organized into focused sections:
 
 - **2026 Roadmap:** Development timeline and launch milestones
 - **EXPL Nodes:** How the infrastructure works — operations, escrow, pricing, purchase
-- **ONE Projects:** Our 10-project ecosystem (pump, network, world, and more)
+- **ONE Projects:** Our ecosystem projects (pump, network, world, and more)
 - **TNO Cards:** Transitional NFT offering before ERC20 launch
 - **Tokenomics:** EXPL supply model and distribution mechanics
 - **Distribution Framework:** How EXPL flows through Nodes and direct channels

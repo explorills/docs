@@ -80,7 +80,7 @@
 
 ## Additional Projects in Development
 
-The ONE ecosystem includes 10 projects total, with the following in active planning and development for future launches:
+The ONE ecosystem includes the following projects in active planning and development for future launches:
 
 - **ONE agent** - Coming Soon
 - **ONE chat** - Coming Soon
