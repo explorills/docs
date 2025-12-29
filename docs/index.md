@@ -1,6 +1,6 @@
 # Welcome to ONE
 
-ONE is a decentralized ecosystem consisting of specialized projects, each designed to address specific use cases within the blockchain and digital infrastructure space. The platform operates on a node-based architecture powered by EXPL Nodes, enabling distributed operations and token distribution.
+ONE is a decentralized ecosystem consisting of specialized projects, each designed to address specific use cases within the blockchain and digital infrastructure space. The platform operates on a node-based architecture powered by EXPL Nodes, enabling decentralized operations and token distribution.
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="ONE ecosystem" width="125" />
