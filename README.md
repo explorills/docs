@@ -15,7 +15,6 @@ The docs are organized into focused sections:
 - **2026 Roadmap:** Development timeline and launch milestones
 - **EXPL Nodes:** How the infrastructure works — operations, escrow, pricing, purchase
 - **ONE Projects:** Our ecosystem projects (pump, network, world, and more)
-- **TNO Cards:** Transitional NFT offering before ERC20 launch
 - **Tokenomics:** EXPL supply model and distribution mechanics
 - **Distribution Framework:** How EXPL flows through Nodes and direct channels
 - **Get Involved:** Ways to contribute, collaborate, and build with us
@@ -84,7 +83,7 @@ docs/                          # Source markdown files
 ├── index.md                   # Homepage
 ├── roadmap-2026.md            # Development roadmap
 ├── nodes/                     # Node documentation
-├── tno-cards/                 # TNO Cards docs
+├── archive/                   # Archived docs (TNO Cards)
 ├── tokenomics/                # Token economics
 ├── distribution-framework/    # Distribution mechanics
 ├── get-involved/              # Contribution guides

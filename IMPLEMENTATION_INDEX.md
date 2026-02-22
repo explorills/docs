@@ -117,7 +117,7 @@ ONE world: #ec4899
 - docs/nodes/how-to-purchase-node.md
 - docs/distribution-framework/direct-mint-channels.md
 - docs/additional-information/official-links.md
-- docs/tno-cards/how-to-mint-tno-cards.md
+- docs/archive/tno-cards/how-to-mint-tno-cards.md
 - And more...
 
 ### New Files

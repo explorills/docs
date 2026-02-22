@@ -148,4 +148,4 @@ Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
 ---
 
 !!! success "Next Section"
-    The upcoming section provides a detailed breakdown of explorills **Tokenized NFT Offering - TNO Cards**
+    The upcoming section provides a detailed breakdown of **EXPL tokenomics**

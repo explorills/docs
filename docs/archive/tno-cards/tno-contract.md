@@ -1,7 +1,15 @@
 # TNO Contract
 
-!!! info "ERC-1155 TNO Cards"
-    TNO Cards, ERC-1155 tokens, are publicly available through the cross-chain and immutable "EXPL.ONE_TNO" smart contract on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} networks. Early adopters can obtain EXPL via TNO Cards, enabling them to mint EXPL as an ERC-20 token upon deployment. The contract architecture is detailed below.
+!!! danger "Archived — Contract Paused & Renounced"
+    **This page is archived for historical reference only.** The EXPL.ONE_TNO smart contract has been permanently deactivated. The contract is paused on both Ethereum and Flare networks, the signer public key has been set to `0x00dEaD`, and ownership has been renounced on both chains. No further minting, burning, or transfer operations are possible.
+
+    [:octicons-arrow-right-24: Learn about current tokenomics](../../tokenomics/general-overview.md)
+
+---
+
+## Historical Contract Details
+
+The EXPL.ONE_TNO was an ERC-1155 smart contract deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"} networks. The contract architecture is preserved below for reference.
 
 ---
 
@@ -72,5 +80,7 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 
 ---
 
-!!! success "Next Section"
-    The next page will provide a detailed breakdown of the TNO Cards pricing model
+!!! warning "Contract Status"
+    The EXPL.ONE_TNO contract is **permanently inactive**. Signer key set to `0x00dEaD`, ownership renounced on both chains. The contract addresses below are provided for verification purposes only.
+
+    The next page provides the historical pricing model for TNO Cards

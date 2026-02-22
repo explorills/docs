@@ -211,3 +211,5 @@ __marimo__/
 
 # MkDocs build output
 site/
+z-1-claude-commands/
+z-2-components-materials/

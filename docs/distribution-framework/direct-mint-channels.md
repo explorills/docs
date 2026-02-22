@@ -1,7 +1,7 @@
 # Direct Mint Channels
 
 !!! info "Independent Minting"
-    Direct Mint Channels let you mint EXPL without operating a Node. Five channels available, each with different requirements and rewards.
+    Direct Mint Channels let you mint EXPL without operating a Node. Four channels available, each with different requirements and rewards.
 
 ---
 
@@ -51,17 +51,6 @@ Gameified feature with mintable EXPL and prizes. Anyone can open it once every 7
 
 ---
 
-### 5. TNO (Tokenized NFT Offering)
-
-Through Tokenized NFT Offering, TNO Cards can be purchased to mint EXPL directly. More details are available in the [TNO Cards](../tno-cards/introduction.md) section.
-
-**Key Features:**
-- :material-card-account-details: Four card tiers (Bronze, Silver, Gold, Diamond)
-- :material-cash-multiple: 771,000,000 EXPL total allocation
-- :material-shopping: Available at [node.expl.one/bronze){:target="_blank"}
-
----
-
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
     <img src="../../assets/images/directMintChannels.png" alt="EXPL Direct Mint Channels" style="max-width: 100%; height: auto;" />
@@ -79,7 +68,6 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint EXPL directly
 | **ILP** | 3,750,030,000 EXPL | LP participation | Protection pool |
 | **HUB-Verified** | 1,250,010,000 EXPL | Verified status | 1.71 EXPL/day for 731 days |
 | **Mystery Box** | 12,500,100 EXPL | Platform access | Every 7 days |
-| **TNO** | 771,000,000 EXPL | Purchase TNO Card | One-time mint |
 
 ---
 
@@ -119,15 +107,14 @@ Through Tokenized NFT Offering, TNO Cards can be purchased to mint EXPL directly
     
     12.5M EXPL allocation
 
--   :material-card-account-details:{ .lg .middle } **TNO Cards**
-
-    ---
-    
-    Early adopter access
-    
-    771M EXPL allocation
-
 </div>
+
+---
+
+!!! note "Founding Contributors Royalty"
+    The 771,000,000 EXPL (1.38%) previously allocated to TNO Cards has been moved to **Node-Based Distribution** as the **Founding Contributors Royalty**. Each of the 100,000 EXPL Nodes generates +10 EXPL daily for founding contributors over 731 days.
+
+    [:octicons-arrow-right-24: Learn about Node-Based Distribution](node-based-distribution.md)
 
 ---
 

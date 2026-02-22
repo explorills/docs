@@ -4,7 +4,7 @@
 
 | Allocation Category | Max. Supply EXPL |
 |---------------------|-------------------|
-| **TNO Cards** | 771,000,000 |
+| **Founding Contributors Royalty** | 771,000,000 |
 | **Node Operators** | 12,500,100,000 |
 | **Node Referrals** | 1,250,010,000 |
 | **HUB-Verified User** | 1,250,010,000 |
@@ -18,7 +18,7 @@
 | **TOTAL** | **55,783,940,100** |
 
 !!! info "Allocation Details"
-    - **TNO Cards**: Tokenized NFT Offering available at [node.expl.one](https://node.expl.one){:target="_blank"}
+    - **Founding Contributors Royalty**: 1.38% of total supply distributed gradually through EXPL Nodes — each Node generates +10 EXPL daily over 731 days
     - **Node Operators**: EXPL Nodes available at [node.expl.one](https://node.expl.one){:target="_blank"}
     - **Mystery-Box**: Deployed in community Discord, open once every 7 days for various prizes including EXPL
 
@@ -26,7 +26,7 @@
 
 ## Allocation Breakdown
 
-### Node-Based Distribution (76.19%)
+### Node-Based Distribution (77.57%)
 
 === "Node Operators"
     **12,500,100,000 EXPL**
@@ -64,9 +64,16 @@
     
     Incentives for Node referral program participants
 
+=== "Founding Contributors Royalty"
+    **771,000,000 EXPL**
+    
+    Gradual royalty distribution to founding contributors through EXPL Nodes — each of 100,000 Nodes generates +10 EXPL daily over 731 days, maintaining healthy sell pressure and a stable economy
+    
+    [:octicons-arrow-right-24: Learn About Distribution](../distribution-framework/node-based-distribution.md)
+
 ---
 
-### Direct Mint Channels (23.81%)
+### Direct Mint Channels (22.43%)
 
 === "Liquidity Mining"
     **7,500,060,000 EXPL**
@@ -82,13 +89,6 @@
     **1,250,010,000 EXPL**
     
     Rewards for verified users in the EXPL.ONE HUB
-
-=== "TNO Cards"
-    **771,000,000 EXPL**
-    
-    Early adoption through Tokenized NFT Offering
-    
-    [:octicons-arrow-right-24: Learn about TNO Cards](../tno-cards/introduction.md)
 
 === "Mystery-Box"
     **12,500,100 EXPL**
@@ -115,17 +115,17 @@
 
     ---
     
-    76.19%
+    77.57%
     
-    42,500,340,000 EXPL
+    43,271,340,000 EXPL
 
 -   :material-hand-coin:{ .lg .middle } **Direct Mint**
 
     ---
     
-    23.81%
+    22.43%
     
-    13,283,600,100 EXPL
+    12,512,600,100 EXPL
 
 </div>
 

@@ -1,7 +1,7 @@
 # General Overview
 
 !!! info "Distribution Model"
-    Out of 55,783,940,100 total supply: **76.19%** goes to Node-Based Distribution (covering ONE venture, ONE care, community grants, dev bounties, Node referrals, and operator rewards). The remaining **23.81%** goes to Direct Mint Channels (liquidity mining, impermanent loss protection, verified users, mystery boxes, and TNO). Direct channels let users mint EXPL based on their ecosystem engagement — no Node required.
+    Out of 55,783,940,100 total supply: **77.57%** goes to Node-Based Distribution (covering ONE venture, ONE care, community grants, dev bounties, Node referrals, operator rewards, and Founding Contributors Royalty). The remaining **22.43%** goes to Direct Mint Channels (liquidity mining, impermanent loss protection, verified users, and mystery boxes). Direct channels let users mint EXPL based on their ecosystem engagement — no Node required.
 
 ---
 
@@ -11,11 +11,16 @@ Node operators are the only ones who can mint EXPL through the main distribution
 
 ---
 
-## TNO Purpose
+## Founding Contributors Royalty
 
-Before EXPL launches as an ERC20 token and Nodes go live, early adopters can acquire EXPL through the Tokenized NFT Offering (TNO) at [node.expl.one/bronze](https://node.expl.one/bronze){:target="_blank"}.
+The Founding Contributors Royalty allocates 771,000,000 EXPL (1.38% of total supply) to founding contributors through gradual node-based distribution. Each of the 100,000 EXPL Nodes generates an additional **+10 EXPL daily** designated as founding royalty, distributed over a **731-day period**.
 
-TNO is capped at 771,000,000 EXPL (1.38% of total supply). These allocations will initially fund the liquidity pool on the EXPL.ONE platform, establishing fair market entry before Node-based distribution begins.
+This model replaces the original TNO Cards program (now [archived](../archive/overview.md)), providing a healthier economic structure:
+
+- **Gradual distribution** instead of one-time minting
+- **Reduced sell pressure** through sustained, daily-paced release
+- **Aligned incentives** — founders benefit as the Node network grows
+- **Optimal for the ecosystem** — maintains stable and predictable token economics
 
 ---
 
@@ -27,7 +32,7 @@ TNO is capped at 771,000,000 EXPL (1.38% of total supply). These allocations wil
 
     ---
     
-    **76.19% of Total Supply**
+    **77.57% of Total Supply**
     
     Main distribution through Node operations
 
@@ -35,7 +40,7 @@ TNO is capped at 771,000,000 EXPL (1.38% of total supply). These allocations wil
 
     ---
     
-    **23.81% of Total Supply**
+    **22.43% of Total Supply**
     
     User engagement-based minting
 
@@ -51,6 +56,7 @@ TNO is capped at 771,000,000 EXPL (1.38% of total supply). These allocations wil
 - :material-code-braces: **Developer Incentives** - Bounties and rewards
 - :material-account-network: **Node Referrals** - Referral program allocations
 - :material-server: **Node Operators NET** - Direct operator rewards
+- :material-crown: **Founding Contributors Royalty** - Gradual royalty via Nodes (+10 EXPL/day per Node)
 
 ---
 
@@ -60,7 +66,6 @@ TNO is capped at 771,000,000 EXPL (1.38% of total supply). These allocations wil
 - :material-shield-sync: **Impermanent Loss Protection** - LP insurance mechanism
 - :material-account-check: **HUB-Verified Users** - Verified user rewards
 - :material-gift: **Mystery-Box** - Community engagement prizes
-- :material-card-account-details: **TNO** - Tokenized NFT Offering
 
 ---
 

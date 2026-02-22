@@ -18,7 +18,6 @@
 - Deploy EXPL as ERC20 on Ethereum
 - Launch liquidity pool with 10M EXPL minimum ($40k USD at 1:1 ratio)
 - Enable liquidity mining
-- Begin TNO Cards transition as liquidity targets hit
 
 ---
 

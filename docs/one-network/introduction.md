@@ -97,7 +97,6 @@ ONE network facilitates the primary distribution mechanism for EXPL tokens:
 ### Minimum Liquidity Target
 
 - Initial target: 10M EXPL ($40k USD at 1:1 ratio)
-- Enables TNO Cards transition
 - Establishes sustainable liquidity depth
 - Supports ecosystem-wide trading
 

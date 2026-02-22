@@ -1,6 +1,13 @@
 # TNO Cards Pricing
 
-## Pricing Table
+!!! danger "Archived — Program Discontinued"
+    **This page is archived for historical reference only.** TNO Cards are no longer available for purchase. The EXPL.ONE_TNO smart contracts have been paused, the signer key set to `0x00dEaD`, and ownership renounced on both Ethereum and Flare chains. The 1.38% allocation has been reallocated to the **Founding Contributors Royalty**, distributed gradually through EXPL Nodes.
+
+    [:octicons-arrow-right-24: Learn about current tokenomics](../../tokenomics/general-overview.md)
+
+---
+
+## Historical Pricing Table
 
 | TNO Category | EXPL Amount | Price (USD) | 1 EXPL (USD) | Price Decline % |
 |--------------|--------------|-------------|---------------|-----------------|
@@ -76,5 +83,5 @@
 
 ---
 
-!!! success "Next Section"
-    The next page provides a step-by-step guide for minting TNO Cards
+!!! warning "Historical Reference"
+    The pricing and card tiers listed above are no longer active. This information is preserved for archival purposes only.

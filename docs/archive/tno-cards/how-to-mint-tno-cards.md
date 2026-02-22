@@ -1,5 +1,14 @@
 # How to Mint TNO Cards
 
+!!! danger "Archived — Minting Permanently Disabled"
+    **This page is archived for historical reference only.** TNO Card minting is no longer available. The EXPL.ONE_TNO smart contracts have been paused, the signer key set to `0x00dEaD`, and ownership renounced on both Ethereum and Flare chains. The minting instructions below are no longer functional.
+
+    [:octicons-arrow-right-24: Learn about current tokenomics](../../tokenomics/general-overview.md)
+
+---
+
+## Historical Minting Guide
+
 ## Desktop Browser Method
 
 Mint directly from the preferred web browser using a Web3 wallet extension.
@@ -153,5 +162,7 @@ Mint directly from the smartphone or tablet using a Web3-enabled mobile wallet.
 
 ---
 
-!!! success "Next Section"
-    The upcoming section provides a detailed breakdown of **EXPL tokenomics**
+!!! warning "Historical Reference"
+    The minting instructions above are no longer functional. TNO Cards have been discontinued and replaced by the **Founding Contributors Royalty** model distributed through EXPL Nodes.
+
+    [:octicons-arrow-right-24: Learn About EXPL Nodes](../../nodes/introduction.md)

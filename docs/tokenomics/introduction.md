@@ -1,7 +1,7 @@
 # Tokenomics Introduction
 
 !!! success "EXPL Token - Powered by EXPL Nodes"
-    EXPL has a max supply of **55,783,940,100 tokens**. Distribution happens in two ways: through EXPL Nodes (76.19%) and direct mint channels (23.81%). Node operators mint tokens through on-chain contracts, which automatically flow to designated escrows and rewards. Direct channels let users mint based on engagement and activity.
+    EXPL has a max supply of **55,783,940,100 tokens**. Distribution happens in two ways: through EXPL Nodes (77.57%) and direct mint channels (22.43%). Node operators mint tokens through on-chain contracts, which automatically flow to designated escrows, rewards, and founding contributors royalty. Direct channels let users mint based on engagement and activity.
 
 **2026 Milestone**: EXPL ERC20 deployment with 10M EXPL minimum liquidity pool
 

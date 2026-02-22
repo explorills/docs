@@ -95,11 +95,12 @@ nav:
       - ONE network: one-network/introduction.md
       - ONE world: one-world/introduction.md
       - Projects Overview: projects/overview.md
-  - TNO Cards:
-      - TNO Introduction: tno-cards/introduction.md
-      - TNO Contract: tno-cards/tno-contract.md
-      - TNO Cards Pricing: tno-cards/tno-cards-pricing.md
-      - How to Mint TNO Cards: tno-cards/how-to-mint-tno-cards.md
+  - TNO Cards (Archived):
+      - Archive Overview: archive/overview.md
+      - TNO Introduction: archive/tno-cards/introduction.md
+      - TNO Contract: archive/tno-cards/tno-contract.md
+      - TNO Cards Pricing: archive/tno-cards/tno-cards-pricing.md
+      - How to Mint TNO Cards: archive/tno-cards/how-to-mint-tno-cards.md
   - Tokenomics:
       - Tokenomics Introduction: tokenomics/introduction.md
       - General Overview: tokenomics/general-overview.md

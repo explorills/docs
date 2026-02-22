@@ -26,7 +26,7 @@ The Distribution Master Map shows the total max supply and how it's allocated ac
 
     ---
     
-    **76.19% of Total Supply**
+    **77.57% of Total Supply**
     
     EXPL Nodes operators mint and distribute EXPL to designated escrows
     
@@ -36,7 +36,7 @@ The Distribution Master Map shows the total max supply and how it's allocated ac
 
     ---
     
-    **23.81% of Total Supply**
+    **22.43% of Total Supply**
     
     Users mint EXPL independently through various channels
     
