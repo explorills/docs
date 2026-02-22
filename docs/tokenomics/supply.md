@@ -4,7 +4,6 @@
 
 | Allocation Category | Max. Supply EXPL |
 |---------------------|-------------------|
-| **Founding Contributors Royalty** | 771,000,000 |
 | **Node Operators** | 12,500,100,000 |
 | **Node Referrals** | 1,250,010,000 |
 | **HUB-Verified User** | 1,250,010,000 |
@@ -15,12 +14,13 @@
 | **Liquidity Mining** | 7,500,060,000 |
 | **Impermanent Loss Protection** | 3,750,030,000 |
 | **EXPL.ONE Mystery-Box** | 12,500,100 |
+| **Founding Contributors Royalty** | 771,000,000 |
 | **TOTAL** | **55,783,940,100** |
 
 !!! info "Allocation Details"
-    - **Founding Contributors Royalty**: 1.38% of total supply distributed gradually through EXPL Nodes — each Node generates +10 EXPL daily over 731 days
     - **Node Operators**: EXPL Nodes available at [node.expl.one](https://node.expl.one){:target="_blank"}
     - **Mystery-Box**: Deployed in community Discord, open once every 7 days for various prizes including EXPL
+    - **Founding Contributors Royalty**: 1.38% of total supply distributed gradually through EXPL Nodes — each Node generates +10 EXPL daily over 731 days
 
 ---
 
