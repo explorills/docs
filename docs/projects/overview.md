@@ -47,6 +47,18 @@ Virtual environment platform supporting user interaction, content creation, and 
 
 ---
 
+### <span style="color: #ffffff;">ONE</span> <span style="color: #92400e;">id</span>
+
+**Decentralized Biometric Identity**
+
+Biometric identity service combining client-side facial recognition with on-chain wallet signature verification. One credential grants access across the entire ONE ecosystem.
+
+- **Status**: Pre-release
+- **URL**: [id.expl.one](https://id.expl.one){:target="_blank"}
+- **Learn More**: [ONE id Documentation](../one-id/introduction.md)
+
+---
+
 ## Coming Soon
 
 Additional projects in planning and development. Each will be announced with full docs as we progress.
@@ -57,8 +69,6 @@ Additional projects in planning and development. Each will be announced with ful
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #dfdfdf;">chat</span>
 **Status**: Coming Soon
 
-### <span style="color: #ffffff;">ONE</span> <span style="color: #92400e;">ID</span>
-**Status**: Coming Soon
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #facc15;">venture</span>
 **Status**: Coming Soon

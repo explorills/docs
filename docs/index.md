@@ -53,7 +53,7 @@ This distribution model aligns long-term incentives across operators, users, and
 
     ---
 
-    ONE pump, network, world, and 7 more on the way
+    ONE pump, network, world, id, and more on the way
 
     [:octicons-arrow-right-24: View Projects](projects/overview.md)
 
@@ -95,6 +95,7 @@ This distribution model aligns long-term incentives across operators, users, and
 | **ONE pump** | [pump.expl.one](https://pump.expl.one){:target="_blank"} |
 | **ONE network** | [network.expl.one](https://network.expl.one){:target="_blank"} |
 | **ONE world** | [world.expl.one](https://world.expl.one){:target="_blank"} |
+| **ONE id** | [id.expl.one](https://id.expl.one){:target="_blank"} |
 
 ### Community
 

@@ -83,7 +83,7 @@ The ONE ecosystem includes the following projects in active planning and develop
 
 - **ONE agent** - Coming Soon
 - **ONE chat** - Coming Soon
-- **ONE ID** - Coming Soon
+- **ONE id** - Pre-release ([id.expl.one](https://id.expl.one){:target="_blank"}) — [:octicons-arrow-right-24: Learn More](one-id/introduction.md)
 - **ONE venture** - Coming Soon
 - **ONE care** - Coming Soon
 - **ONE merch** - Coming Soon
@@ -116,7 +116,7 @@ By end of 2026:
 ✅ 12,000+ EXPL Nodes operational  
 ✅ EXPL token deployed and liquid (ERC20)  
 ✅ 10M+ EXPL in liquidity pools  
-✅ 3 projects in production (pump, network, world)  
+✅ 4 projects in production (pump, network, world, id)
 ✅ Active community governance  
 ✅ Sustainable economic model live  
 
