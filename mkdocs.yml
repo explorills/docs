@@ -95,6 +95,7 @@ nav:
       - ONE network: one-network/introduction.md
       - ONE world: one-world/introduction.md
       - ONE id: one-id/introduction.md
+      - ONE box: one-box/introduction.md
       - Projects Overview: projects/overview.md
   - Tokenomics:
       - Tokenomics Introduction: tokenomics/introduction.md

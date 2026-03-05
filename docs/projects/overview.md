@@ -59,6 +59,18 @@ Biometric identity service combining client-side facial recognition with on-chai
 
 ---
 
+### <span style="color: #ffffff;">ONE</span> <span style="color: #7c3aed;">box</span>
+
+**Mystery Experience Platform**
+
+Something mysterious is coming to the ONE ecosystem. Stay tuned for the reveal.
+
+- **Status**: In Progress
+- **URL**: [box.expl.one](https://box.expl.one){:target="_blank"}
+- **Learn More**: [ONE box Documentation](../one-box/introduction.md)
+
+---
+
 ## Coming Soon
 
 Additional projects in planning and development. Each will be announced with full docs as we progress.
