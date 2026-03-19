@@ -14,7 +14,7 @@ The docs are organized into focused sections:
 
 - **2026 Roadmap:** Development timeline and launch milestones
 - **EXPL Nodes:** How the infrastructure works — operations, escrow, pricing, purchase
-- **ONE Projects:** Our ecosystem projects (pump, network, world, and more)
+- **ONE Projects:** Our ecosystem projects (pump, network, world, deal, and more)
 - **Tokenomics:** EXPL supply model and distribution mechanics
 - **Distribution Framework:** How EXPL flows through Nodes and direct channels
 - **Get Involved:** Ways to contribute, collaborate, and build with us

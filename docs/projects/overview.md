@@ -71,6 +71,18 @@ Something mysterious is coming to the ONE ecosystem. Stay tuned for the reveal.
 
 ---
 
+### <span style="color: #ffffff;">ONE</span> <span style="color: #06b6d4;">deal</span>
+
+**EVM-Compatible NFT Marketplace**
+
+NFT marketplace for buying, selling, and transferring digital assets across EVM-compatible networks. Fixed-price transactions, peer-to-peer transfers, and collection discovery. Authenticated through ONE id.
+
+- **Status**: In Progress
+- **URL**: [deal.expl.one](https://deal.expl.one){:target="_blank"}
+- **Learn More**: [ONE deal Documentation](../one-deal/introduction.md)
+
+---
+
 ## Coming Soon
 
 Additional projects in planning and development. Each will be announced with full docs as we progress.
