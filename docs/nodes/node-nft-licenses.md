@@ -1,7 +1,7 @@
 # EXPL Nodes Overview
 
 !!! success "ERC721 EXPL Nodes"
-    EXPL Nodes are ERC721 tokens you can purchase through the "EXPL_Nodes" smart contract, deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"}. Own a Node, operate network infrastructure, mint EXPL tokens, and participate in all ONE ecosystem projects. The contract is immutable and fully decentralized.
+    EXPL Nodes are ERC721 tokens available for purchase through the "EXPL_Nodes" smart contract, deployed on [Ethereum](https://ethereum.org/){:target="_blank"} and [Flare](https://flare.network/){:target="_blank"}. Own a Node to operate network infrastructure, mint EXPL tokens, and participate in all ONE ecosystem projects. The contract is immutable and fully decentralized.
 
 **Purchase**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
@@ -9,7 +9,7 @@
 
 ## First Batch: 12,000 Nodes
 
-This is batch one — **12,000 Nodes** total. Once EXPL launches as an ERC20 token and distribution begins, we'll deploy a second contract to bring the total to **100,000 Nodes** across the entire ecosystem.
+The first batch consists of **12,000 Nodes** in total. Once EXPL launches as an ERC20 token and distribution begins, a second contract will be deployed to bring the total to **100,000 Nodes** across the entire ecosystem.
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin: 30px 0; flex-wrap: wrap;">
   <figure style="text-align: center;">

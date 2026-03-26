@@ -112,11 +112,11 @@ EXPL.ONE accepts contributions across technical development, community operation
 
 ---
 
-## Join Our Team
+## Join the Team
 
-Interested in becoming part of EXPL.ONE? Reach out to us:
+Interested in contributing to EXPL.ONE? Reach out:
 
-**[team@EXPL.ONE.com](mailto:team@EXPL.ONE.com){:target="_blank"}**
+**[team@expl.one](mailto:team@expl.one){:target="_blank"}**
 
 ---
 

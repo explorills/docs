@@ -97,6 +97,7 @@ nav:
       - ONE id: one-id/introduction.md
       - ONE box: one-box/introduction.md
       - ONE deal: one-deal/introduction.md
+      - ONE chat: one-chat/introduction.md
       - Projects Overview: projects/overview.md
   - Tokenomics:
       - Tokenomics Introduction: tokenomics/introduction.md

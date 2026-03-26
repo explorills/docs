@@ -4,7 +4,7 @@ Official docs for the ONE ecosystem — a community-driven infrastructure powere
 
 ## Overview
 
-ONE isn't another blockchain project making empty promises. We're building decentralized infrastructure that actually works, powered by community-operated EXPL Nodes. No venture capital. No profit-extraction. Just transparent, community-owned technology where Node operators mint EXPL tokens, secure the network, and share in the ecosystem's success.
+ONE is a decentralized infrastructure platform powered by community-operated EXPL Nodes. Node operators mint EXPL tokens, secure the network, and share in the ecosystem's success — with no venture capital involvement and no profit extraction. All operations are transparent and on-chain, governed by the community.
 
 **Live Documentation:** [docs.expl.one](https://docs.expl.one)
 

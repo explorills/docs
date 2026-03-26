@@ -6,7 +6,7 @@
   <p><strong>Mystery Experience Platform</strong></p>
 </div>
 
-**ONE box** is a mystery experience platform within the ONE ecosystem. Something mysterious is coming soon. Stay tuned for the reveal.
+**ONE box** is a mystery experience platform within the ONE ecosystem. Full details will be revealed upon launch — stay tuned for announcements on official channels.
 
 **Platform**: [box.expl.one](https://box.expl.one){:target="_blank"}
 
@@ -14,9 +14,9 @@
 
 ## Overview
 
-ONE box represents an upcoming addition to the interconnected suite of ONE products. Each product in the ecosystem serves a unique purpose within the decentralized infrastructure, and ONE box will be no exception.
+ONE box is an upcoming addition to the interconnected suite of ONE products. Each product in the ecosystem serves a distinct purpose within the decentralized infrastructure, and ONE box will be no exception.
 
-The full details of ONE box will be revealed when the mystery is unveiled. Stay tuned for announcements on our official channels.
+Full details will be unveiled at launch. Follow official channels for announcements.
 
 ---
 

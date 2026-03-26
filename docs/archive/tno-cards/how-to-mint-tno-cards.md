@@ -42,7 +42,7 @@ Mint directly from the preferred web browser using a Web3 wallet extension.
 
 ## Mobile Device Method
 
-Mint directly from the smartphone or tablet using a Web3-enabled mobile wallet.
+Mint directly from a smartphone or tablet using a Web3-enabled mobile wallet.
 
 ### Requirements
 
@@ -102,7 +102,7 @@ Mint directly from the smartphone or tablet using a Web3-enabled mobile wallet.
 
 | Support Channel | Details |
 |----------------|---------|
-| **Email** | [support@EXPL.ONE.com](mailto:support@EXPL.ONE.com){:target="_blank"} |
+| **Email** | [support@expl.one](mailto:support@expl.one){:target="_blank"} |
 | **Discord** | [Join our community server](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} |
 
 !!! tip "Quick Support"

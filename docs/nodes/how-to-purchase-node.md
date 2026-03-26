@@ -2,7 +2,7 @@
 
 ## Desktop Browser Method
 
-Mint directly from the preferred web browser using a Web3 wallet extension.
+Mint directly from a desktop browser using a Web3 wallet extension.
 
 ### Requirements
 
@@ -30,7 +30,7 @@ Mint directly from the preferred web browser using a Web3 wallet extension.
 
 ## Mobile Device Method
 
-Mint directly from your smartphone or tablet using a Web3-enabled mobile wallet.
+Mint directly from a smartphone or tablet using a Web3-enabled mobile wallet.
 
 ### Requirements
 

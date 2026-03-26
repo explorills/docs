@@ -1,7 +1,7 @@
 # General Overview
 
 !!! info "Distribution Model"
-    Out of 55,783,940,100 total supply: **77.57%** goes to Node-Based Distribution (covering ONE venture, ONE care, community grants, dev bounties, Node referrals, operator rewards, and Founding Contributors Royalty). The remaining **22.43%** goes to Direct Mint Channels (liquidity mining, impermanent loss protection, verified users, and mystery boxes). Direct channels let users mint EXPL based on their ecosystem engagement — no Node required.
+    Of the 55,783,940,100 total supply: **77.57%** goes to Node-Based Distribution (covering ONE venture, ONE care, community grants, developer bounties, Node referrals, operator rewards, and the Founding Contributors Royalty). The remaining **22.43%** goes to Direct Mint Channels (liquidity mining, impermanent loss protection, verified users, and mystery boxes). Direct channels allow users to mint EXPL based on ecosystem engagement — no Node required.
 
 ---
 

@@ -56,11 +56,11 @@ We are open to partnerships across protocol development, ecosystem growth, and i
 
 ---
 
-## Get In Touch
+## Get in Touch
 
 Ready to explore opportunities? Contact us at:
 
-**[capital@EXPL.ONE.com](mailto:capital@EXPL.ONE.com){:target="_blank"}**
+**[capital@expl.one](mailto:capital@expl.one){:target="_blank"}**
 
 ---
 

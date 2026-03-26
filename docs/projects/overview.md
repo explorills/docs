@@ -63,7 +63,7 @@ Biometric identity service combining client-side facial recognition with on-chai
 
 **Mystery Experience Platform**
 
-Something mysterious is coming to the ONE ecosystem. Stay tuned for the reveal.
+An upcoming addition to the ONE ecosystem. Full details will be revealed at launch.
 
 - **Status**: In Progress
 - **URL**: [box.expl.one](https://box.expl.one){:target="_blank"}
@@ -83,16 +83,24 @@ NFT marketplace for buying, selling, and transferring digital assets across EVM-
 
 ---
 
+### <span style="color: #ffffff;">ONE</span> <span style="color: #dfdfdf;">chat</span>
+
+**Ecosystem-wide Real-time Chat**
+
+WebSocket-based real-time chat system embedded across all ONE ecosystem projects. Features message editing, reactions, replies, @mentions, typing indicators, and unread tracking. Authenticated through ONE id.
+
+- **Status**: In Progress
+- **URL**: [chat.expl.one](https://chat.expl.one){:target="_blank"}
+- **Learn More**: [ONE chat Documentation](../one-chat/introduction.md)
+
+---
+
 ## Coming Soon
 
 Additional projects in planning and development. Each will be announced with full docs as we progress.
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #dc2626;">agent</span>
 **Status**: Coming Soon
-
-### <span style="color: #ffffff;">ONE</span> <span style="color: #dfdfdf;">chat</span>
-**Status**: Coming Soon
-
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #facc15;">venture</span>
 **Status**: Coming Soon

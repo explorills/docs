@@ -21,7 +21,7 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 
 1. Mints four types of NFTs (TNO Cards): Bronze, Silver, Gold, and Diamond
 2. Each type of TNO card holds a different value relative to EXPL.ONE' native currency EXPL
-3. TNO cards will enable users to claim EXPL once it's deployed
+3. TNO cards enabled users to claim EXPL once it was deployed
 4. Cross-chain NFT minting, transfers, and balance management are supported
 
 ### Main Functions
@@ -62,8 +62,8 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 
 | **Resource** | **Link** |
 |--------------|----------|
-| **Contact** | [info@EXPL.ONE.com](mailto:info@EXPL.ONE.com){:target="_blank"} |
-| **Security** | [info@EXPL.ONE.ai](mailto:info@EXPL.ONE.ai){:target="_blank"} |
+| **Contact** | [support@expl.one](mailto:support@expl.one){:target="_blank"} |
+| **Security** | [security@expl.one](mailto:security@expl.one){:target="_blank"} |
 
 ---
 
