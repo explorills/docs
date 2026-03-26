@@ -72,11 +72,11 @@ EXPL.ONE evaluates partnership opportunities with projects in DeFi, NFT infrastr
 
 ---
 
-## Get In Touch
+## Get in Touch
 
-Interested in collaborating? Reach out to us:
+Interested in collaborating? Reach out:
 
-**[collabs@EXPL.ONE.com](mailto:collabs@EXPL.ONE.com){:target="_blank"}**
+**[collabs@expl.one](mailto:collabs@expl.one){:target="_blank"}**
 
 ---
 

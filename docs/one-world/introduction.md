@@ -14,7 +14,7 @@
 
 ## Overview
 
-ONE world connects digital identity, virtual experiences, and blockchain economies. Built on EXPL Nodes infrastructure for decentralized metaverse hosting.
+ONE world integrates digital identity, virtual experiences, and blockchain economies. Built on EXPL Nodes infrastructure, it provides decentralized metaverse hosting for the entire ecosystem.
 
 ---
 

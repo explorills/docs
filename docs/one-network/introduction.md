@@ -27,7 +27,7 @@ ONE network serves as the foundational blockchain layer for the ecosystem. All t
 - Protocol governance through node operators
 - Transparent on-chain operations
 
-### Powered by Nodes
+### Powered by EXPL Nodes
 
 - 12,000+ EXPL Nodes securing the network
 - Daily EXPL minting through on-chain contracts

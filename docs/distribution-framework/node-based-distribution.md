@@ -1,7 +1,7 @@
 # Node-Based Distribution
 
 !!! info "Operator-Driven Distribution"
-    Node-Based Distribution depends on Node operators. EXPL only flows to escrows when an operator mints it, triggering the automated allocation.
+    Node-Based Distribution is driven exclusively by Node operators. EXPL tokens only enter circulation when an operator initiates a mint, triggering the automated allocation across all designated escrows.
 
 ---
 

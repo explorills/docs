@@ -1,7 +1,7 @@
 # Distribution Master Map
 
 !!! success "EXPL Nodes-Powered Distribution"
-    EXPL distribution happens in two ways: **EXPL Nodes-Based Distribution** and **Direct Mint Channels**. Through Node-based distribution, only Node operators mint EXPL, which automatically flows to specific non-custodial escrows and operator rewards. Direct channels let users mint EXPL independently based on ecosystem activity — no Node required.
+    EXPL distribution operates through two mechanisms: **EXPL Nodes-Based Distribution** and **Direct Mint Channels**. In Node-based distribution, only Node operators mint EXPL — tokens are then automatically allocated to specific non-custodial escrows and operator rewards. Direct channels allow users to mint EXPL independently based on ecosystem activity, with no Node required.
 
 **2026 Launch**: Main distribution begins with 12,000 EXPL Nodes operational in Q2 2026
 

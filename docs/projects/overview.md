@@ -63,7 +63,7 @@ Biometric identity service combining client-side facial recognition with on-chai
 
 **Mystery Experience Platform**
 
-Something mysterious is coming to the ONE ecosystem. Stay tuned for the reveal.
+An upcoming addition to the ONE ecosystem. Full details will be revealed at launch.
 
 - **Status**: In Progress
 - **URL**: [box.expl.one](https://box.expl.one){:target="_blank"}

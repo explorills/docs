@@ -1,7 +1,7 @@
 # Direct Mint Channels
 
 !!! info "Independent Minting"
-    Direct Mint Channels let you mint EXPL without operating a Node. Four channels available, each with different requirements and rewards.
+    Direct Mint Channels allow users to mint EXPL without operating a Node. Four channels are available, each with distinct requirements and rewards.
 
 ---
 
@@ -42,7 +42,7 @@ First 1,000,000 users who get HUB-verified status mint **1.71 EXPL daily** for *
 
 ### 4. Mystery Box
 
-Gameified feature with mintable EXPL and prizes. Anyone can open it once every 7 days. Currently live on [EXPL.ONE Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}.
+Gamified feature with mintable EXPL and prizes. Anyone can open it once every 7 days. Currently live on [EXPL.ONE Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}.
 
 **Key Features:**
 - :material-gift: Open once every 7 days

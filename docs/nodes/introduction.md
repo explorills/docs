@@ -6,7 +6,7 @@
 </div>
 
 !!! success "EXPL Nodes Power Everything"
-    EXPL Nodes are the infrastructure foundation of the ONE ecosystem. Each Node operates on-chain smart contracts that provide daily EXPL minting permissions. The distributed node architecture ensures no single point of control while maintaining network operations.
+    EXPL Nodes are the infrastructure foundation of the ONE ecosystem. Each Node operates on-chain smart contracts that provide daily EXPL minting permissions. The distributed node architecture ensures no single point of control while maintaining reliable network operations.
 
 **Purchase EXPL Nodes**: [node.expl.one](https://node.expl.one){:target="_blank"}
 

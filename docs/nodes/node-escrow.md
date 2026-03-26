@@ -1,7 +1,7 @@
 # Node Escrow
 
 !!! info "Non-Custodial Escrow System"
-    The Nodes escrow is a fully decentralized, non-custodial ERC721 escrow contract, "EXPL_NodeEscrow" designed for token storage with automated release functionality. The following page details how it works along with the complete contract architecture.
+    The Nodes escrow is a fully decentralized, non-custodial ERC721 escrow contract — "EXPL_NodeEscrow" — designed for secure token storage with automated release functionality. The following page details how it works along with the complete contract architecture.
 
 When users mint a Node on [node.expl.one/#EXPL-Nodes](https://node.expl.one/#EXPL-Nodes){:target="_blank"}, it is stored in the Nodes escrow under the minter address ownership. Once Nodes with IDs from **1 to 10,800** are minted, the escrow is automatically released, allowing users to pull their Nodes.
 
