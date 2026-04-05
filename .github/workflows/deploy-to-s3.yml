@@ -3,7 +3,8 @@ name: Deploy to AWS S3
 on:
   push:
     branches:
-      - main 
+      - main
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -33,3 +34,8 @@ jobs:
     - name: Deploy to S3
       run: |
         aws s3 sync ./site/ s3://v2-staging-docs/ --delete
+
+    - name: Invalidate CloudFront cache
+      run: |
+        DIST_ID=$(aws cloudfront list-distributions --query "DistributionList.Items[?Origins.Items[?contains(DomainName, 'v2-staging-docs')]].Id" --output text)
+        aws cloudfront create-invalidation --distribution-id $DIST_ID --paths "/*"
