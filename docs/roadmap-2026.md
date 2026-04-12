@@ -13,37 +13,25 @@
 
 ### Q1 2026: EXPL token deployment
 
-**EXPL ERC20 launch**
-
-- Deploy EXPL as ERC20 on Ethereum
-- Launch liquidity pool with 10M EXPL minimum ($40k USD at 1:1 ratio)
+- Deploy EXPL as an ERC20 on Ethereum
+- Launch liquidity pool with 10M EXPL minimum
 - Enable liquidity mining
 
 ---
 
-### Q2 2026: EXPL Nodes first batch
+### Q2 2026: EXPL Nodes — first batch
 
-**12,000 EXPL Nodes operational**
-
-- First batch of 12,000 Nodes sold out
-- Nodes become fully operational
+- 12,000 EXPL Nodes sold and operational
 - Main distribution mechanism activates
 - Node operators begin minting EXPL through on-chain contracts
-- Community-run Nodes secure the network
-
-**EXPL Nodes power the entire ONE ecosystem.**
 
 ---
 
 ### Mid 2026: ONE pump — full production
 
-**Decentralized token launch platform**
-
-- ONE pump enters full production at [pump.expl.one](https://pump.expl.one)
-- Community-driven token sentiment tracking
-- Daily pump voting system operational
-- Points and rewards system live
-- Streak challenges and gamification active
+- ONE pump enters full production at [pump.expl.one](https://pump.expl.one){:target="_blank"}
+- Token sentiment tracking and daily voting system operational
+- Points, rewards, and streak challenges active
 
 [:octicons-arrow-right-24: Explore ONE pump](one-pump/introduction.md)
 
@@ -51,13 +39,10 @@
 
 ### Q3 2026: ONE network — production launch
 
-**EXPL Nodes management dashboard**
-
-- ONE network fully operational at [network.expl.one](https://network.expl.one)
-- Node stats, minting events, and pricing tiers powered by EXPL Nodes
-- Liquidity pool integration complete
-- Liquidity mining program operational
-- Governance voting secured by Node operators
+- ONE network fully operational at [network.expl.one](https://network.expl.one){:target="_blank"}
+- Node stats, minting events, and pricing tiers live
+- Liquidity pool integration and mining program operational
+- Governance voting secured by node operators
 
 [:octicons-arrow-right-24: Learn about ONE network](one-network/introduction.md)
 
@@ -65,60 +50,44 @@
 
 ### Q4 2026: ONE world — beta launch
 
-**Metaverse and digital experiences platform**
-
-- ONE world enters beta at [world.expl.one](https://world.expl.one)
+- ONE world enters beta at [world.expl.one](https://world.expl.one){:target="_blank"}
 - Multiplayer environment testing begins
-- Early adopter program launches
-- Community feedback integration
-- Preparation for full public launch
+- Early adopter program and community feedback cycle
 
 [:octicons-arrow-right-24: Discover ONE world](one-world/introduction.md)
 
 ---
 
-## Additional projects in development
+## Additional projects
 
-The following projects are in active planning and development:
+Projects in active development alongside the milestones above:
 
-- **ONE agent** — Planned
-- **ONE chat** — Backend operational, standalone UI in development
-- **ONE id** — Pre-release ([id.expl.one](https://id.expl.one){:target="_blank"}) — [:octicons-arrow-right-24: Learn more](one-id/introduction.md)
-- **ONE venture** — Planned
-- **ONE care** — Planned
-- **ONE merch** — Planned
-- **ONE space** — Planned
+| Project | Status | Link |
+|---------|--------|------|
+| **ONE id** | Pre-release | [id.expl.one](https://id.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-id/introduction.md) |
+| **ONE deal** | In progress | [deal.expl.one](https://deal.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-deal/introduction.md) |
+| **ONE chat** | In progress | [chat.expl.one](https://chat.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-chat/introduction.md) |
+| **ONE box** | In progress | [box.expl.one](https://box.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-box/introduction.md) |
+| **ONE agent** | Planned | |
+| **ONE venture** | Planned | |
+| **ONE care** | Planned | |
+| **ONE merch** | Planned | |
+| **ONE space** | Planned | |
 
 [:octicons-arrow-right-24: View all projects](projects/overview.md)
 
 ---
 
-## Infrastructure focus
-
-### EXPL Nodes: the foundation
-
-EXPL Nodes provide the core infrastructure layer for the ONE ecosystem:
-
-- **Decentralized operations**: Operated by independent Node operators globally
-- **EXPL minting**: Daily mint permissions executed via on-chain contracts
-- **Network security**: Distributed security for all ONE ecosystem projects
-- **Governance**: Protocol-level decision making and voting
-- **Economic foundation**: Structured token distribution — 45% to ONE Creators, 45% to EXPL Nodes, 10% to the Foundation
-
-[:octicons-arrow-right-24: Purchase EXPL Nodes](https://node.expl.one){:target="_blank"}
-
----
-
-## Success metrics
+## End-of-year targets
 
 By end of 2026:
 
 - 12,000+ EXPL Nodes operational
-- EXPL token deployed and liquid (ERC20)
+- EXPL token deployed and liquid on Ethereum
 - 10M+ EXPL in liquidity pools
-- Four projects in production (ONE pump, ONE network, ONE world, ONE id)
-- Active community governance
-- Sustainable economic model live
+- ONE pump and ONE network in production
+- ONE world in public beta
+- Community governance active across the ecosystem
 
 ---
 

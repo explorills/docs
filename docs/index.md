@@ -1,6 +1,6 @@
 # Welcome to ONE
 
-ONE ecosystem is a coordinated set of Web3 products sharing one native token (EXPL), one identity layer (ONE id), one chain (ONE chain), and one revenue model. Every project feeds the same economy. All code is open source and available on GitHub.
+The ONE ecosystem is a coordinated set of Web3 products sharing one native token (EXPL), one identity layer (ONE id), and one revenue model. Every project feeds the same economy. All code is open source on [GitHub](https://github.com/explorills){:target="_blank"}.
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="ONE ecosystem" width="125" />
@@ -9,25 +9,19 @@ ONE ecosystem is a coordinated set of Web3 products sharing one native token (EX
 
 ---
 
-## How it works
-
-EXPL Nodes are the infrastructure backbone. Node operators run the network, mint EXPL through on-chain contracts, and participate in governance across every project. Smart contracts handle token distribution, escrow mechanics, and Node operations — no centralized control points.
-
----
-
 ## Revenue model
 
 Every ONE ecosystem project distributes revenue the same way:
 
-- **45%** to ONE Creators (community members who drive value into the ecosystem)
-- **45%** to EXPL Nodes (infrastructure providers)
-- **10%** to the Foundation (core development and operations)
+- **45%** to ONE Creators — community members who drive value into the ecosystem
+- **45%** to EXPL Nodes — infrastructure operators who run the network
+- **10%** to the Foundation — core development and operations
 
-This split aligns incentives across builders, operators, and the team that maintains the protocol.
+This split is enforced at the protocol level and applies to every product in the ecosystem.
 
 ---
 
-## Navigation
+## Explore the docs
 
 <div class="grid cards" markdown>
 
@@ -51,7 +45,7 @@ This split aligns incentives across builders, operators, and the team that maint
 
     ---
 
-    ONE pump, ONE network, ONE world, ONE id, and more
+    10+ interconnected products — ONE pump, ONE network, ONE deal, ONE id, and more
 
     [:octicons-arrow-right-24: View Projects](projects/overview.md)
 
@@ -75,7 +69,7 @@ This split aligns incentives across builders, operators, and the team that maint
 
     ---
 
-    Build with us — partnerships, collaborations, and contribution paths
+    Partnerships, collaborations, and contribution paths
 
     [:octicons-arrow-right-24: Get Involved](get-involved/collabs.md)
 
@@ -94,24 +88,22 @@ This split aligns incentives across builders, operators, and the team that maint
 | **ONE network** | [network.expl.one](https://network.expl.one){:target="_blank"} |
 | **ONE world** | [world.expl.one](https://world.expl.one){:target="_blank"} |
 | **ONE id** | [id.expl.one](https://id.expl.one){:target="_blank"} |
+| **ONE deal** | [deal.expl.one](https://deal.expl.one){:target="_blank"} |
+| **ONE box** | [box.expl.one](https://box.expl.one){:target="_blank"} |
+| **ONE chat** | [chat.expl.one](https://chat.expl.one){:target="_blank"} |
 
 ### Community
 
-- [**GitHub**](https://github.com/explorills){:target="_blank"}: Explore repositories
-- [**Twitter**](https://x.com/explorills_main){:target="_blank"}: Follow for updates
-- [**Discord**](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}: Join the community
-- [**LinkedIn**](https://www.linkedin.com/company/explorills){:target="_blank"}: Connect with us
+- [**GitHub**](https://github.com/explorills){:target="_blank"}: Source code and repositories
+- [**Twitter**](https://x.com/explorills_main){:target="_blank"}: Announcements and updates
+- [**Discord**](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}: Community discussion
+- [**LinkedIn**](https://www.linkedin.com/company/explorills){:target="_blank"}: Professional updates
 
 ---
 
 ## Support
 
-Need help? Reach us at [support@expl.one](mailto:support@expl.one) or join the Discord community.
+Reach us at [support@expl.one](mailto:support@expl.one) or through Discord.
 
 !!! tip "Discord Support"
     Mention **`orb.8888`** in General Chat or open a Support Ticket for direct help
-
----
-
-!!! info "Get Started"
-    Start with the [2026 Roadmap](roadmap-2026.md) to see what we are building and when it ships
