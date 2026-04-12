@@ -5,21 +5,21 @@
   <p><strong>ONE ecosystem // powered by EXPL Nodes</strong></p>
 </div>
 
-The ONE ecosystem comprises interconnected projects, each addressing specific use cases within the decentralized infrastructure space. All projects operate on infrastructure maintained by EXPL Nodes.
+The ONE ecosystem is a set of interconnected projects, each serving a distinct function within decentralized infrastructure. All projects run on infrastructure operated by EXPL Nodes.
 
 ---
 
-## In Production & Development
+## Active Projects
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #16a34a;">pump</span>
 
-**Decentralized Token Launch & Trading Platform**
+**Token Sentiment Tracking and Voting**
 
-Token sentiment tracking and voting platform. Users participate in daily token voting, earn EXPL points, maintain engagement streaks, and access community sentiment data.
+Daily token voting with EXPL point rewards, streak challenges, and community sentiment leaderboards.
 
 - **Status**: In Progress
 - **URL**: [pump.expl.one](https://pump.expl.one){:target="_blank"}
-- **Learn More**: [ONE pump Documentation](../one-pump/introduction.md)
+- **Docs**: [ONE pump Documentation](../one-pump/introduction.md)
 
 ---
 
@@ -27,59 +27,47 @@ Token sentiment tracking and voting platform. Users participate in daily token v
 
 **Blockchain Infrastructure**
 
-The foundational layer powering the entire ecosystem. Secured by EXPL Nodes, handling all transactions, smart contracts, and liquidity infrastructure.
+The foundational layer powering the ecosystem. Secured by EXPL Nodes, handling transactions, smart contracts, and liquidity infrastructure.
 
 - **Status**: In Progress
 - **URL**: [network.expl.one](https://network.expl.one){:target="_blank"}
-- **Learn More**: [ONE network Documentation](../one-network/introduction.md)
+- **Docs**: [ONE network Documentation](../one-network/introduction.md)
 
 ---
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #ec4899;">world</span>
 
-**Metaverse & Digital Experiences**
+**Metaverse and Digital Experiences**
 
-Virtual environment platform supporting user interaction, content creation, and digital asset management. Integrates digital identity with blockchain-based economic systems.
+Virtual environment platform for interaction, content creation, and digital asset management. Integrates ONE id identity with blockchain-based economics.
 
 - **Status**: In Progress (Beta Q4 2026)
 - **URL**: [world.expl.one](https://world.expl.one){:target="_blank"}
-- **Learn More**: [ONE world Documentation](../one-world/introduction.md)
+- **Docs**: [ONE world Documentation](../one-world/introduction.md)
 
 ---
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #92400e;">id</span>
 
-**Decentralized Biometric Identity**
+**Biometric Identity**
 
-Biometric identity service combining client-side facial recognition with on-chain wallet signature verification. One credential grants access across the entire ONE ecosystem.
+Client-side facial recognition combined with on-chain wallet signature verification. One credential grants access across the entire ONE ecosystem.
 
 - **Status**: Pre-release
 - **URL**: [id.expl.one](https://id.expl.one){:target="_blank"}
-- **Learn More**: [ONE id Documentation](../one-id/introduction.md)
-
----
-
-### <span style="color: #ffffff;">ONE</span> <span style="color: #7c3aed;">box</span>
-
-**Mystery Experience Platform**
-
-An upcoming addition to the ONE ecosystem. Full details will be revealed at launch.
-
-- **Status**: In Progress
-- **URL**: [box.expl.one](https://box.expl.one){:target="_blank"}
-- **Learn More**: [ONE box Documentation](../one-box/introduction.md)
+- **Docs**: [ONE id Documentation](../one-id/introduction.md)
 
 ---
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #06b6d4;">deal</span>
 
-**EVM-Compatible NFT Marketplace**
+**NFT Marketplace**
 
-NFT marketplace for buying, selling, and transferring digital assets across EVM-compatible networks. Fixed-price transactions, peer-to-peer transfers, and collection discovery. Authenticated through ONE id.
+Buy, sell, send, and receive digital assets across EVM-compatible networks. Fixed-price transactions, peer-to-peer transfers, and collection discovery. Authenticated through ONE id.
 
 - **Status**: In Progress
 - **URL**: [deal.expl.one](https://deal.expl.one){:target="_blank"}
-- **Learn More**: [ONE deal Documentation](../one-deal/introduction.md)
+- **Docs**: [ONE deal Documentation](../one-deal/introduction.md)
 
 ---
 
@@ -87,17 +75,27 @@ NFT marketplace for buying, selling, and transferring digital assets across EVM-
 
 **Ecosystem-wide Real-time Chat**
 
-WebSocket-based real-time chat system embedded across all ONE ecosystem projects. Features message editing, reactions, replies, @mentions, typing indicators, and unread tracking. Authenticated through ONE id.
+WebSocket-based multi-channel chat embedded across all ONE projects. Message editing, reactions, replies, @mentions, typing indicators, unread tracking, and Discord bridge. Authenticated through ONE id.
 
 - **Status**: In Progress
 - **URL**: [chat.expl.one](https://chat.expl.one){:target="_blank"}
-- **Learn More**: [ONE chat Documentation](../one-chat/introduction.md)
+- **Docs**: [ONE chat Documentation](../one-chat/introduction.md)
+
+---
+
+### <span style="color: #ffffff;">ONE</span> <span style="color: #7c3aed;">box</span>
+
+**Mystery Experience Platform**
+
+Details unrevealed. Teaser landing page is live; full concept will be disclosed at launch.
+
+- **Status**: In Progress
+- **URL**: [box.expl.one](https://box.expl.one){:target="_blank"}
+- **Docs**: [ONE box Documentation](../one-box/introduction.md)
 
 ---
 
 ## Coming Soon
-
-Additional projects in planning and development. Each will be announced with full docs as we progress.
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #dc2626;">agent</span>
 **Status**: Coming Soon
@@ -128,12 +126,10 @@ All projects run on infrastructure secured by EXPL Nodes. Node operators maintai
 
 ## Development Timeline
 
-See what's shipping and when:
-
 [:octicons-arrow-right-24: View 2026 Roadmap](../roadmap-2026.md)
 
 ---
 
 !!! tip "Stay Updated"
-    Follow [@EXPL.ONE](https://x.com/explorills_main) on Twitter or join [Discord](https://discord.com/invite/RetTCVq7tJ) for project updates
+    Follow [@explorills_main](https://x.com/explorills_main){:target="_blank"} on X or join [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} for project updates.
 

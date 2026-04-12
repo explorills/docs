@@ -6,7 +6,7 @@
   <p><strong>Mystery Experience Platform</strong></p>
 </div>
 
-**ONE box** is a mystery experience platform within the ONE ecosystem. Full details will be revealed upon launch — stay tuned for announcements on official channels.
+**ONE box** is an unrevealed experience within the ONE ecosystem. The concept, mechanics, and full details will be disclosed at launch.
 
 **Platform**: [box.expl.one](https://box.expl.one){:target="_blank"}
 
@@ -14,32 +14,21 @@
 
 ## Overview
 
-ONE box is an upcoming addition to the interconnected suite of ONE products. Each product in the ecosystem serves a distinct purpose within the decentralized infrastructure, and ONE box will be no exception.
+ONE box is in active development with a teaser landing page live at [box.expl.one](https://box.expl.one){:target="_blank"}. What it does, how it works, and how it connects to the rest of the ecosystem will be announced when the project launches.
 
-Full details will be unveiled at launch. Follow official channels for announcements.
-
----
-
-## Core Philosophy
-
-Like every project in the ONE ecosystem, ONE box is built on three principles:
-
-- **Open Source** — Every line of code is publicly available on GitHub
-- **Community-Driven** — Built by and for the community
-- **Fair Revenue Model** — 45% to Node owners, 45% to Creators, 10% to founders
+The codebase is open source. If you want to look under the hood before launch, the repository is public.
 
 ---
 
 ## Technology Stack
 
-ONE box is built with modern web technologies for optimal performance:
-
 - **Frontend**: React 19, TypeScript
 - **Build Tool**: Bun, Vite
 - **Styling**: Tailwind CSS
+- **UI Components**: Shadcn UI (Radix primitives)
 - **Icons**: Phosphor Icons
 - **Animations**: Framer Motion
-- **Deployment**: AWS S3 + CloudFront
+- **Authentication**: ONE id via `@explorills/one-ecosystem-ui`
 
 ---
 
@@ -47,15 +36,9 @@ ONE box is built with modern web technologies for optimal performance:
 
 **Current Status**: In Progress
 
-ONE box is currently in development. The landing page is deployed at [box.expl.one](https://box.expl.one){:target="_blank"} with the full experience coming soon.
+The landing page is deployed. Full product launch is part of the 2026 roadmap.
 
 [:octicons-arrow-right-24: View Complete 2026 Roadmap](../roadmap-2026.md)
-
----
-
-## Get Started
-
-Visit [box.expl.one](https://box.expl.one){:target="_blank"} to see the teaser and stay updated on the mystery reveal.
 
 ---
 
@@ -68,6 +51,6 @@ Visit [box.expl.one](https://box.expl.one){:target="_blank"} to see the teaser a
 ---
 
 !!! info "Powered by EXPL Nodes"
-    ONE box is secured and operated through the ONE ecosystem infrastructure, powered by EXPL Nodes.
+    ONE box runs on infrastructure operated by EXPL Nodes.
 
     [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
