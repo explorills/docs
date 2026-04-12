@@ -2,29 +2,27 @@
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
-  <p><strong>The Infrastructure Backbone of ONE</strong></p>
+  <p><strong>The infrastructure backbone of ONE</strong></p>
 </div>
 
-!!! success "EXPL Nodes Power Everything"
-    EXPL Nodes are the infrastructure foundation of the ONE ecosystem. Each Node operates on-chain smart contracts that provide daily EXPL minting permissions. The distributed node architecture ensures no single point of control while maintaining reliable network operations.
+EXPL Nodes are ERC721 tokens deployed on Ethereum and Flare. Each Node grants its operator on-chain minting permissions for EXPL, the native token of the ONE ecosystem. The distributed Node architecture ensures no single point of control while maintaining reliable network operations.
 
 **Purchase EXPL Nodes**: [node.expl.one](https://node.expl.one){:target="_blank"}
 
 ---
 
-## What are EXPL Nodes?
+## What EXPL Nodes do
 
-EXPL Nodes function as both network validators and distribution mechanisms. Node operators perform the following functions:
+Node operators perform the following functions:
 
-✅ **Infrastructure Operations**: Maintaining network infrastructure for all ONE projects
-✅ **Token Minting**: Executing daily token generation via on-chain contracts
-✅ **Governance Participation**: Voting on protocol proposals and ecosystem decisions
-✅ **Distribution Management**: Facilitating structured token distribution processes
-✅ **Network Security**: Contributing to distributed network consensus  
+- **Token minting** — Execute daily EXPL generation via on-chain contracts
+- **Infrastructure operations** — Maintain network infrastructure for all ONE projects
+- **Distribution management** — Facilitate structured token distribution processes
+- **Network security** — Contribute to distributed network consensus
 
 ---
 
-## Section Content
+## In this section
 
 <div class="grid cards" markdown>
 
@@ -32,49 +30,47 @@ EXPL Nodes function as both network validators and distribution mechanisms. Node
 
     ---
 
-    Understanding EXPL Nodes structure and ownership
+    Contract structure, supply tiers, and deployment details
 
-    [:octicons-arrow-right-24: Learn More](node-nft-licenses.md)
+    [:octicons-arrow-right-24: Learn more](node-nft-licenses.md)
 
 -   :material-shield-lock:{ .lg .middle } __Node Escrow__
 
     ---
 
-    Secure escrow mechanisms for Node transactions
+    Non-custodial escrow mechanics and release conditions
 
-    [:octicons-arrow-right-24: Explore Escrow](node-escrow.md)
+    [:octicons-arrow-right-24: Explore escrow](node-escrow.md)
 
 -   :material-cash-multiple:{ .lg .middle } __Node Pricing Structure__
 
     ---
 
-    Pricing tiers and economic framework
+    Three-tier pricing model with full price tables
 
-    [:octicons-arrow-right-24: View Pricing](node-pricing-structure.md)
+    [:octicons-arrow-right-24: View pricing](node-pricing-structure.md)
 
 -   :material-cart-arrow-down:{ .lg .middle } __How to Purchase__
 
     ---
 
-    Step-by-step guide to acquiring your EXPL Node
+    Step-by-step guide for desktop and mobile
 
-    [:octicons-arrow-right-24: Purchase Guide](how-to-purchase-node.md)
+    [:octicons-arrow-right-24: Purchase guide](how-to-purchase-node.md)
 
 </div>
 
 ---
 
-## 2026 Milestone
+## 2026 milestone
 
-**First Batch**: 12,000 EXPL Nodes  
-**Target**: Q2 2026 — first batch operational  
-**Impact**: Main EXPL distribution begins  
+**First batch**: 12,000 EXPL Nodes
+**Target**: Q2 2026 — first batch operational
+**Impact**: Main EXPL distribution begins
 
-[:octicons-arrow-right-24: View Complete 2026 Roadmap](../roadmap-2026.md)
+[:octicons-arrow-right-24: View complete 2026 Roadmap](../roadmap-2026.md)
 
 ---
 
-!!! info "Distributed Operations"
+!!! info "Distributed operations"
     EXPL Nodes are operated by independent node operators globally, providing distributed infrastructure for the ONE ecosystem.
-
-
