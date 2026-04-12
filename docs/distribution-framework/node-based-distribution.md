@@ -1,26 +1,32 @@
 # Node-Based Distribution
 
 !!! info "Operator-Driven Distribution"
-    Node-Based Distribution is driven exclusively by Node operators. EXPL tokens only enter circulation when an operator initiates a mint, triggering the automated allocation across all designated escrows.
+    EXPL tokens only enter circulation when a Node operator initiates a mint. Each mint triggers automated allocation across all designated escrows at fixed, contract-enforced ratios.
 
 ---
 
-## Daily Minting Permissions
+## Daily Minting Permission
 
-Each Node generates **574.30 EXPL** worth of daily minting permission (or **591.40 EXPL** if purchased via referral code). This includes **10 EXPL** designated as Founding Contributors Royalty. Operators can mint daily or accumulate permissions and mint later. Until minted, the tokens don't exist in the ecosystem.
+Each EXPL Node generates a daily minting permission of **574.30 EXPL** (or **591.40 EXPL** if purchased via referral code). This includes **10 EXPL** designated as Founding Contributors Royalty.
+
+Operators can mint daily or accumulate permissions and mint later. Until minted, the tokens do not exist in the ecosystem.
 
 ---
 
 ## Distribution Breakdown
 
-When you mint, tokens automatically distribute to designated escrows. From the base **574.30 EXPL** permission:
+When an operator mints, the **574.30 EXPL** distributes automatically:
 
-- **342 EXPL** splits evenly between ONE care and ONE venture escrows
-- From the remaining **232.30 EXPL**:
-  - **34.2 EXPL** → Community Grants escrow
-  - **17.1 EXPL** → Developer Incentives escrow
-  - **171 EXPL** → Node operator (your reward)
-  - **10 EXPL** → Founding Contributors Royalty
+| Destination | Amount | Share |
+|---|---|---|
+| ONE venture escrow | 171 EXPL | 29.77% |
+| ONE care escrow | 171 EXPL | 29.77% |
+| Node operator reward | 171 EXPL | 29.77% |
+| Community Grants escrow | 34.2 EXPL | 5.96% |
+| Developer Incentives escrow | 17.1 EXPL | 2.98% |
+| Founding Contributors Royalty | 10 EXPL | 1.74% |
+
+The two largest escrows -- ONE venture and ONE care -- each receive 171 EXPL, matching the operator reward. Community Grants and Developer Incentives receive smaller allocations directed at ecosystem growth.
 
 ---
 
@@ -32,14 +38,14 @@ This gradual distribution model:
 
 - Eliminates large one-time mints that create sell pressure
 - Aligns founder incentives with long-term ecosystem health
-- Maintains stable, predictable token economics
-- Ensures sustainable, daily-paced token release
+- Maintains predictable token economics
+- Ensures daily-paced release instead of lump-sum distribution
 
 ---
 
 ## Referral Bonus
 
-If your Node was purchased via referral code, daily minting increases to **591.40 EXPL** (574.30 + 17.1). The extra **17.1 EXPL** goes directly to the referrer's address.
+If a Node was purchased via referral code, daily minting increases to **591.40 EXPL** (574.30 + 17.1). The extra **17.1 EXPL** goes directly to the referrer's address.
 
 ---
 
@@ -55,84 +61,29 @@ If your Node was purchased via referral code, daily minting increases to **591.4
 ## Allocation Summary
 
 === "Standard Node (574.30 EXPL/day)"
-    **ONE venture Escrow**
-    
-    171 EXPL (29.77%)
-    
-    ---
-    
-    **ONE care Escrow**
-    
-    171 EXPL (29.77%)
-    
-    ---
-    
-    **Community Grants Escrow**
-    
-    34.2 EXPL (5.96%)
-    
-    ---
-    
-    **Developer Incentives Escrow**
-    
-    17.1 EXPL (2.98%)
-    
-    ---
-    
-    **Node Operator (NET)**
-    
-    171 EXPL (29.77%)
-    
-    ---
-    
-    **Founding Contributors Royalty**
-    
-    10 EXPL (1.74%)
+    | Destination | Daily Amount | Share |
+    |---|---|---|
+    | ONE venture escrow | 171 EXPL | 29.77% |
+    | ONE care escrow | 171 EXPL | 29.77% |
+    | Node operator reward | 171 EXPL | 29.77% |
+    | Community Grants escrow | 34.2 EXPL | 5.96% |
+    | Developer Incentives escrow | 17.1 EXPL | 2.98% |
+    | Founding Contributors Royalty | 10 EXPL | 1.74% |
 
 === "Node with Referral (591.40 EXPL/day)"
-    **ONE venture Escrow**
-    
-    171 EXPL (28.91%)
-    
-    ---
-    
-    **ONE care Escrow**
-    
-    171 EXPL (28.91%)
-    
-    ---
-    
-    **Community Grants Escrow**
-    
-    34.2 EXPL (5.78%)
-    
-    ---
-    
-    **Developer Incentives Escrow**
-    
-    17.1 EXPL (2.89%)
-    
-    ---
-    
-    **Node Operator (NET)**
-    
-    171 EXPL (28.91%)
-    
-    ---
-    
-    **Founding Contributors Royalty**
-    
-    10 EXPL (1.69%)
-    
-    ---
-    
-    **Referral Address**
-    
-    17.1 EXPL (2.89%)
+    | Destination | Daily Amount | Share |
+    |---|---|---|
+    | ONE venture escrow | 171 EXPL | 28.91% |
+    | ONE care escrow | 171 EXPL | 28.91% |
+    | Node operator reward | 171 EXPL | 28.91% |
+    | Community Grants escrow | 34.2 EXPL | 5.78% |
+    | Developer Incentives escrow | 17.1 EXPL | 2.89% |
+    | Founding Contributors Royalty | 10 EXPL | 1.69% |
+    | Referral address | 17.1 EXPL | 2.89% |
 
 ---
 
-## Key Features
+## Design Principles
 
 <div class="grid cards" markdown>
 
@@ -140,37 +91,28 @@ If your Node was purchased via referral code, daily minting increases to **591.4
 
     ---
 
-    Mint daily or accumulate permissions
-    
-    No time pressure
+    Operators mint daily or accumulate permissions with no expiration. No time pressure to claim.
 
 -   :material-account-lock:{ .lg .middle } **Non-Custodial Escrows**
 
     ---
 
-    Automated distribution to escrows
-    
-    Transparent allocation
+    All escrow allocations are automated and transparent. No intermediary holds funds.
 
--   :material-account-network:{ .lg .middle } **Referral Program**
+-   :material-account-network:{ .lg .middle } **Referral Rewards**
 
     ---
 
-    Additional 17.1 EXPL per day
-    
-    Direct rewards to referrers
+    Nodes purchased via referral generate an additional 17.1 EXPL/day, paid directly to the referrer.
 
--   :material-shield-check:{ .lg .middle } **Immutable Distribution**
+-   :material-shield-check:{ .lg .middle } **Immutable Ratios**
 
     ---
 
-    Fixed allocation percentages
-    
-    Smart contract enforced
+    Allocation percentages are fixed in the smart contract. No admin can change them post-deployment.
 
 </div>
 
 ---
 
-!!! success "Next Up"
-    Learn about all **Direct Mint Channels** and how they work
+[:octicons-arrow-right-24: Next: Direct Mint Channels](direct-mint-channels.md)

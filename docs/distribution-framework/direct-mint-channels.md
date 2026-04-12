@@ -1,53 +1,49 @@
 # Direct Mint Channels
 
-!!! info "Independent Minting"
-    Direct Mint Channels allow users to mint EXPL without operating a Node. Four channels are available, each with distinct requirements and rewards.
+!!! info "No Node Required"
+    Direct Mint Channels let users mint EXPL without operating a Node. Four channels are available, each with distinct requirements, allocations, and minting schedules.
 
 ---
 
-## Available Channels
+## Channels
 
 ### 1. Liquidity Mining
 
-Provide EXPL and its paired token as liquidity. Mint amount depends on what you provide and how long you lock it.
+Provide EXPL and its paired token as liquidity. Minting amount scales with the liquidity provided and the lock duration.
 
-**Key Features:**
-- :material-chart-line: Rewards based on liquidity amount
-- :material-lock-clock: Duration-dependent minting
-- :material-swap-horizontal: Direct platform integration
+- :material-chart-line: Scales with liquidity amount and lock period
+- :material-swap-horizontal: Integrated directly with the platform
+- :material-database: **7,500,060,000 EXPL** total allocation
 
 ---
 
-### 2. Impermanent Loss Protection
+### 2. Impermanent Loss Protection (ILP)
 
-Long-term liquidity providers risk impermanent loss. This protection pool ensures you get back exactly what you originally provided, regardless of market changes.
+Long-term liquidity providers face impermanent loss risk. This protection pool guarantees you recover the exact tokens you originally provided, regardless of market price changes.
 
-**Key Features:**
-- :material-shield-sync: Protection against impermanent loss
-- :material-restore: Guaranteed token recovery
-- :material-clock-check: Long-term LP support
+- :material-shield-sync: Full protection against impermanent loss
+- :material-restore: Exact original-token recovery guaranteed
+- :material-database: **3,750,030,000 EXPL** total allocation
 
 ---
 
 ### 3. HUB-Verified Users
 
-First 1,000,000 users who get HUB-verified status mint **1.71 EXPL daily** for **731 days** at their verified address.
+The first 1,000,000 users who achieve HUB-verified status mint **1.71 EXPL daily** for **731 days** at their verified address -- totaling **1,250.01 EXPL** per user.
 
-**Key Features:**
-- :material-account-check: First 1,000,000 verified users
-- :material-calendar: 1.71 EXPL per day for 731 days
-- :material-calculator: Total of 1,250.01 EXPL per verified user
+- :material-account-check: Limited to first 1,000,000 verified users
+- :material-calendar: 731-day minting period
+- :material-database: **1,250,010,000 EXPL** total allocation
 
 ---
 
 ### 4. Mystery Box
 
-Gamified feature with mintable EXPL and prizes. Anyone can open it once every 7 days. Currently live on [EXPL.ONE Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}.
+A gamified minting channel open to anyone once every 7 days. Currently live on [EXPL.ONE Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}.
 
-**Key Features:**
-- :material-gift: Open once every 7 days
-- :material-dice-multiple: Random EXPL rewards
-- :fontawesome-brands-discord: Available on Discord
+- :material-gift: One opening per user every 7 days
+- :material-dice-multiple: Randomized EXPL rewards
+- :material-database: **12,500,100 EXPL** total allocation
 
 ---
 
@@ -62,61 +58,20 @@ Gamified feature with mintable EXPL and prizes. Anyone can open it once every 7 
 
 ## Channel Comparison
 
-| Channel | Allocation | Requirements | Frequency |
-|---------|-----------|--------------|-----------|
-| **Liquidity Mining** | 7,500,060,000 EXPL | Provide liquidity | Duration-based |
-| **ILP** | 3,750,030,000 EXPL | LP participation | Protection pool |
-| **HUB-Verified** | 1,250,010,000 EXPL | Verified status | 1.71 EXPL/day for 731 days |
-| **Mystery Box** | 12,500,100 EXPL | Platform access | Every 7 days |
-
----
-
-## Summary
-
-<div class="grid cards" markdown>
-
--   :material-chart-line:{ .lg .middle } **Liquidity Mining**
-
-    ---
-    
-    Provide liquidity and earn
-    
-    7.5B EXPL allocation
-
--   :material-shield-sync:{ .lg .middle } **ILP**
-
-    ---
-    
-    Protection for LP providers
-    
-    3.75B EXPL allocation
-
--   :material-account-check:{ .lg .middle } **HUB-Verified**
-
-    ---
-    
-    Daily rewards for verified users
-    
-    1.25B EXPL allocation
-
--   :material-gift:{ .lg .middle } **Mystery Box**
-
-    ---
-    
-    Weekly gamified rewards
-    
-    12.5M EXPL allocation
-
-</div>
+| Channel | Allocation | Requirement | Frequency |
+|---|---|---|---|
+| **Liquidity Mining** | 7,500,060,000 EXPL | Provide liquidity pair | Duration-based |
+| **Impermanent Loss Protection** | 3,750,030,000 EXPL | Active LP participation | Protection pool |
+| **HUB-Verified Users** | 1,250,010,000 EXPL | HUB-verified status | 1.71 EXPL/day for 731 days |
+| **Mystery Box** | 12,500,100 EXPL | Discord access | Once every 7 days |
 
 ---
 
 !!! note "Founding Contributors Royalty"
-    The 771,000,000 EXPL (1.38%) previously allocated to TNO Cards has been moved to **Node-Based Distribution** as the **Founding Contributors Royalty**. Each of the 100,000 EXPL Nodes generates +10 EXPL daily for founding contributors over 731 days.
+    The 771,000,000 EXPL (1.38%) previously allocated to TNO Cards has been moved to Node-Based Distribution as the **Founding Contributors Royalty**. Each of the 100,000 EXPL Nodes generates +10 EXPL daily for founding contributors over 731 days.
 
-    [:octicons-arrow-right-24: Learn about Node-Based Distribution](node-based-distribution.md)
+    [:octicons-arrow-right-24: Node-Based Distribution](node-based-distribution.md)
 
 ---
 
-!!! success "Next Up"
-    Learn how to get involved through **collaborations, contributions, and venture partnerships**
+[:octicons-arrow-right-24: Next: Get Involved](../get-involved/contribute.md)
