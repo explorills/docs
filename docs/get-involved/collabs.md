@@ -2,21 +2,21 @@
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
-    <img src="/assets/images/logo.png" alt="EXPL.ONE - Get Involved" width="125" />
+    <img src="/assets/images/logo.png" alt="ONE ecosystem — Get Involved" width="125" />
     <figcaption><em>Get Involved</em></figcaption>
   </figure>
 </div>
 
 !!! quote "Strategic Collaborations"
-    EXPL.ONE engages in technical partnerships and ecosystem collaborations. We work with projects that provide complementary technology, infrastructure, or market capabilities.
+    The ONE ecosystem engages in technical partnerships and ecosystem collaborations with projects that provide complementary technology, infrastructure, or market capabilities.
 
 ---
 
-EXPL.ONE evaluates partnership opportunities with projects in DeFi, NFT infrastructure, governance systems, blockchain infrastructure, and related Web3 domains based on technical compatibility and strategic alignment.
+We evaluate partnership opportunities across DeFi, NFT infrastructure, governance systems, blockchain infrastructure, and related Web3 domains. All partnerships are assessed on technical compatibility and strategic alignment.
 
 ---
 
-## Opportunities Include
+## Opportunities
 
 <div class="grid cards" markdown>
 
@@ -72,7 +72,7 @@ EXPL.ONE evaluates partnership opportunities with projects in DeFi, NFT infrastr
 
 ---
 
-## Get in Touch
+## Get in touch
 
 Interested in collaborating? Reach out:
 
@@ -80,10 +80,10 @@ Interested in collaborating? Reach out:
 
 ---
 
-!!! success "Partnership Evaluation"
-    All partnership inquiries are reviewed based on technical compatibility, strategic value, and alignment with ecosystem development roadmap. Evaluation responses are provided in a timely manner.
+!!! success "Partnership evaluation"
+    All partnership inquiries are reviewed based on technical compatibility, strategic value, and alignment with the ecosystem development roadmap.
 
 ---
 
-!!! info "Stay Connected"
-    Connect with the **EXPL.ONE** community through our [Official Links](../additional-information/official-links.md)
+!!! info "Stay connected"
+    Connect with the ONE ecosystem community through our [Official Links](../additional-information/official-links.md)

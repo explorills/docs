@@ -1,6 +1,6 @@
 # Welcome to ONE
 
-ONE is a decentralized ecosystem consisting of specialized projects, each designed to address specific use cases within the blockchain and digital infrastructure space. The platform operates on a node-based architecture powered by EXPL Nodes, enabling decentralized operations and token distribution.
+ONE ecosystem is a coordinated set of Web3 products sharing one native token (EXPL), one identity layer (ONE id), one chain (ONE chain), and one revenue model. Every project feeds the same economy. All code is open source and available on GitHub.
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/logo.png" alt="ONE ecosystem" width="125" />
@@ -9,23 +9,21 @@ ONE is a decentralized ecosystem consisting of specialized projects, each design
 
 ---
 
-## Architecture Overview
+## How it works
 
-ONE operates as an open-source, decentralized infrastructure platform. Development is transparent with all code repositories publicly available on GitHub. The ecosystem is governed through community participation via EXPL Node operators who maintain network infrastructure and participate in protocol decisions.
-
-Technical operations are managed through on-chain smart contracts that handle token distribution, escrow mechanisms, and node operations. This architecture eliminates centralized control points while maintaining operational efficiency.
+EXPL Nodes are the infrastructure backbone. Node operators run the network, mint EXPL through on-chain contracts, and participate in governance across every project. Smart contracts handle token distribution, escrow mechanics, and Node operations — no centralized control points.
 
 ---
 
-## Economic Model
+## Revenue model
 
-The ONE ecosystem implements a structured revenue distribution model:
+Every ONE ecosystem project distributes revenue the same way:
 
-- **45%** allocated to EXPL Nodes (infrastructure providers)
-- **45%** allocated to ONE Creators
-- **10%** allocated to founding team (core development and operations)
+- **45%** to ONE Creators (community members who drive value into the ecosystem)
+- **45%** to EXPL Nodes (infrastructure providers)
+- **10%** to the Foundation (core development and operations)
 
-This distribution model aligns long-term incentives across operators, users, and developers while supporting sustainable ecosystem growth.
+This split aligns incentives across builders, operators, and the team that maintains the protocol.
 
 ---
 
@@ -37,7 +35,7 @@ This distribution model aligns long-term incentives across operators, users, and
 
     ---
 
-    Key milestones and what we're shipping this year
+    Key milestones and what ships this year
 
     [:octicons-arrow-right-24: View 2026 Roadmap](roadmap-2026.md)
 
@@ -45,7 +43,7 @@ This distribution model aligns long-term incentives across operators, users, and
 
     ---
 
-    The infrastructure backbone — your stake in all ecosystem projects
+    The infrastructure backbone — your stake in every ecosystem project
 
     [:octicons-arrow-right-24: Explore EXPL Nodes](nodes/introduction.md)
 
@@ -53,7 +51,7 @@ This distribution model aligns long-term incentives across operators, users, and
 
     ---
 
-    ONE pump, network, world, id, and more on the way
+    ONE pump, ONE network, ONE world, ONE id, and more
 
     [:octicons-arrow-right-24: View Projects](projects/overview.md)
 
@@ -77,7 +75,7 @@ This distribution model aligns long-term incentives across operators, users, and
 
     ---
 
-    Build with us — partnerships, collabs, and contribution paths
+    Build with us — partnerships, collaborations, and contribution paths
 
     [:octicons-arrow-right-24: Get Involved](get-involved/collabs.md)
 
@@ -99,10 +97,10 @@ This distribution model aligns long-term incentives across operators, users, and
 
 ### Community
 
-- [**GitHub**](https://github.com/explorills){:target="_blank"}: Explore Repositories
-- [**Twitter**](https://x.com/explorills_main){:target="_blank"}: Follow for Updates
-- [**Discord**](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}: Join the Community
-- [**LinkedIn**](https://www.linkedin.com/company/explorills){:target="_blank"}: Connect with Us
+- [**GitHub**](https://github.com/explorills){:target="_blank"}: Explore repositories
+- [**Twitter**](https://x.com/explorills_main){:target="_blank"}: Follow for updates
+- [**Discord**](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}: Join the community
+- [**LinkedIn**](https://www.linkedin.com/company/explorills){:target="_blank"}: Connect with us
 
 ---
 
@@ -116,5 +114,4 @@ Need help? Reach us at [support@expl.one](mailto:support@expl.one) or join the D
 ---
 
 !!! info "Get Started"
-    Start with the [2026 Roadmap](roadmap-2026.md) to see what we're building and when it's shipping
-
+    Start with the [2026 Roadmap](roadmap-2026.md) to see what we are building and when it ships

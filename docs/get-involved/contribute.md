@@ -1,18 +1,18 @@
-# Contribute to EXPL.ONE
+# Contribute to the ONE Ecosystem
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
-    <img src="/assets/images/logo.png" alt="EXPL.ONE - Get Involved" width="125" />
+    <img src="/assets/images/logo.png" alt="ONE ecosystem — Get Involved" width="125" />
     <figcaption><em>Get Involved</em></figcaption>
   </figure>
 </div>
 
 !!! quote "Open Contribution Model"
-    EXPL.ONE is developed through open-source contributions across multiple technical and operational domains. The project welcomes contributors with relevant expertise in blockchain development, infrastructure, and ecosystem operations.
+    The ONE ecosystem is built through open-source contributions across technical, operational, and creative domains. Contributors with relevant expertise in blockchain development, infrastructure, and ecosystem operations are welcome.
 
 ---
 
-EXPL.ONE accepts contributions across technical development, community operations, and content creation. Contributors are evaluated based on technical capability and domain expertise.
+We accept contributions in development, community operations, and content creation. All contributors are evaluated on technical capability and domain expertise.
 
 ---
 
@@ -28,7 +28,7 @@ EXPL.ONE accepts contributions across technical development, community operation
     
     Protocol architecture
 
--   :material-web:{ .lg .middle } **Frontend/UI Development**
+-   :material-web:{ .lg .middle } **Frontend / UI Development**
 
     ---
 
@@ -44,7 +44,7 @@ EXPL.ONE accepts contributions across technical development, community operation
     
     Database architecture
 
--   :material-shield-check:{ .lg .middle } **Testing & Security**
+-   :material-shield-check:{ .lg .middle } **Testing and Security**
 
     ---
 
@@ -56,7 +56,7 @@ EXPL.ONE accepts contributions across technical development, community operation
 
 ---
 
-## Community & Content
+## Community and content
 
 <div class="grid cards" markdown>
 
@@ -76,7 +76,7 @@ EXPL.ONE accepts contributions across technical development, community operation
     
     Video tutorials
 
--   :material-school:{ .lg .middle } **Education & Tutorials**
+-   :material-school:{ .lg .middle } **Education and Tutorials**
 
     ---
 
@@ -88,7 +88,7 @@ EXPL.ONE accepts contributions across technical development, community operation
 
 ---
 
-## Design & UX
+## Design and UX
 
 <div class="grid cards" markdown>
 
@@ -112,18 +112,18 @@ EXPL.ONE accepts contributions across technical development, community operation
 
 ---
 
-## Join the Team
+## Join the team
 
-Interested in contributing to EXPL.ONE? Reach out:
+Interested in contributing? Reach out:
 
 **[team@expl.one](mailto:team@expl.one){:target="_blank"}**
 
 ---
 
-!!! success "Contribution Process"
-    All contributor inquiries are reviewed based on technical expertise, relevant experience, and alignment with project development objectives.
+!!! success "Contribution process"
+    All inquiries are reviewed based on technical expertise, relevant experience, and alignment with ecosystem development goals.
 
 ---
 
-!!! info "Stay Connected"
-    Connect with the **EXPL.ONE** community through our [Official Links](../additional-information/official-links.md)
+!!! info "Stay connected"
+    Connect with the ONE ecosystem community through our [Official Links](../additional-information/official-links.md)
