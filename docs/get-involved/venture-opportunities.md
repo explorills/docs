@@ -2,72 +2,72 @@
 
 <div style="text-align: center; margin: 40px 0;">
   <figure style="display: inline-block;">
-    <img src="/assets/images/logo.png" alt="EXPL.ONE - Get Involved" width="125" />
+    <img src="/assets/images/logo.png" alt="ONE ecosystem — Get Involved" width="125" />
     <figcaption><em>Get Involved</em></figcaption>
   </figure>
 </div>
 
-!!! quote "Partnership Overview"
-    EXPL.ONE is developing decentralized infrastructure and blockchain-based products. We work with strategic partners and investors who are interested in contributing to the ecosystem's technical and commercial development.
+!!! quote "Investment and strategic partnership"
+    The ONE ecosystem is building decentralized infrastructure and blockchain-based products across 10+ verticals. We work with strategic partners and investors who want to participate in the ecosystem's technical and commercial development.
 
 ---
 
-We are open to partnerships across protocol development, ecosystem growth, and infrastructure expansion. Collaboration opportunities are evaluated based on strategic alignment and technical capability.
+We are open to investment and partnership across protocol development, ecosystem growth, and infrastructure expansion. All opportunities are evaluated based on strategic alignment and the value each party brings.
 
 ---
 
-## Areas Include
+## Areas of interest
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **Protocol Development**
+-   :material-layers:{ .lg .middle } **Protocol development**
 
     ---
 
-    Core infrastructure
-    
-    Technical foundations
+    ONE chain infrastructure, validator operations, and core tooling
 
--   :material-chart-line-variant:{ .lg .middle } **Ecosystem Growth**
+    Smart contract architecture across Ethereum and Flare
 
-    ---
-
-    Strategic expansion
-    
-    Market development
-
--   :material-account-multiple-plus:{ .lg .middle } **User Adoption Initiatives**
+-   :material-chart-line-variant:{ .lg .middle } **Ecosystem growth**
 
     ---
 
-    Onboarding programs
-    
-    User growth strategies
+    Go-to-market support for ecosystem products
 
--   :material-flask-outline:{ .lg .middle } **Research & Innovation**
+    Distribution partnerships and market expansion
+
+-   :material-account-multiple-plus:{ .lg .middle } **User adoption initiatives**
 
     ---
 
-    Advanced research
-    
-    Innovation initiatives
+    Onboarding programs for Node operators and ONE Creators
+
+    Community growth strategies and incentive design
+
+-   :material-flask-outline:{ .lg .middle } **Research and innovation**
+
+    ---
+
+    Decentralized identity, on-chain governance, and NFT infrastructure
+
+    Applied research with ecosystem-wide impact
 
 </div>
 
 ---
 
-## Get in Touch
+## Get in touch
 
-Ready to explore opportunities? Contact us at:
+Ready to explore opportunities? Contact us with your background and area of interest.
 
 **[capital@expl.one](mailto:capital@expl.one){:target="_blank"}**
 
 ---
 
-!!! success "Partnership Process"
-    All partnership inquiries are reviewed and evaluated based on strategic fit, technical capabilities, and alignment with ecosystem development objectives. Responses are provided in a timely manner.
+!!! success "Partnership process"
+    All inquiries are reviewed based on strategic fit, technical capability, and alignment with ecosystem development goals.
 
 ---
 
-!!! info "Stay Connected"
-    Connect with the **EXPL.ONE** community through our [Official Links](../additional-information/official-links.md)
+!!! info "Stay connected"
+    Connect with the ONE ecosystem community through our [Official Links](../additional-information/official-links.md)
