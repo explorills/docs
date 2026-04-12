@@ -9,7 +9,7 @@
 
 ---
 
-## Main Platforms
+## Platforms
 
 | Platform | Link |
 |----------|------|
@@ -20,48 +20,42 @@
 | **ONE network** | [network.expl.one](https://network.expl.one){:target="_blank"} |
 | **ONE world** | [world.expl.one](https://world.expl.one){:target="_blank"} |
 | **ONE id** | [id.expl.one](https://id.expl.one){:target="_blank"} |
+| **ONE box** | [box.expl.one](https://box.expl.one){:target="_blank"} |
+| **ONE deal** | [deal.expl.one](https://deal.expl.one){:target="_blank"} |
+| **ONE chat** | [chat.expl.one](https://chat.expl.one){:target="_blank"} |
 
 ---
 
-## Social & Community
+## Social and Community
 
 | Platform | Link |
 |----------|------|
 | **GitHub** | [EXPL.ONE](https://github.com/explorills){:target="_blank"} |
-| **Twitter** | [EXPL.ONE](https://x.com/explorills_main){:target="_blank"} |
+| **Twitter / X** | [EXPL.ONE](https://x.com/explorills_main){:target="_blank"} |
 | **Discord** | [EXPL.ONE](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} |
 | **LinkedIn** | [EXPL.ONE](https://www.linkedin.com/company/explorills){:target="_blank"} |
 
-!!! info "Display Names"
-    All social platforms display as **EXPL.ONE**
+!!! info "Display names"
+    All social accounts display as **EXPL.ONE**
 
 ---
 
-## Support Resources
+## Support
 
-| Support Channel | Details |
-|----------------|---------|
+| Channel | Details |
+|---------|---------|
 | **Email** | [support@expl.one](mailto:support@expl.one){:target="_blank"} |
-| **Discord** | [Join our community server](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} |
+| **Discord** | [Join the community server](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} |
 
-!!! tip "Quick Support"
-    For any inquiries on Discord, mention Admin User **`orb.8888`** in the General Chat or use directly **Support Tickets**
-
----
-
-## Purchase EXPL Nodes
-
-EXPL Nodes are the foundation of the ONE ecosystem. Become a node operator to secure the network and mint EXPL tokens.
-
-**Purchase Link**: [node.expl.one](https://node.expl.one){:target="_blank"}
-
-[:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
+!!! tip "Discord support"
+    Mention **`orb.8888`** in General Chat or open a **Support Ticket** for direct assistance.
 
 ---
 
-## Additional Resources
+## Related Documentation
 
-- **2026 Roadmap**: [View Milestones](../roadmap-2026.md)
-- **Projects Overview**: [Explore All Projects](../projects/overview.md)
-- **Tokenomics**: [Understand EXPL](../tokenomics/introduction.md)
+- [:octicons-arrow-right-24: EXPL Nodes](../nodes/introduction.md) — Infrastructure backbone of the ONE ecosystem
+- [:octicons-arrow-right-24: Projects Overview](../projects/overview.md) — Full inventory of ONE ecosystem projects
+- [:octicons-arrow-right-24: Tokenomics](../tokenomics/introduction.md) — EXPL token mechanics and distribution
+- [:octicons-arrow-right-24: 2026 Roadmap](../roadmap-2026.md) — Key milestones and timelines
 

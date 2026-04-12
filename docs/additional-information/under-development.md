@@ -1,34 +1,32 @@
 # Under Development
 
-!!! info "Coming in 2026"
-    The following sections are currently under development as part of the 2026 roadmap and will be added to the documentation as they roll out.
+!!! info "2026 Roadmap"
+    These documentation sections ship alongside their respective features during 2026. Each section will be published as the underlying product reaches production.
 
 [:octicons-arrow-right-24: View 2026 Roadmap](../roadmap-2026.md)
 
 ---
 
-## Upcoming Documentation
+## EXPL Tokenomics Escrow Architecture
 
-### 1. EXPL Tokenomics Escrows Architecture
+:material-lock-outline:{ .lg } **Non-custodial escrow system**
 
-:material-lock-outline:{ .lg } **Non-Custodial Escrow System**
-
-Detailed architecture and mechanics of the non-custodial escrow system for EXPL token distribution.
+Architecture and mechanics of the non-custodial escrow contracts that handle EXPL token distribution.
 
 **Topics covered:**
 
-- Escrow smart contract architecture
-- Automated distribution mechanisms
+- Escrow smart contract design
+- Automated distribution logic
 - Security and audit procedures
 - Multi-chain escrow synchronization
 
 ---
 
-### 2. Liquidity Mining Mechanics
+## Liquidity Mining Mechanics
 
-:material-chart-line:{ .lg } **Rewards & Participation Framework**
+:material-chart-line:{ .lg } **Rewards and participation**
 
-Complete guide to liquidity mining operations, rewards calculation, and participation requirements.
+How liquidity mining works: pool participation, rewards calculation, and incentive structure.
 
 **Topics covered:**
 
@@ -39,76 +37,75 @@ Complete guide to liquidity mining operations, rewards calculation, and particip
 
 ---
 
-### 3. ONE network Dashboard
+## ONE network Dashboard
 
-:material-monitor-dashboard:{ .lg } **Comprehensive Web3 Dashboard**
+:material-monitor-dashboard:{ .lg } **Operational hub for the ONE ecosystem**
 
-A unified operational hub integrating all ecosystem features into one seamless platform.
+The ONE network dashboard consolidates node management, liquidity operations, governance, and ecosystem analytics into a single interface at [network.expl.one](https://network.expl.one){:target="_blank"}.
 
-#### Core Dashboard Modules
+#### Dashboard modules
 
-=== "Nodes Management"
+=== "Node Management"
 
-    :material-server: **Real-Time Node Operations**
+    :material-server: **Node operations**
     
-    - Live node status monitoring
+    - Live node status and health monitoring
     - Performance metrics and analytics
     - Multi-node portfolio management
-    - Health checks and uptime tracking
     - Activation and configuration tools
 
-=== "Communication Channels"
+=== "Communication"
 
-    :material-forum: **Community Integration**
+    :material-forum: **Messaging and announcements**
     
-    - In-platform messaging system
+    - In-platform messaging (powered by ONE chat)
     - Official announcements feed
     - Discord integration
     - Direct support channels
-    - Community updates hub
 
-=== "Liquidity Pool"
+=== "Liquidity"
 
-    :material-water: **Liquidity Management Interface**
+    :material-water: **Pool management**
     
-    - Add/remove liquidity seamlessly
+    - Add and remove liquidity
     - Real-time pool statistics
-    - Impermanent Loss Protection (ILP) mechanics
-    - APY tracking and projections
-    - Position management dashboard
+    - Impermanent loss protection mechanics
+    - APY tracking and position management
 
-=== "Governance Voting"
+=== "Governance"
 
-    :material-vote: **On-Chain Governance System**
+    :material-vote: **On-chain voting**
     
-    - Active proposal submissions
-    - Vote delegation mechanisms
+    - Proposal submissions
+    - Vote delegation
     - Historical voting records
     - Voting power calculations
-    - Governance analytics
 
-=== "Stats Section"
+=== "Analytics"
 
-    :material-chart-box: **Ecosystem Analytics**
+    :material-chart-box: **Ecosystem metrics**
     
-    - Network health monitoring
-    - Token circulation metrics
+    - Network health and uptime
+    - Token circulation data
     - Node operator statistics
     - Liquidity pool performance
-    - Real-time ecosystem overview
 
 ---
 
-### 4. ONE world
+## ONE world Game Mechanics
 
-:material-gamepad-variant:{ .lg } **Game Mechanics**
+:material-gamepad-variant:{ .lg } **Game design documentation**
 
-- **Character Ability Design & Balance** - Skill trees, progression systems, balancing framework
-- **Combat System Architecture** - Battle mechanics, damage calculations, PvP/PvE systems
-- **Game Economy Design** - Resource management, crafting, scarcity mechanics, item valuation
-- **Lore-Integrated Mechanics** - Story-driven gameplay, open-world exploration 
+Technical design docs for ONE world's core gameplay systems.
+
+**Topics covered:**
+
+- **Character design and balance** — Skill trees, progression systems, balancing framework
+- **Combat architecture** — Battle mechanics, damage calculations, PvP and PvE systems
+- **Game economy** — Resource management, crafting, scarcity mechanics, item valuation
+- **Lore-integrated mechanics** — Story-driven gameplay, open-world exploration
 
 ---
 
-!!! tip "Stay Connected"
-    Stay up to date with the ecosystem through our [Official Links](official-links.md)
+!!! tip "Stay updated"
+    Follow progress through our [Official Links](official-links.md) or join the [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
