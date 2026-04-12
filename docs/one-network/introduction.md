@@ -14,7 +14,7 @@
 
 ## Overview
 
-ONE network serves as the foundational blockchain layer for the ecosystem. All transactions, smart contracts, and applications execute on infrastructure maintained by EXPL Node operators.
+ONE network is the foundational blockchain layer for the ecosystem. Transactions, smart contracts, and applications run on infrastructure maintained by EXPL Node operators. The network handles EXPL token distribution, liquidity pool management, and governance.
 
 ---
 
@@ -24,81 +24,42 @@ ONE network serves as the foundational blockchain layer for the ecosystem. All t
 
 - Decentralized network operated by EXPL Nodes
 - Distributed consensus mechanism
-- Protocol governance through node operators
+- Protocol governance through Node operators
 - Transparent on-chain operations
 
-### Powered by EXPL Nodes
+### EXPL Token Distribution
 
-- 12,000+ EXPL Nodes securing the network
 - Daily EXPL minting through on-chain contracts
-- Automated distribution
-- Incentive-aligned infrastructure
+- Immutable, community-auditable smart contracts
+- Automated distribution to Node operators
+- Fair, decentralized model
 
-### DeFi Ready
+[:octicons-arrow-right-24: Learn About Tokenomics](../tokenomics/introduction.md)
+
+### Liquidity Infrastructure
 
 - Integrated liquidity pools for EXPL
-- Liquidity mining programs
-- Optimized transaction routing
-- Real-time analytics
+- Liquidity mining program
+- Initial target: 10M EXPL ($40k USD at 1:1 ratio)
 
-### Secure & Transparent
+### Security
 
 - Smart contract-based operations
 - Verifiable on-chain transactions
 - Cryptographic security
-- Community-auditable
+- Community-auditable code
 
 ---
 
 ## Architecture
 
-ONE network is designed as a horizontally scalable infrastructure that can support the growing demands of the ONE ecosystem:
+ONE network is structured in three layers:
 
-### Consensus Layer
-- Secured by EXPL Nodes operators
-- Efficient consensus mechanisms
-- Low latency transaction processing
+**Consensus Layer** — Secured by EXPL Node operators. Handles transaction validation and processing.
 
-### Smart Contract Layer
-- EXPL minting contracts
-- Liquidity pool management
-- Governance mechanisms
-- Cross-project integrations
+**Smart Contract Layer** — EXPL minting contracts, liquidity pool management, governance mechanisms, and cross-project integrations.
 
-### Application Layer
-- APIs for ONE ecosystem projects
-- Developer tools and SDKs
-- Integration frameworks
-
----
-
-## EXPL Token Distribution
-
-ONE network facilitates the primary distribution mechanism for EXPL tokens:
-
-- **Daily Minting**: EXPL Nodes generate mint permissions
-- **Immutable Contracts**: Transparent, unchangeable smart contracts
-- **Fair Distribution**: Community-operated, decentralized model
-- **Sustainable Economics**: Long-term incentive alignment
-
-[:octicons-arrow-right-24: Learn About Tokenomics](../tokenomics/introduction.md)
-
----
-
-## Liquidity Mining
-
-### Participate in Network Growth
-
-- Provide liquidity to EXPL pools
-- Earn rewards for liquidity provision
-- Support network stability and trading efficiency
-- Transparent APY tracking and analytics
-
-### Minimum Liquidity Target
-
-- Initial target: 10M EXPL ($40k USD at 1:1 ratio)
-- Establishes sustainable liquidity depth
-- Supports ecosystem-wide trading
+**Application Layer** — APIs for ONE ecosystem projects, developer tools, and integration endpoints.
 
 ---
 
@@ -106,58 +67,35 @@ ONE network facilitates the primary distribution mechanism for EXPL tokens:
 
 EXPL Nodes function as network validators and infrastructure operators:
 
-✅ **Operate Network Infrastructure**: Run and maintain distributed network nodes
-✅ **Mint EXPL Tokens**: Execute daily token minting via smart contracts
-✅ **Secure Transactions**: Validate and process on-chain transactions
-✅ **Enable Governance**: Vote on protocol proposals and decisions
-✅ **Earn Rewards**: Receive EXPL allocation for infrastructure operations  
+- **Operate infrastructure** — Run and maintain distributed network nodes
+- **Mint EXPL tokens** — Execute daily token minting via smart contracts
+- **Secure transactions** — Validate and process on-chain transactions
+- **Enable governance** — Vote on protocol proposals and decisions
+- **Earn rewards** — Receive EXPL allocation for infrastructure operations
+
+[:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
 
 [:octicons-arrow-right-24: Purchase EXPL Nodes](https://node.expl.one){:target="_blank"}
 
-[:octicons-arrow-right-24: Learn More About EXPL Nodes](../nodes/introduction.md)
+---
+
+## Core Philosophy
+
+Like every project in the ONE ecosystem, ONE network is built on three principles:
+
+- **Open Source** — Every line of code is publicly available on GitHub
+- **Community-Driven** — Built by and for the community
+- **Fair Revenue Model** — 45% to ONE Creators, 45% to EXPL Nodes, 10% to the Foundation
 
 ---
 
-## Development Timeline
+## Roadmap Status
 
 **Target Launch**: Q3 2026
 
-ONE network is scheduled for full production launch in Q3 2026, including:
-
-- Complete liquidity pool integration
-- Operational liquidity mining program
-- Full EXPL Nodes network consensus
-- Production-ready infrastructure
+ONE network is scheduled for full production launch in Q3 2026, including complete liquidity pool integration, an operational liquidity mining program, and full EXPL Node network consensus.
 
 [:octicons-arrow-right-24: View 2026 Roadmap](../roadmap-2026.md)
-
----
-
-## For Developers
-
-ONE network will provide developer resources:
-
-- REST APIs for network interactions
-- WebSocket support for real-time data
-- SDKs for popular programming languages
-- Documentation and code examples
-- Testnet access for development
-
-More details as development progresses.
-
----
-
-## Network Statistics
-
-Stay updated with real-time network metrics:
-
-- Number of active EXPL Nodes
-- Total EXPL minted
-- Liquidity pool depth
-- Transaction throughput
-- Network health metrics
-
-*Dashboard coming with production launch*
 
 ---
 
@@ -165,26 +103,22 @@ Stay updated with real-time network metrics:
 
 ### Become a Node Operator
 
-Run an EXPL Node to directly participate in network operations and earn EXPL rewards.
+Run an EXPL Node to participate in network operations and earn EXPL rewards.
 
 [:octicons-arrow-right-24: How to Purchase EXPL Nodes](../nodes/how-to-purchase-node.md)
 
-### Provide Liquidity
-
-Contribute to network liquidity and earn mining rewards.
-
-*Details available upon liquidity program launch*
-
 ---
 
-## Support & Community
+## Additional Resources
 
-- **Email**: [support@expl.one](mailto:support@expl.one)
-- **Discord**: [Join the Community](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
 - **GitHub**: [Explore Repositories](https://github.com/explorills){:target="_blank"}
+- **Support**: [support@expl.one](mailto:support@expl.one)
+- **Community**: [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
 
 ---
 
 !!! success "Core Infrastructure Layer"
-    ONE network provides the foundational blockchain infrastructure for the ecosystem. Operated by distributed EXPL Nodes, it implements a decentralized architecture for transaction processing and smart contract execution.
+    ONE network provides the foundational blockchain infrastructure for the ecosystem. Operated by distributed EXPL Nodes, it handles transaction processing, token distribution, and smart contract execution.
+
+    [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
 

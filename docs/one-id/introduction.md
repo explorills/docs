@@ -6,7 +6,7 @@
   <p><strong>Decentralized Biometric Identity for the ONE Ecosystem</strong></p>
 </div>
 
-**ONE id** is a biometric identity service that allows users to verify their identity once through client-side facial recognition and associate it with one or more wallet addresses. The resulting credential is reusable across all applications in the ONE ecosystem.
+**ONE id** is a biometric identity service. Verify once through client-side facial recognition, associate one or more wallet addresses, and use the resulting credential across every application in the ONE ecosystem.
 
 **Platform**: [id.expl.one](https://id.expl.one){:target="_blank"}
 
@@ -14,9 +14,17 @@
 
 ## Overview
 
-ONE id addresses a common problem in decentralized applications: proving that a user is a unique human without relying on centralized identity providers. It combines browser-based biometric enrollment with on-chain wallet signature verification to produce a single reusable identity credential.
+ONE id solves a core problem in decentralized applications: proving that a user is a unique human without relying on centralized identity providers. It combines browser-based biometric enrollment with on-chain wallet signature verification to produce a single reusable credential.
 
 One verification. Every application. No centralized authority.
+
+---
+
+## How It Works
+
+1. **Scan** — Your device camera captures a facial scan. A 128-dimensional mathematical descriptor is generated entirely in the browser. No raw biometric data leaves your device.
+2. **Sign** — Connect one or more EVM-compatible wallets and sign a verification message. The signature cryptographically binds your wallets to your biometric descriptor.
+3. **Access** — Your verified identity propagates across the ONE ecosystem. One credential grants access to every application.
 
 ---
 
@@ -25,30 +33,21 @@ One verification. Every application. No centralized authority.
 ### Biometric Enrollment
 
 - Client-side facial recognition powered by [face-api.js](https://github.com/justadudewhohacks/face-api.js) (TensorFlow.js-based)
-- Generates a 128-dimensional mathematical descriptor entirely in the browser
-- No raw image or video data is transmitted or stored
+- 128-dimensional mathematical descriptor generated entirely in the browser
+- No raw image or video data transmitted or stored
 - Three-point consecutive detection for reliable verification
 
 ### Wallet Association
 
 - Connect one or more EVM-compatible wallets via [RainbowKit](https://www.rainbowkit.com/)
-- Supported chains: Ethereum, Polygon, Arbitrum, Optimism, Base
 - Cryptographic signature binds wallet addresses to the biometric descriptor
 - Multi-wallet support under a single identity
 
 ### Unified Access
 
-- A single verified identity propagates across all ONE ecosystem applications
+- Single verified identity across all ONE ecosystem applications
 - Authenticate once, operate everywhere
-- Sybil-resistant identity protocol prevents duplicate accounts
-
----
-
-## How It Works
-
-1. **Scan**: The client captures a facial scan using your device camera. A mathematical descriptor is generated entirely in the browser — no raw biometric data leaves your device.
-2. **Sign**: Connect one or more EVM-compatible wallets and sign a verification message. The signature cryptographically binds your wallets to your biometric descriptor.
-3. **Access**: Your verified identity propagates across the ONE ecosystem. One credential grants access to every application.
+- Sybil-resistant protocol prevents duplicate accounts
 
 ---
 
@@ -64,28 +63,22 @@ ONE id implements a privacy-first architecture:
 
 ---
 
-## Technology Stack
+## Use Cases
 
-ONE id is built with modern web technologies for optimal performance:
-
-- **Frontend**: React 19, TypeScript
-- **Build Tool**: Bun, Vite
-- **Styling**: Tailwind CSS
-- **UI Components**: Shadcn UI
-- **Wallet Integration**: wagmi + viem + RainbowKit
-- **Biometrics**: face-api.js (TensorFlow.js-based)
-- **Animations**: Framer Motion
+- **Sybil resistance** — Prevent duplicate accounts and bot activity across ONE applications
+- **Cross-application identity** — One verification grants access to ONE pump, ONE deal, ONE chat, ONE world, ONE network, and all future projects
+- **Trustless verification** — Prove uniqueness without revealing personal information
+- **Multi-wallet management** — Associate multiple wallet addresses under one verified identity
 
 ---
 
-## Use Cases
+## Core Philosophy
 
-ONE id enables a range of identity-dependent features across the ecosystem:
+Like every project in the ONE ecosystem, ONE id is built on three principles:
 
-- **Sybil resistance** — Prevent duplicate accounts and bot activity across ONE applications
-- **Cross-application identity** — A single verification grants access to ONE pump, ONE world, ONE network, and all future projects
-- **Trustless verification** — Prove uniqueness without revealing personal information
-- **Multi-wallet management** — Associate multiple wallet addresses under one verified identity
+- **Open Source** — Every line of code is publicly available on GitHub
+- **Community-Driven** — Built by and for the community
+- **Fair Revenue Model** — 45% to ONE Creators, 45% to EXPL Nodes, 10% to the Foundation
 
 ---
 
@@ -101,7 +94,7 @@ The landing page is deployed at [id.expl.one](https://id.expl.one){:target="_bla
 
 ## Get Started
 
-Visit [id.expl.one](https://id.expl.one){:target="_blank"} to learn more about ONE id and stay updated on the verification launch.
+Visit [id.expl.one](https://id.expl.one){:target="_blank"} for more about ONE id and to stay updated on the verification launch.
 
 ---
 
