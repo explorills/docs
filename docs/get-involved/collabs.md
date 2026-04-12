@@ -7,12 +7,12 @@
   </figure>
 </div>
 
-!!! quote "Strategic Collaborations"
-    The ONE ecosystem engages in technical partnerships and ecosystem collaborations with projects that provide complementary technology, infrastructure, or market capabilities.
+!!! quote "Ecosystem collaborations"
+    The ONE ecosystem partners with projects that bring complementary technology, infrastructure, or distribution. We are interested in protocol integrations, joint development, and cross-community initiatives that create measurable value for both sides.
 
 ---
 
-We evaluate partnership opportunities across DeFi, NFT infrastructure, governance systems, blockchain infrastructure, and related Web3 domains. All partnerships are assessed on technical compatibility and strategic alignment.
+The ONE ecosystem operates across DeFi, NFT infrastructure, identity, and blockchain infrastructure. We evaluate every collaboration on technical compatibility and strategic fit.
 
 ---
 
@@ -20,53 +20,53 @@ We evaluate partnership opportunities across DeFi, NFT infrastructure, governanc
 
 <div class="grid cards" markdown>
 
--   :material-connection:{ .lg .middle } **Technical Integrations**
+-   :material-connection:{ .lg .middle } **Technical integrations**
 
     ---
 
-    Protocol-level integrations
-    
-    Smart contract partnerships
+    Protocol-level integrations with ONE chain, ONE id, or EXPL Nodes contracts
 
--   :material-bullhorn:{ .lg .middle } **Co-Marketing Initiatives**
+    Smart contract interoperability across Ethereum and Flare
 
-    ---
-
-    Joint marketing campaigns
-    
-    Shared audience engagement
-
--   :material-handshake:{ .lg .middle } **Brand Partnerships**
+-   :material-bullhorn:{ .lg .middle } **Co-marketing initiatives**
 
     ---
 
-    Strategic brand collaborations
-    
-    Ecosystem alignment
+    Joint campaigns targeting overlapping communities
+
+    Shared content, AMAs, and cross-platform promotion
+
+-   :material-handshake:{ .lg .middle } **Brand partnerships**
+
+    ---
+
+    Aligned projects that share audience and values
+
+    Co-branded experiences within ONE ecosystem products
 
 -   :material-flask:{ .lg .middle } **Joint R&D**
 
     ---
 
-    Research collaborations
-    
-    Development partnerships
+    Research collaborations on ONE chain infrastructure
 
--   :material-account-group:{ .lg .middle } **Community Cross-Promotion**
+    Shared development on decentralized identity and NFT tooling
 
-    ---
-
-    Community engagement
-    
-    Shared growth initiatives
-
--   :material-calendar-star:{ .lg .middle } **Collaborative Events**
+-   :material-account-group:{ .lg .middle } **Community cross-promotion**
 
     ---
 
-    Joint events and workshops
-    
-    Hackathons and conferences
+    Discord and social channel collaboration
+
+    Shared events and growth initiatives between communities
+
+-   :material-calendar-star:{ .lg .middle } **Collaborative events**
+
+    ---
+
+    Joint hackathons, workshops, and AMAs
+
+    Conference partnerships and speaking opportunities
 
 </div>
 
@@ -74,14 +74,14 @@ We evaluate partnership opportunities across DeFi, NFT infrastructure, governanc
 
 ## Get in touch
 
-Interested in collaborating? Reach out:
+Interested in collaborating? Tell us about your project and the type of partnership you have in mind.
 
 **[collabs@expl.one](mailto:collabs@expl.one){:target="_blank"}**
 
 ---
 
 !!! success "Partnership evaluation"
-    All partnership inquiries are reviewed based on technical compatibility, strategic value, and alignment with the ecosystem development roadmap.
+    All partnership inquiries are reviewed based on technical compatibility, strategic value, and alignment with the ecosystem roadmap.
 
 ---
 
