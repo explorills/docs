@@ -71,7 +71,6 @@ Projects in active development alongside the milestones above:
 | **ONE agent** | Planned | |
 | **ONE venture** | Planned | |
 | **ONE care** | Planned | |
-| **ONE merch** | Planned | |
 | **ONE space** | Planned | |
 
 [:octicons-arrow-right-24: View all projects](projects/overview.md)

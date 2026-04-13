@@ -106,9 +106,6 @@ Details unrevealed. Teaser landing page is live; full concept will be disclosed 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #64748b;">care</span>
 **Status**: Coming Soon
 
-### <span style="color: #ffffff;">ONE</span> <span style="color: #ef5609;">merch</span>
-**Status**: Coming Soon
-
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #84cc16;">space</span>
 **Status**: Coming Soon
 
