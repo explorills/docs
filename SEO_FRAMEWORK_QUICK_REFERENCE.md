@@ -15,7 +15,6 @@
 | ONE ID | id.expl.one | #92400e |
 | ONE venture | venture.expl.one | #facc15 |
 | ONE care | care.expl.one | #64748b |
-| ONE merch | merch.expl.one | #ef5609 |
 | ONE space | space.expl.one | #84cc16 |
 
 ## Universal Links (Use These Exactly)
