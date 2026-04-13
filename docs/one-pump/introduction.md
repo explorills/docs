@@ -1,99 +1,48 @@
-# <span style="color: #ffffff;">ONE</span> <span style="color: #16a34a;">pump</span>
-
-<div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
-  <p><span style="color: #ffffff;">ONE</span> <span style="color: #16a34a; font-size: 1.5em; font-weight: 600;">pump</span></p>
-  <p><strong>Token Sentiment Tracking & Voting Platform</strong></p>
-</div>
-
-**ONE pump** is a token sentiment tracking platform with daily voting, EXPL point rewards, and competitive leaderboards. Part of the ONE ecosystem infrastructure.
-
-**Platform**: [pump.expl.one](https://pump.expl.one){:target="_blank"}
-
+---
+title: ONE pump
+description: Decentralized token launch and trading platform for the ONE ecosystem — daily voting, EXPL points, and streak leaderboards live today.
 ---
 
-## Overview
+# ONE pump
 
-ONE pump runs a daily voting system for cryptocurrency sentiment tracking. Users vote on tokens, earn EXPL points through engagement, and compete in streak-based challenges. The platform aggregates voting data into community sentiment metrics across multiple timeframes.
+!!! note "Status — In Progress"
+    <span style="color:#16a34a;font-weight:700;">●</span> ONE pump is being built. The voting and rewards layer is reachable today on [pump.expl.one](https://pump.expl.one); the broader launch and trading surface is in active development.
 
----
+## What it does and what's coming
 
-## Core Features
+ONE pump is intended to grow into a decentralized token launch and trading platform for the ONE ecosystem. Today the live experience focuses on community sentiment, daily pumps, and engagement rewards, with the launch and trading layer being built around it.
 
-### Daily Voting
+### Today you can…
 
-- One pump per user, per day
-- Rankings by timeframe: daily, weekly, monthly, yearly, all-time
-- Add new cryptocurrencies to the voting pool
+- Connect a wallet and use the platform at [pump.expl.one](https://pump.expl.one).
+- Cast one daily pump per user to signal sentiment on a token.
+- Earn EXPL points for daily pumps and for adding new tokens to the voting pool.
+- Track rankings across daily, weekly, monthly, yearly, and all-time timeframes.
+- Maintain a streak, protect it with a Streak Freeze, and climb the leaderboards.
 
-### EXPL Points
+### In progress…
 
-- **10 points** per daily pump
-- **100 points** for adding a new coin
-- Global leaderboard tracking
+- The decentralized token launch flow that gives the platform its name.
+- Trading surfaces aligned with the wider ONE ecosystem.
+- Deeper integration with other ONE projects and the underlying network.
 
-### Streak Challenges
+Delivery dates are not committed here; broader timing lives in the roadmap.
 
-- Track consecutive days pumping
-- **Streak Freeze**: Protect your streak for 50 EXPL points
-- **Streak Challenges**: Bet points on maintaining goals
-- Streak-based leaderboards
+## How it fits
 
-### Your Profile
+ONE pump is one of the user-facing surfaces of the ONE ecosystem and shares its infrastructure with the other ONE projects.
 
-- Complete pump history
-- Coins you've added to the platform
-- Rank and point balance
-- Engagement patterns over time
+- It runs on the same shared backbone as the rest of the projects — see [ONE network](../one-network/introduction.md).
+- It is one of several projects coordinated under the [Projects Overview](../projects/overview.md).
+- Like every ONE project, it is operated through nodes — see the [EXPL Nodes introduction](../nodes/introduction.md).
+- Return to the [documentation home](../index.md) to see how the projects connect.
 
----
+## Current state
 
-## How It Works
+ONE pump is marked **In Progress**. The voting, points, streak, and leaderboard layer is reachable today on the live site. The decentralized launch and trading layer is being designed and built. Scope, naming, and behavior may evolve before the full release.
 
-1. **Connect** — Link your wallet to access ONE pump
-2. **Pump** — Vote for a cryptocurrency once per day
-3. **Earn** — Accumulate EXPL points for pumps and contributions
-4. **Compete** — Climb the leaderboard and maintain your streak
-5. **Discover** — Explore trending tokens based on community sentiment
+## Learn more
 
----
-
-## Core Philosophy
-
-Like every project in the ONE ecosystem, ONE pump is built on three principles:
-
-- **Open Source** — Every line of code is publicly available on GitHub
-- **Community-Driven** — Built by and for the community
-- **Fair Revenue Model** — 45% to ONE Creators, 45% to EXPL Nodes, 10% to the Foundation
-
----
-
-## Roadmap Status
-
-**Current Status**: In Progress
-
-ONE pump is targeted for full production launch in mid-2026.
-
-[:octicons-arrow-right-24: View Complete 2026 Roadmap](../roadmap-2026.md)
-
----
-
-## Get Started
-
-Visit [pump.expl.one](https://pump.expl.one){:target="_blank"} to start pumping and earning EXPL points.
-
----
-
-## Additional Resources
-
-- **GitHub**: [ONE pump Repository](https://github.com/explorills/expl-one-pump){:target="_blank"}
-- **Support**: [support@expl.one](mailto:support@expl.one)
-- **Community**: [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
-
----
-
-!!! info "Powered by EXPL Nodes"
-    ONE pump is secured and operated through the ONE ecosystem infrastructure, powered by EXPL Nodes.
-
-    [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
-
+- Live site: [pump.expl.one](https://pump.expl.one)
+- Roadmap context: [2026 Roadmap](../roadmap-2026.md)
+- Project status across the ecosystem: [Projects Overview](../projects/overview.md)
