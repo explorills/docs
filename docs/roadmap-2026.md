@@ -5,7 +5,7 @@
 </div>
 
 !!! success "Foundation Year"
-    2026 is when the core infrastructure goes live: EXPL deploys as an ERC20, EXPL Nodes reach operational scale, and the first wave of projects enters production.
+    2026 is when the core infrastructure goes live: ONE chain shipped in Q1, EXPL deployed as an ERC20, EXPL Nodes reach operational scale, and the first wave of projects enters production.
 
 ---
 
@@ -13,9 +13,19 @@
 
 ### Q1 2026: EXPL token deployment
 
-- Deploy EXPL as an ERC20 on Ethereum
-- Launch liquidity pool with 10M EXPL minimum
-- Enable liquidity mining
+- Deployed EXPL as an ERC20 on Ethereum
+- Launched the liquidity pool with a 10M EXPL minimum
+- Enabled liquidity mining
+
+---
+
+### Q1 2026 (March): ONE chain — production launch
+
+ONE chain went live on **19 March 2026**, the foundational chain for the ONE ecosystem and the only ONE project currently in the **Deployed** stage.
+
+- **ONE chain** — Deployed 19 March 2026 — [chain.expl.one](https://chain.expl.one){:target="_blank"} — Sovereign gas-free EVM blockchain for the ONE ecosystem
+
+[:octicons-arrow-right-24: Read about ONE chain](one-chain/introduction.md)
 
 ---
 
@@ -64,14 +74,14 @@ Projects in active development alongside the milestones above:
 
 | Project | Status | Link |
 |---------|--------|------|
-| **ONE id** | Pre-release | [id.expl.one](https://id.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-id/introduction.md) |
-| **ONE deal** | In progress | [deal.expl.one](https://deal.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-deal/introduction.md) |
-| **ONE chat** | In progress | [chat.expl.one](https://chat.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-chat/introduction.md) |
-| **ONE box** | In progress | [box.expl.one](https://box.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-box/introduction.md) |
-| **ONE agent** | Planned | |
-| **ONE venture** | Planned | |
-| **ONE care** | Planned | |
-| **ONE space** | Planned | |
+| **ONE id** | In Progress | [id.expl.one](https://id.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-id/introduction.md) |
+| **ONE deal** | In Progress | [deal.expl.one](https://deal.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-deal/introduction.md) |
+| **ONE chat** | In Progress | [chat.expl.one](https://chat.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-chat/introduction.md) |
+| **ONE box** | In Progress | [box.expl.one](https://box.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-box/introduction.md) |
+| **ONE agent** | Coming Soon | [:octicons-arrow-right-24: Docs](one-agent/introduction.md) |
+| **ONE venture** | Coming Soon | [:octicons-arrow-right-24: Docs](one-venture/introduction.md) |
+| **ONE care** | Coming Soon | [:octicons-arrow-right-24: Docs](one-care/introduction.md) |
+| **ONE space** | Coming Soon | [:octicons-arrow-right-24: Docs](one-space/introduction.md) |
 
 [:octicons-arrow-right-24: View all projects](projects/overview.md)
 
@@ -81,6 +91,7 @@ Projects in active development alongside the milestones above:
 
 By end of 2026:
 
+- ONE chain deployed (achieved 19 March 2026)
 - 12,000+ EXPL Nodes operational
 - EXPL token deployed and liquid on Ethereum
 - 10M+ EXPL in liquidity pools
