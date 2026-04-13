@@ -5,9 +5,10 @@ description: ONE space — a Coming Soon project in the ONE ecosystem. Details w
 
 # ONE space
 
-!!! info status-coming-soon "Status"
-    **Status:** Coming Soon
-    **Accent color:** `#84cc16`
+<span class="status-coming-soon">Coming Soon</span>
+
+!!! note "Status — Coming Soon"
+    <span style="color:#84cc16;font-weight:700;">●</span> ONE space is a planned project in the ONE ecosystem. There is no live product page yet, and the scope is not committed.
 
 ONE space is a Coming Soon project in the ONE ecosystem. The project is on the published project map, and details will be added to this page as the scope and shape of the work become clearer. There is no live URL yet.
 

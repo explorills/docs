@@ -5,9 +5,10 @@ description: Core blockchain infrastructure powering ONE. The in-progress operat
 
 # ONE network
 
-!!! info "Status"
-    **Status:** In Progress
-    **Accent color:** `#2563eb`
+<span class="status-in-progress">In Progress</span>
+
+!!! note "Status — In Progress"
+    <span style="color:#2563eb;font-weight:700;">●</span> ONE network is being built. The public surface is reachable today at [network.expl.one](https://network.expl.one); the operations layer is being built out alongside the EXPL Nodes program that runs it.
 
 ONE network is the core blockchain infrastructure powering the ONE ecosystem. The public surface is reachable today at [network.expl.one](https://network.expl.one), and the operational layer is being built out alongside the EXPL Nodes program that runs it. Parts are live; parts are still being assembled.
 

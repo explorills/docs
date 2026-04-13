@@ -1,13 +1,14 @@
 ---
 title: ONE chat
-description: Real-time messaging for the ONE ecosystem — in progress.
+description: Real-time messaging for the ONE ecosystem — in progress. Communication layer for other ONE projects; project surface live, messaging experience in progress.
 ---
 
 # ONE chat
 
-!!! info "Status"
-    **Status:** In Progress
-    **Accent color:** `#dfdfdf`
+<span class="status-in-progress">In Progress</span>
+
+!!! note "Status — In Progress"
+    <span style="color:#dfdfdf;font-weight:700;">●</span> ONE chat is being built. The project surface is reachable today at [chat.expl.one](https://chat.expl.one); the messaging experience is being built.
 
 ONE chat is the real-time messaging layer for the ONE ecosystem. The project surface is reachable today at [chat.expl.one](https://chat.expl.one), and the messaging experience is being built so authenticated people across every ONE project can talk to each other in real time.
 

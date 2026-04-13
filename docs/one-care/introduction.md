@@ -5,9 +5,10 @@ description: ONE care — a Coming Soon project in the ONE ecosystem. Details wi
 
 # ONE care
 
-!!! info status-coming-soon "Status"
-    **Status:** Coming Soon
-    **Accent color:** `#64748b`
+<span class="status-coming-soon">Coming Soon</span>
+
+!!! note "Status — Coming Soon"
+    <span style="color:#64748b;font-weight:700;">●</span> ONE care is a planned project in the ONE ecosystem. There is no live product page yet, and the scope is not committed.
 
 ONE care is a Coming Soon project in the ONE ecosystem. The name is on the published project map, and details will be added to this page as the scope and shape of the work become clearer. There is no live URL yet.
 

@@ -1,13 +1,14 @@
 ---
 title: ONE ID
-description: Universal digital identity for the ONE ecosystem — in progress.
+description: Universal digital identity for the ONE ecosystem — in progress. Identity layer for every ONE project; landing page live, verification flow in progress.
 ---
 
 # ONE ID
 
-!!! info "Status"
-    **Status:** In Progress
-    **Accent color:** `#92400e`
+<span class="status-in-progress">In Progress</span>
+
+!!! note "Status — In Progress"
+    <span style="color:#92400e;font-weight:700;">●</span> ONE ID is being built. The project page is reachable today at [id.expl.one](https://id.expl.one); the public verification flow is not yet open.
 
 ONE ID is the universal digital identity layer for the ONE ecosystem. The project page is reachable today at [id.expl.one](https://id.expl.one), and the verification flow is being built so a single verified identity can move across every ONE project. The live surface is up; the public verification flow is not yet open.
 
