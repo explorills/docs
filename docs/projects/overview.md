@@ -5,65 +5,55 @@
   <p><strong>ONE ecosystem // powered by EXPL Nodes</strong></p>
 </div>
 
-The ONE ecosystem is a set of interconnected projects, each serving a distinct function within decentralized infrastructure. All projects run on infrastructure operated by EXPL Nodes.
+The ONE ecosystem is a set of interconnected projects, each serving a distinct function within decentralized infrastructure. All projects run on infrastructure operated by EXPL Nodes. Across the ecosystem there are **1 Deployed**, **7 In Progress**, and **4 Coming Soon** projects today.
 
 ---
 
-## Active Projects
+## Deployed
 
-### <span style="color: #ffffff;">ONE</span> <span style="color: #16a34a;">pump</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #2563eb;">chain</span>
 
-**Token Sentiment Tracking and Voting**
+**Sovereign gas-free EVM blockchain**
 
-Daily token voting with EXPL point rewards, streak challenges, and community sentiment leaderboards.
+Sovereign, gas-free, EVM-compatible blockchain for the ONE ecosystem — the foundational chain the other ONE projects build on. The only ONE project at the **Deployed** stage today.
+
+- **Status**: Deployed
+- **URL**: [chain.expl.one](https://chain.expl.one){:target="_blank"}
+- **Docs**: [ONE chain Documentation](../one-chain/introduction.md)
+
+---
+
+## In Progress
+
+### <span style="color: #ffffff;">ONE</span> <span style="color: #92400e;">ID</span>
+
+**Universal digital identity**
+
+Identity layer for the ONE ecosystem — one verified person, one identity, intended to move across every ONE project. The project page is reachable today; the public verification flow is being built.
 
 - **Status**: In Progress
-- **URL**: [pump.expl.one](https://pump.expl.one){:target="_blank"}
-- **Docs**: [ONE pump Documentation](../one-pump/introduction.md)
-
----
-
-### <span style="color: #ffffff;">ONE</span> <span style="color: #2563eb;">network</span>
-
-**Blockchain Infrastructure**
-
-The foundational layer powering the ecosystem. Secured by EXPL Nodes, handling transactions, smart contracts, and liquidity infrastructure.
-
-- **Status**: In Progress
-- **URL**: [network.expl.one](https://network.expl.one){:target="_blank"}
-- **Docs**: [ONE network Documentation](../one-network/introduction.md)
-
----
-
-### <span style="color: #ffffff;">ONE</span> <span style="color: #ec4899;">world</span>
-
-**Metaverse and Digital Experiences**
-
-Virtual environment platform for interaction, content creation, and digital asset management. Integrates ONE id identity with blockchain-based economics.
-
-- **Status**: In Progress (Beta Q4 2026)
-- **URL**: [world.expl.one](https://world.expl.one){:target="_blank"}
-- **Docs**: [ONE world Documentation](../one-world/introduction.md)
-
----
-
-### <span style="color: #ffffff;">ONE</span> <span style="color: #92400e;">id</span>
-
-**Biometric Identity**
-
-Client-side facial recognition combined with on-chain wallet signature verification. One credential grants access across the entire ONE ecosystem.
-
-- **Status**: Pre-release
 - **URL**: [id.expl.one](https://id.expl.one){:target="_blank"}
-- **Docs**: [ONE id Documentation](../one-id/introduction.md)
+- **Docs**: [ONE ID Documentation](../one-id/introduction.md)
+
+---
+
+### <span style="color: #ffffff;">ONE</span> <span style="color: #7c3aed;">box</span>
+
+**Mystery experience platform**
+
+Mystery experience platform inside the ONE ecosystem. The product, mechanics, and scope are intentionally undisclosed; a teaser landing page is reachable today and the rest will be shared at launch.
+
+- **Status**: In Progress
+- **URL**: [box.expl.one](https://box.expl.one){:target="_blank"}
+- **Docs**: [ONE box Documentation](../one-box/introduction.md)
 
 ---
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #06b6d4;">deal</span>
 
-**NFT Marketplace**
+**EVM-compatible NFT marketplace**
 
-Buy, sell, send, and receive digital assets across EVM-compatible networks. Fixed-price transactions, peer-to-peer transfers, and collection discovery. Authenticated through ONE id.
+NFT marketplace for the ONE ecosystem with a fixed-price model and ONE ID sign-in. The marketplace frontend and the ONE ID sign-in flow are reachable on the live site today; the on-chain transaction layer is in progress.
 
 - **Status**: In Progress
 - **URL**: [deal.expl.one](https://deal.expl.one){:target="_blank"}
@@ -73,9 +63,9 @@ Buy, sell, send, and receive digital assets across EVM-compatible networks. Fixe
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #dfdfdf;">chat</span>
 
-**Ecosystem-wide Real-time Chat**
+**Real-time messaging**
 
-WebSocket-based multi-channel chat embedded across all ONE projects. Message editing, reactions, replies, @mentions, typing indicators, unread tracking, and Discord bridge. Authenticated through ONE id.
+Real-time messaging layer for the ONE ecosystem — intended as an in-ecosystem communication channel that other ONE projects can consume. The project surface is reachable today; the messaging experience is being built.
 
 - **Status**: In Progress
 - **URL**: [chat.expl.one](https://chat.expl.one){:target="_blank"}
@@ -83,34 +73,77 @@ WebSocket-based multi-channel chat embedded across all ONE projects. Message edi
 
 ---
 
-### <span style="color: #ffffff;">ONE</span> <span style="color: #7c3aed;">box</span>
+### <span style="color: #ffffff;">ONE</span> <span style="color: #16a34a;">pump</span>
 
-**Mystery Experience Platform**
+**Decentralized token launch and trading**
 
-Details unrevealed. Teaser landing page is live; full concept will be disclosed at launch.
+Token launch and trading surface for the ONE ecosystem. Today the live experience covers daily voting, EXPL points, streaks, and leaderboards; the broader launch and trading layer is being built around it.
 
 - **Status**: In Progress
-- **URL**: [box.expl.one](https://box.expl.one){:target="_blank"}
-- **Docs**: [ONE box Documentation](../one-box/introduction.md)
+- **URL**: [pump.expl.one](https://pump.expl.one){:target="_blank"}
+- **Docs**: [ONE pump Documentation](../one-pump/introduction.md)
+
+---
+
+### <span style="color: #ffffff;">ONE</span> <span style="color: #ec4899;">world</span>
+
+**Metaverse for the ONE ecosystem**
+
+Planned metaverse layer for the ONE ecosystem — a place where digital experiences across the ecosystem can connect. The project page marks its place in the ecosystem; the in-world experience is being built.
+
+- **Status**: In Progress
+- **URL**: [world.expl.one](https://world.expl.one){:target="_blank"}
+- **Docs**: [ONE world Documentation](../one-world/introduction.md)
+
+---
+
+### <span style="color: #ffffff;">ONE</span> <span style="color: #2563eb;">network</span>
+
+**Core blockchain infrastructure**
+
+Operations layer of the ONE ecosystem, run and maintained by the EXPL Nodes operator base. The public surface is reachable today; the operational layer is being built out alongside the EXPL Nodes program.
+
+- **Status**: In Progress
+- **URL**: [network.expl.one](https://network.expl.one){:target="_blank"}
+- **Docs**: [ONE network Documentation](../one-network/introduction.md)
 
 ---
 
 ## Coming Soon
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #dc2626;">agent</span>
-**Status**: Coming Soon
+
+A reserved slot in the ONE ecosystem for an agent-shaped project. There is no live product page yet, and the scope is not committed. Details will be shared as the work matures.
+
+- **Status**: Coming Soon
+- **Docs**: [ONE agent Documentation](../one-agent/introduction.md)
+
+---
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #facc15;">venture</span>
-**Status**: Coming Soon
+
+A Coming Soon project in the ONE ecosystem. The name is on the published project map; details will be added as the scope and shape of the work become clearer. There is no live URL yet.
+
+- **Status**: Coming Soon
+- **Docs**: [ONE venture Documentation](../one-venture/introduction.md)
+
+---
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #64748b;">care</span>
-**Status**: Coming Soon
 
-### <span style="color: #ffffff;">ONE</span> <span style="color: #ef5609;">merch</span>
-**Status**: Coming Soon
+A Coming Soon project in the ONE ecosystem. The name is on the published project map; details will be added as the scope and shape of the work become clearer. There is no live URL yet.
+
+- **Status**: Coming Soon
+- **Docs**: [ONE care Documentation](../one-care/introduction.md)
+
+---
 
 ### <span style="color: #ffffff;">ONE</span> <span style="color: #84cc16;">space</span>
-**Status**: Coming Soon
+
+A Coming Soon project in the ONE ecosystem. The name is on the published project map; details will be added as the scope and shape of the work become clearer. There is no live URL yet.
+
+- **Status**: Coming Soon
+- **Docs**: [ONE space Documentation](../one-space/introduction.md)
 
 ---
 
@@ -132,4 +165,3 @@ All projects run on infrastructure secured by EXPL Nodes. Node operators maintai
 
 !!! tip "Stay Updated"
     Follow [@explorills_main](https://x.com/explorills_main){:target="_blank"} on X or join [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"} for project updates.
-

@@ -1,97 +1,50 @@
-# <span style="color: #ffffff;">ONE</span> <span style="color: #06b6d4;">deal</span>
-
-<div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
-  <p><span style="color: #ffffff;">ONE</span> <span style="color: #06b6d4; font-size: 1.5em; font-weight: 600;">deal</span></p>
-  <p><strong>NFT Marketplace</strong></p>
-</div>
-
-**ONE deal** is the NFT marketplace for the ONE ecosystem. Buy, sell, send, and receive digital assets across EVM-compatible networks through a fixed-price model — no auctions, no bidding.
-
-**Platform**: [deal.expl.one](https://deal.expl.one){:target="_blank"}
-
+---
+title: ONE deal
+description: EVM-compatible NFT marketplace for the ONE ecosystem. Marketplace frontend and ONE ID sign-in live today; on-chain transaction layer in progress.
 ---
 
-## Overview
+# ONE deal
 
-ONE deal handles digital asset exchange within the ecosystem. The interface supports listing, purchasing, and peer-to-peer transfers. Users authenticate through ONE id, so a single identity works across all ONE projects.
+<span class="status-in-progress">In Progress</span>
 
-Key capabilities:
+!!! note "Status — In Progress"
+    <span style="color:#06b6d4;font-weight:700;">●</span> ONE deal is being built. The marketplace frontend is reachable today on [deal.expl.one](https://deal.expl.one) and uses ONE ID for sign-in; the on-chain transaction layer is still in progress.
 
-- **Buy / Sell** — Fixed-price NFT transactions
-- **Send / Receive** — Direct wallet-to-wallet transfers from your profile
-- **Collection browsing** — Explore collections with filtering and sorting
-- **Profile management** — View holdings, track activity, manage assets
-- **Cross-ecosystem identity** — ONE id authentication; one account, all platforms
+## What it does and what's coming
 
----
+ONE deal is the EVM-compatible NFT marketplace for the ONE ecosystem. The user-facing interface follows a simple fixed-price model — no auctions or bidding flows — and identity flows in from ONE ID so a single account works across the ecosystem.
 
-## Technology Stack
+### Today you can…
 
-- **Frontend**: React 19, TypeScript
-- **Build Tool**: Bun, Vite
-- **Styling**: Tailwind CSS
-- **Icons**: Phosphor Icons
-- **Animations**: Framer Motion
-- **Routing**: React Router
-- **Notifications**: Sonner
-- **Authentication**: ONE id via `@explorills/one-ecosystem-ui`
-- **Wallet**: wagmi, viem, Reown AppKit
+- Visit the marketplace interface at [deal.expl.one](https://deal.expl.one).
+- Sign in with the ecosystem-wide ONE ID wallet flow.
+- Browse collections and explore listings through the frontend.
+- View a profile page that surfaces holdings and activity.
 
----
+### In progress…
 
-## Architecture
+- On-chain transaction execution — the backend that turns the fixed-price interface into a fully on-chain buy and sell.
+- Direct wallet-to-wallet send and receive across EVM-compatible networks.
+- Deeper integration with the rest of the ONE projects.
 
-```
-one-deal/
-├── src/
-│   ├── components/
-│   │   ├── layout/       # Page layout shell
-│   │   ├── nft/          # NFT cards, grids
-│   │   ├── search/       # Search and filtering
-│   │   └── ui/           # Shared primitives
-│   ├── pages/            # Route-level page components
-│   ├── lib/              # Utilities, constants, contracts
-│   └── styles/           # Global styles
-├── .github/workflows/    # CI/CD pipeline
-└── package.json
-```
+Specific delivery dates are not committed here; broader timing lives in the roadmap.
 
-Authentication is delegated to the shared `@explorills/one-ecosystem-ui` package. ONE deal wraps the application in `OneIdProvider` and does not implement wallet connection or session logic directly.
+## How it fits
 
----
+ONE deal is one of the user-facing surfaces of the ONE ecosystem and shares its identity and infrastructure layers with the other ONE projects.
 
-## Integration with ONE id
+- Sign-in is delegated to the ecosystem-wide identity layer — see [ONE ID](../one-id/introduction.md).
+- It runs on the same shared backbone as the rest of the projects — see [ONE network](../one-network/introduction.md).
+- It is one of several projects coordinated under the [Projects Overview](../projects/overview.md).
+- Like every ONE project, it is operated through nodes — see the [EXPL Nodes introduction](../nodes/introduction.md).
+- Return to the [documentation home](../index.md) to see how the projects connect.
 
-ONE deal uses ONE id as its authentication layer. Users connect their wallet through the ecosystem-wide ONE id widget, which handles:
+## Current state
 
-- Wallet discovery via Reown AppKit
-- Signature-based authentication
-- User registration and session management
+ONE deal is marked **In Progress**. The marketplace frontend, the ONE ID sign-in flow, and the browsing experience are reachable on the live site today. The backend that executes on-chain transactions is being built and is not yet live. Scope and behavior may evolve before the full release.
 
-No additional wallet configuration is required in ONE deal.
+## Learn more
 
----
-
-## Roadmap Status
-
-**Current Status**: In Progress
-
-The marketplace interface is deployed at [deal.expl.one](https://deal.expl.one){:target="_blank"} with the frontend operational. Backend integration for on-chain transactions is planned for a subsequent phase.
-
-[:octicons-arrow-right-24: View Complete 2026 Roadmap](../roadmap-2026.md)
-
----
-
-## Additional Resources
-
-- **GitHub**: [ONE deal Repository](https://github.com/explorills/one-deal){:target="_blank"}
-- **Support**: [support@expl.one](mailto:support@expl.one)
-- **Community**: [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
-
----
-
-!!! info "Powered by EXPL Nodes"
-    ONE deal runs on infrastructure operated by EXPL Nodes.
-
-    [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
+- Live site: [deal.expl.one](https://deal.expl.one)
+- Roadmap context: [2026 Roadmap](../roadmap-2026.md)
+- Project status across the ecosystem: [Projects Overview](../projects/overview.md)

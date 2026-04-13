@@ -1,56 +1,46 @@
-# <span style="color: #ffffff;">ONE</span> <span style="color: #7c3aed;">box</span>
-
-<div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
-  <p><span style="color: #ffffff;">ONE</span> <span style="color: #7c3aed; font-size: 1.5em; font-weight: 600;">box</span></p>
-  <p><strong>Mystery Experience Platform</strong></p>
-</div>
-
-**ONE box** is an unrevealed experience within the ONE ecosystem. The concept, mechanics, and full details will be disclosed at launch.
-
-**Platform**: [box.expl.one](https://box.expl.one){:target="_blank"}
-
+---
+title: ONE box
+description: Mystery experience platform for the ONE ecosystem. Product details will be revealed at launch; a teaser landing page is live on box.expl.one.
 ---
 
-## Overview
+# ONE box
 
-ONE box is in active development with a teaser landing page live at [box.expl.one](https://box.expl.one){:target="_blank"}. What it does, how it works, and how it connects to the rest of the ecosystem will be announced when the project launches.
+<span class="status-in-progress">In Progress</span>
 
-The codebase is open source. If you want to look under the hood before launch, the repository is public.
+!!! note "Status — In Progress"
+    <span style="color:#7c3aed;font-weight:700;">●</span> ONE box is being built. The product is intentionally unrevealed; a teaser landing page is reachable today on [box.expl.one](https://box.expl.one), and the rest will be announced at launch.
 
----
+## What it does and what's coming
 
-## Technology Stack
+ONE box is a mystery experience platform inside the ONE ecosystem. The concept and mechanics are deliberately not described before launch. Anything beyond the canonical "mystery experience platform" framing will be shared at the time the product opens — not before.
 
-- **Frontend**: React 19, TypeScript
-- **Build Tool**: Bun, Vite
-- **Styling**: Tailwind CSS
-- **UI Components**: Shadcn UI (Radix primitives)
-- **Icons**: Phosphor Icons
-- **Animations**: Framer Motion
-- **Authentication**: ONE id via `@explorills/one-ecosystem-ui`
+### Today you can…
 
----
+- Visit the teaser landing page at [box.expl.one](https://box.expl.one).
+- Follow the ecosystem's channels for the launch announcement.
 
-## Roadmap Status
+### In progress…
 
-**Current Status**: In Progress
+- The ONE box product itself.
+- Its connection to the rest of the ONE ecosystem.
 
-The landing page is deployed. Full product launch is part of the 2026 roadmap.
+Specific delivery dates and product details are not committed here; broader timing lives in the roadmap, and the full reveal will happen at launch.
 
-[:octicons-arrow-right-24: View Complete 2026 Roadmap](../roadmap-2026.md)
+## How it fits
 
----
+ONE box is one of the projects inside the ONE ecosystem and shares its foundation with the others.
 
-## Additional Resources
+- It is intended to lean on the same shared backbone as the rest of the projects — see [ONE network](../one-network/introduction.md).
+- It is one of several projects coordinated under the [Projects Overview](../projects/overview.md).
+- Like every ONE project, it is operated through nodes — see the [EXPL Nodes introduction](../nodes/introduction.md).
+- Return to the [documentation home](../index.md) to see how the projects connect.
 
-- **GitHub**: [ONE box Repository](https://github.com/explorills/one-box){:target="_blank"}
-- **Support**: [support@expl.one](mailto:support@expl.one)
-- **Community**: [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
+## Current state
 
----
+ONE box is marked **In Progress**. Today, the only public surface is the teaser landing page on the live site. The product, its mechanics, and its scope are intentionally undisclosed and will be shared at launch. Everything on this page may be revised when more is announced.
 
-!!! info "Powered by EXPL Nodes"
-    ONE box runs on infrastructure operated by EXPL Nodes.
+## Learn more
 
-    [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
+- Project page: [box.expl.one](https://box.expl.one)
+- Roadmap context: [2026 Roadmap](../roadmap-2026.md)
+- Project status across the ecosystem: [Projects Overview](../projects/overview.md)
