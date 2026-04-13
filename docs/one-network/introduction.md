@@ -5,8 +5,11 @@ description: Core blockchain infrastructure powering ONE. The in-progress operat
 
 # ONE network
 
-!!! info "Status: In Progress"
-    ONE network is the in-progress core blockchain infrastructure layer of the ONE ecosystem. Some pieces are live today; others are still being assembled.
+!!! info "Status"
+    **Status:** In Progress
+    **Accent color:** `#2563eb`
+
+ONE network is the core blockchain infrastructure powering the ONE ecosystem. The public surface is reachable today at [network.expl.one](https://network.expl.one), and the operational layer is being built out alongside the EXPL Nodes program that runs it. Parts are live; parts are still being assembled.
 
 ## What it does and what's coming
 
@@ -24,14 +27,11 @@ ONE network is the operational layer of the ONE ecosystem. It is the core blockc
 - Ongoing build-out of the surfaces ONE network needs to serve the rest of the ONE projects.
 - We do not publish a feature list or delivery schedule for work that has not shipped. The [2026 roadmap](../roadmap-2026.md) is the canonical place to watch for milestone changes.
 
-## How it fits
+## How it fits into the ecosystem
 
-ONE network is the operations layer the rest of the ecosystem leans on.
+ONE network is the operations layer the rest of the ecosystem leans on. The [EXPL Nodes](../nodes/introduction.md) program is the operator base of ONE network — node operators run and earn from the network, and the canonical EXPL Nodes documentation is the place to start if you want to participate.
 
-- The [EXPL Nodes](../nodes/introduction.md) program is the operator base of ONE network. Node operators run and earn from the network.
-- [ONE pump](../one-pump/introduction.md), [ONE deal](../one-deal/introduction.md), and the other ONE projects use ONE network as their underlying infrastructure layer.
-- The [tokenomics framework](../tokenomics/introduction.md) describes how EXPL moves through the ecosystem.
-- For a single-page view of every ONE project alongside ONE network, see the [projects overview](../projects/overview.md).
+The other ONE projects sit on top of ONE network as their underlying infrastructure layer. [ONE pump](../one-pump/introduction.md) and [ONE ID](../one-id/introduction.md) are two of the in-progress services that depend on it, and the [tokenomics framework](../tokenomics/introduction.md) describes how EXPL moves through the ecosystem the network supports. For a single-page view of every ONE project alongside ONE network, see the [projects overview](../projects/overview.md).
 
 ## Current state
 
@@ -41,6 +41,7 @@ If a feature is not described above, treat it as not yet committed.
 
 ## Learn more
 
-- Project page: [network.expl.one](https://network.expl.one)
+- Live product: [network.expl.one](https://network.expl.one)
+- Main ONE ecosystem landing: [expl.one](https://expl.one)
 - EXPL Nodes program: [How to purchase a node](../nodes/how-to-purchase-node.md)
 - Roadmap: [2026 roadmap](../roadmap-2026.md)
