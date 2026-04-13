@@ -1,112 +1,51 @@
-# <span style="color: #ffffff;">ONE</span> <span style="color: #92400e;">id</span>
-
-<div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/images/logo.png" alt="EXPL.ONE Logo" width="125" />
-  <p><span style="color: #ffffff;">ONE</span> <span style="color: #92400e; font-size: 1.5em; font-weight: 600;">id</span></p>
-  <p><strong>Decentralized Biometric Identity for the ONE Ecosystem</strong></p>
-</div>
-
-**ONE id** is a biometric identity service. Verify once through client-side facial recognition, associate one or more wallet addresses, and use the resulting credential across every application in the ONE ecosystem.
-
-**Platform**: [id.expl.one](https://id.expl.one){:target="_blank"}
-
+---
+title: ONE ID
+description: Universal digital identity for the ONE ecosystem — in progress.
 ---
 
-## Overview
+# ONE ID
 
-ONE id solves a core problem in decentralized applications: proving that a user is a unique human without relying on centralized identity providers. It combines browser-based biometric enrollment with on-chain wallet signature verification to produce a single reusable credential.
+!!! info "Status"
+    **Status:** In Progress
+    **Accent color:** `#92400e`
 
-One verification. Every application. No centralized authority.
+ONE ID is the universal digital identity layer for the ONE ecosystem. The project page is reachable today at [id.expl.one](https://id.expl.one), and the verification flow is being built so a single verified identity can move across every ONE project. The live surface is up; the public verification flow is not yet open.
 
----
+## What it does and what's coming
 
-## How It Works
+ONE ID is the identity layer of the ecosystem. The intent is one verified person, one identity, usable across every ONE project — from [ONE pump](../one-pump/introduction.md) to [ONE deal](../one-deal/introduction.md) to [ONE chat](../one-chat/introduction.md) to [ONE world](../one-world/introduction.md).
 
-1. **Scan** — Your device camera captures a facial scan. A 128-dimensional mathematical descriptor is generated entirely in the browser. No raw biometric data leaves your device.
-2. **Sign** — Connect one or more EVM-compatible wallets and sign a verification message. The signature cryptographically binds your wallets to your biometric descriptor.
-3. **Access** — Your verified identity propagates across the ONE ecosystem. One credential grants access to every application.
+**Today you can…**
 
----
+- Reach the live project surface at [id.expl.one](https://id.expl.one).
+- Read the canonical [main ecosystem landing](https://expl.one) for ONE ID's place in the project map.
+- Follow the published [Distribution Framework](../distribution-framework/introduction.md): 45% to EXPL Nodes, 45% to ONE Creators, 10% to founders.
 
-## Core Features
+**In progress…**
 
-### Biometric Enrollment
+- Building out the public verification flow so people can establish a ONE ID and use it across the ecosystem.
+- Wiring the identity layer into the other ONE projects, so a single verified identity is reusable everywhere.
+- We do not publish a feature list or delivery schedule for work that has not shipped. The [2026 roadmap](../roadmap-2026.md) is the canonical place to watch for milestone changes.
 
-- Client-side facial recognition powered by [face-api.js](https://github.com/justadudewhohacks/face-api.js) (TensorFlow.js-based)
-- 128-dimensional mathematical descriptor generated entirely in the browser
-- No raw image or video data transmitted or stored
-- Three-point consecutive detection for reliable verification
+## How it fits into the ecosystem
 
-### Wallet Association
+ONE ID is the connective layer for the rest of the ecosystem. Almost every ONE project benefits from having a verified person on the other end of an interaction, and ONE ID is the place where that verification will live.
 
-- Connect one or more EVM-compatible wallets via [RainbowKit](https://www.rainbowkit.com/)
-- Cryptographic signature binds wallet addresses to the biometric descriptor
-- Multi-wallet support under a single identity
+The cross-ecosystem picture:
 
-### Unified Access
+- [ONE pump](../one-pump/introduction.md), [ONE deal](../one-deal/introduction.md), and [ONE chat](../one-chat/introduction.md) are user-facing projects that can use ONE ID as the identity behind the wallet.
+- [ONE world](../one-world/introduction.md) and [ONE box](../one-box/introduction.md) can use ONE ID to anchor experiences to a verified person.
+- [ONE network](../one-network/introduction.md) is the operational layer that ONE ID, like the rest of the ecosystem, depends on.
+- The [EXPL Nodes](../nodes/introduction.md) program runs the underlying infrastructure that the whole ecosystem — ONE ID included — leans on.
+- For a single-page view of every ONE project, see the [projects overview](../projects/overview.md).
 
-- Single verified identity across all ONE ecosystem applications
-- Authenticate once, operate everywhere
-- Sybil-resistant protocol prevents duplicate accounts
+## Current state
 
----
+ONE ID is **In Progress**. The public project page is live at [id.expl.one](https://id.expl.one); the public verification flow is not yet open. To create a ONE ID once it ships, watch the live surface and the [2026 roadmap](../roadmap-2026.md). This page is updated when something verifiable ships, not before. If a feature is not described above, treat it as not yet committed.
 
-## Privacy Model
+## Learn more
 
-ONE id implements a privacy-first architecture:
-
-- **Client-side processing** — All facial recognition runs locally in the browser
-- **Encrypted descriptors** — Only an encrypted mathematical representation is stored server-side
-- **Zero raw data retention** — No face images, video frames, or raw biometric data are retained or transmitted
-- **Non-reversible** — The stored descriptor cannot be reversed to reconstruct a facial image
-- **Sovereign identity** — Users control their own biometric data
-
----
-
-## Use Cases
-
-- **Sybil resistance** — Prevent duplicate accounts and bot activity across ONE applications
-- **Cross-application identity** — One verification grants access to ONE pump, ONE deal, ONE chat, ONE world, ONE network, and all future projects
-- **Trustless verification** — Prove uniqueness without revealing personal information
-- **Multi-wallet management** — Associate multiple wallet addresses under one verified identity
-
----
-
-## Core Philosophy
-
-Like every project in the ONE ecosystem, ONE id is built on three principles:
-
-- **Open Source** — Every line of code is publicly available on GitHub
-- **Community-Driven** — Built by and for the community
-- **Fair Revenue Model** — 45% to ONE Creators, 45% to EXPL Nodes, 10% to the Foundation
-
----
-
-## Roadmap Status
-
-**Current Status**: Pre-release
-
-The landing page is deployed at [id.expl.one](https://id.expl.one){:target="_blank"} with verification currently disabled. Backend integration, biometric enrollment, and wallet association are implemented but not yet publicly accessible.
-
-[:octicons-arrow-right-24: View Complete 2026 Roadmap](../roadmap-2026.md)
-
----
-
-## Get Started
-
-Visit [id.expl.one](https://id.expl.one){:target="_blank"} for more about ONE id and to stay updated on the verification launch.
-
----
-
-## Additional Resources
-
-- **GitHub**: [ONE id Repository](https://github.com/explorills/one-id){:target="_blank"}
-- **Support**: [support@expl.one](mailto:support@expl.one)
-- **Community**: [Discord](https://discord.com/invite/RetTCVq7tJ){:target="_blank"}
-
----
-
-!!! info "Powered by EXPL Nodes"
-    ONE id is secured and operated through the ONE ecosystem infrastructure, powered by EXPL Nodes.
-
-    [:octicons-arrow-right-24: Learn About EXPL Nodes](../nodes/introduction.md)
+- Live product: [id.expl.one](https://id.expl.one)
+- Main ONE ecosystem landing: [expl.one](https://expl.one)
+- EXPL Nodes program: [How to purchase a node](../nodes/how-to-purchase-node.md)
+- Roadmap: [2026 roadmap](../roadmap-2026.md)
