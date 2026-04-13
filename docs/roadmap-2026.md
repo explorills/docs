@@ -74,7 +74,7 @@ Projects in active development alongside the milestones above:
 
 | Project | Status | Link |
 |---------|--------|------|
-| **ONE id** | In Progress | [id.expl.one](https://id.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-id/introduction.md) |
+| **ONE ID** | In Progress | [id.expl.one](https://id.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-id/introduction.md) |
 | **ONE deal** | In Progress | [deal.expl.one](https://deal.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-deal/introduction.md) |
 | **ONE chat** | In Progress | [chat.expl.one](https://chat.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-chat/introduction.md) |
 | **ONE box** | In Progress | [box.expl.one](https://box.expl.one){:target="_blank"} — [:octicons-arrow-right-24: Docs](one-box/introduction.md) |

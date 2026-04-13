@@ -32,7 +32,7 @@ Specific delivery dates are not committed here; broader timing lives in the road
 ONE world is one of the user-facing surfaces planned for the ONE ecosystem and shares its foundation with the other ONE projects.
 
 - It is intended to lean on the same shared backbone as the rest of the projects — see [ONE network](../one-network/introduction.md).
-- Identity is intended to flow in from the ecosystem-wide identity layer — see [ONE id](../one-id/introduction.md).
+- Identity is intended to flow in from the ecosystem-wide identity layer — see [ONE ID](../one-id/introduction.md).
 - It is one of several projects coordinated under the [Projects Overview](../projects/overview.md).
 - Like every ONE project, it is operated through nodes — see the [EXPL Nodes introduction](../nodes/introduction.md).
 - Return to the [documentation home](../index.md) to see how the projects connect.

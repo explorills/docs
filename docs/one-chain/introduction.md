@@ -33,7 +33,7 @@ Public network parameters (chain ID, RPC endpoints, explorer URLs, and similar) 
 ONE chain is the substrate the rest of the ONE ecosystem builds on. Every other ONE project is intended to settle, identify, and exchange value through it.
 
 - The wider operations layer that surrounds the chain is documented under [ONE network](../one-network/introduction.md).
-- Identity flows from the ecosystem-wide identity layer — see [ONE id](../one-id/introduction.md).
+- Identity flows from the ecosystem-wide identity layer — see [ONE ID](../one-id/introduction.md).
 - The user-facing surfaces that build on ONE chain include [ONE pump](../one-pump/introduction.md), [ONE deal](../one-deal/introduction.md), [ONE chat](../one-chat/introduction.md), [ONE world](../one-world/introduction.md), and [ONE box](../one-box/introduction.md).
 - The chain is operated through the same node program as the rest of the ecosystem — see the [EXPL Nodes introduction](../nodes/introduction.md).
 - For a single-page view of every ONE project alongside ONE chain, see the [Projects Overview](../projects/overview.md).

@@ -3,7 +3,7 @@ title: ONE ecosystem documentation
 description: Entry point for the ONE ecosystem documentation. 1 Deployed chain, 7 In Progress projects, 4 Coming Soon slots, plus the 2026 roadmap and EXPL Nodes program.
 ---
 
-The ONE ecosystem is a coordinated set of projects sharing one chain ([ONE chain](one-chain/introduction.md)), one identity layer ([ONE id](one-id/introduction.md)), one native token (EXPL), and one revenue split. Every project is operated through the same node program — see the [EXPL Nodes introduction](nodes/introduction.md). All code is open source on [GitHub](https://github.com/explorills){:target="_blank"}.
+The ONE ecosystem is a coordinated set of projects sharing one chain ([ONE chain](one-chain/introduction.md)), one identity layer ([ONE ID](one-id/introduction.md)), one native token (EXPL), and one revenue split. Every project is operated through the same node program — see the [EXPL Nodes introduction](nodes/introduction.md). All code is open source on [GitHub](https://github.com/explorills){:target="_blank"}.
 
 ---
 
@@ -29,7 +29,7 @@ The ONE ecosystem is a coordinated set of projects sharing one chain ([ONE chain
 
 <div class="grid cards" markdown>
 
--   **ONE id** &nbsp; <span class="status-in-progress">In Progress</span>
+-   **ONE ID** &nbsp; <span class="status-in-progress">In Progress</span>
 
     ---
 
@@ -208,7 +208,7 @@ This split is enforced at the protocol level and applies to every product in the
 | **ONE pump** | [pump.expl.one](https://pump.expl.one){:target="_blank"} |
 | **ONE network** | [network.expl.one](https://network.expl.one){:target="_blank"} |
 | **ONE world** | [world.expl.one](https://world.expl.one){:target="_blank"} |
-| **ONE id** | [id.expl.one](https://id.expl.one){:target="_blank"} |
+| **ONE ID** | [id.expl.one](https://id.expl.one){:target="_blank"} |
 | **ONE deal** | [deal.expl.one](https://deal.expl.one){:target="_blank"} |
 | **ONE chat** | [chat.expl.one](https://chat.expl.one){:target="_blank"} |
 | **ONE box** | [box.expl.one](https://box.expl.one){:target="_blank"} |
