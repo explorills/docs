@@ -5,6 +5,8 @@ description: EVM-compatible NFT marketplace for the ONE ecosystem. Marketplace f
 
 # ONE deal
 
+<span class="status-in-progress">In Progress</span>
+
 !!! note "Status — In Progress"
     <span style="color:#06b6d4;font-weight:700;">●</span> ONE deal is being built. The marketplace frontend is reachable today on [deal.expl.one](https://deal.expl.one) and uses ONE id for sign-in; the on-chain transaction layer is still in progress.
 

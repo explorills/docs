@@ -5,6 +5,8 @@ description: Metaverse for the ONE ecosystem connecting digital experiences — 
 
 # ONE world
 
+<span class="status-in-progress">In Progress</span>
+
 !!! note "Status — In Progress"
     <span style="color:#ec4899;font-weight:700;">●</span> ONE world is in active development. The project page at [world.expl.one](https://world.expl.one) marks its place in the ecosystem; the in-world experience is being built.
 

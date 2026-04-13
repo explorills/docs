@@ -5,6 +5,8 @@ description: Mystery experience platform for the ONE ecosystem. Product details 
 
 # ONE box
 
+<span class="status-in-progress">In Progress</span>
+
 !!! note "Status — In Progress"
     <span style="color:#7c3aed;font-weight:700;">●</span> ONE box is being built. The product is intentionally unrevealed; a teaser landing page is reachable today on [box.expl.one](https://box.expl.one), and the rest will be announced at launch.
 

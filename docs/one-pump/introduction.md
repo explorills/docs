@@ -5,6 +5,8 @@ description: Decentralized token launch and trading platform for the ONE ecosyst
 
 # ONE pump
 
+<span class="status-in-progress">In Progress</span>
+
 !!! note "Status — In Progress"
     <span style="color:#16a34a;font-weight:700;">●</span> ONE pump is being built. The voting and rewards layer is reachable today on [pump.expl.one](https://pump.expl.one); the broader launch and trading surface is in active development.
 
