@@ -44,6 +44,7 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
+  - pymdownx.keys
   - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
@@ -91,14 +92,22 @@ nav:
       - Node Pricing Structure: nodes/node-pricing-structure.md
       - How to Purchase: nodes/how-to-purchase-node.md
   - ONE Projects:
-      - ONE pump: one-pump/introduction.md
-      - ONE network: one-network/introduction.md
-      - ONE world: one-world/introduction.md
-      - ONE id: one-id/introduction.md
-      - ONE box: one-box/introduction.md
-      - ONE deal: one-deal/introduction.md
-      - ONE chat: one-chat/introduction.md
-      - Projects Overview: projects/overview.md
+      - Overview: projects/overview.md
+      - Deployed:
+          - ONE chain: one-chain/introduction.md
+      - In Progress:
+          - ONE ID: one-id/introduction.md
+          - ONE box: one-box/introduction.md
+          - ONE deal: one-deal/introduction.md
+          - ONE chat: one-chat/introduction.md
+          - ONE pump: one-pump/introduction.md
+          - ONE world: one-world/introduction.md
+          - ONE network: one-network/introduction.md
+      - Coming Soon:
+          - ONE agent: one-agent/introduction.md
+          - ONE venture: one-venture/introduction.md
+          - ONE care: one-care/introduction.md
+          - ONE space: one-space/introduction.md
   - Tokenomics:
       - Tokenomics Introduction: tokenomics/introduction.md
       - General Overview: tokenomics/general-overview.md
