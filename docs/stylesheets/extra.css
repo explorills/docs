@@ -756,10 +756,16 @@ body {
   border-top: 1px solid var(--one-border-strong);
 }
 
-.md-footer-meta .md-footer-copyright,
-.md-footer-meta .md-footer-copyright__highlight {
+.md-footer-meta .md-copyright,
+.md-footer-meta .md-copyright__highlight,
+.md-footer-meta.md-typeset a {
   color: var(--one-fg);
   opacity: 1;
+}
+
+.md-footer-meta.md-typeset a:hover,
+.md-footer-meta.md-typeset a:focus {
+  color: var(--one-accent);
 }
 
 .md-footer__link {
