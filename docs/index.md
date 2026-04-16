@@ -205,13 +205,13 @@ This split is enforced at the protocol level and applies to every product in the
 | **Documentation** | [docs.expl.one](https://docs.expl.one){:target="_blank"} |
 | **EXPL Nodes** | [node.expl.one](https://node.expl.one){:target="_blank"} |
 | **ONE chain** | [chain.expl.one](https://chain.expl.one){:target="_blank"} |
-| **ONE pump** | [pump.expl.one](https://pump.expl.one){:target="_blank"} |
-| **ONE network** | [network.expl.one](https://network.expl.one){:target="_blank"} |
-| **ONE world** | [world.expl.one](https://world.expl.one){:target="_blank"} |
 | **ONE ID** | [id.expl.one](https://id.expl.one){:target="_blank"} |
+| **ONE box** | [box.expl.one](https://box.expl.one){:target="_blank"} |
 | **ONE deal** | [deal.expl.one](https://deal.expl.one){:target="_blank"} |
 | **ONE chat** | [chat.expl.one](https://chat.expl.one){:target="_blank"} |
-| **ONE box** | [box.expl.one](https://box.expl.one){:target="_blank"} |
+| **ONE pump** | [pump.expl.one](https://pump.expl.one){:target="_blank"} |
+| **ONE world** | [world.expl.one](https://world.expl.one){:target="_blank"} |
+| **ONE network** | [network.expl.one](https://network.expl.one){:target="_blank"} |
 
 ### Community
 
