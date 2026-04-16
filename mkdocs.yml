@@ -16,18 +16,9 @@ theme:
   logo: assets/images/logo.png
   favicon: assets/images/logo.png
   palette:
-    - scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - scheme: slate
       primary: custom
       accent: custom
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
   features:
     - navigation.instant
     - navigation.instant.progress
